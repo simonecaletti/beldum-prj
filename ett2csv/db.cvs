@@ -1,0 +1,7 @@
+specie,obj,ability,HP,Atk,Def,SpA,SpD,Spe,nature,iv_HP,iv_Atk,iv_Def,iv_SpA,iv_SpD,iv_Spe,move1,move2,move3,move4
+Indeedee (M),Focus Sash ,Psychic Surge,0,0,0,252,4,252,Timid,31,0,31,31,31,31,After You,Expanding Force,Imprison,Trick Room
+Sandaconda,Weakness Policy ,Sand Spit,252,252,0,0,4,0,Adamant,31,31,31,31,31,31,High Horsepower,Iron Head,Rock Slide,Protect
+Barraskewda,Choice Scarf ,Propeller Tail,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,Flip Turn,Psychic Fangs,Liquidation,Ice Fang
+Dracozolt,Life Orb ,Sand Rush,0,252,0,0,4,252,Adamant,31,31,31,31,31,31,Bolt Beak,Dragon Claw,Rock Slide,Aerial Ace
+Dracovish,Choice Band ,Sand Rush,0,252,0,0,4,252,Adamant,31,31,31,31,31,31,Fishious Rend,Psychic Fangs,Rock Slide,Leech Life
+Greedent,Sitrus Berry ,Cheek Pouch,248,252,4,0,4,0,Brave,31,31,31,31,31,0,Belly Drum,Body Slam,Crunch,Fire Fang
