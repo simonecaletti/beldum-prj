@@ -1,2 +1,4 @@
-# pkm-db
-The project of a data analysis script for pokemon tournament from a ETT collections.
+# Welcome in the BELDUM project!
+
+The Beldum project has as a goal to code a complete set of tools for data analysis of Pokémon VGC competitons from a collection of ETT files.
+The scripts are written in Pyhton3 using famous libraries in the data analysis panorama such as Pandas, Numpy and Matplotlib.
