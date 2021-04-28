@@ -179,8 +179,6 @@ db.close()
 
 '''
 to do:
-- add teammates (done)
-- add competition score
-- generalize to many team.txt file in a zip archive
+- add competition score and other infos
 '''
 
