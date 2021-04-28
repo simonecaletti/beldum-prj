@@ -1,0 +1,56 @@
+Cinderace @ Life Orb  
+Ability: Libero  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Pyro Ball  
+- Bounce  
+- Low Sweep  
+- Protect  
+
+Rillaboom @ Choice Band  
+Ability: Grassy Surge  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Superpower  
+- Grassy Glide  
+- High Horsepower  
+- Knock Off  
+
+Duraludon @ Assault Vest  
+Ability: Stalwart  
+EVs: 244 HP / 252 SpA / 12 SpD  
+Quiet Nature  
+- Flash Cannon  
+- Thunderbolt  
+- Draco Meteor  
+- Dark Pulse  
+
+Indeedee (M) @ Focus Sash  
+Ability: Psychic Surge  
+EVs: 252 HP / 8 SpA / 240 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Imprison  
+- Expanding Force  
+- Trick Room  
+- Helping Hand  
+
+Hatterene (F) @ Babiri Berry  
+Ability: Magic Bounce  
+EVs: 148 HP / 100 Def / 252 SpA / 8 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Mystical Fire  
+- Psychic  
+- Protect  
+- Dazzling Gleam  
+
+Corviknight @ Lum Berry  
+Ability: Mirror Armor  
+EVs: 96 Atk / 252 Def / 160 Spe  
+Timid Nature  
+- Body Press  
+- Protect  
+- Iron Head  
+- Iron Defense  
+

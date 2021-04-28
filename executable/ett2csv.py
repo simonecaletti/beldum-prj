@@ -11,7 +11,7 @@ import csv
 def read_pkm(pkm):
     #Create a filtered (from "\n") list 
     pkm = [x for x in pkm if x != "\n"]
-    print(pkm)
+    #print(pkm)
 
     PKM = {"specie":"", "obj":"", "ability":"", "HP":0, "Atk":0, "Def":0, "SpA":0, "SpD":0, "Spe":0, "nature":"", "iv_HP":31, "iv_Atk":31, "iv_Def":31, "iv_SpA":31, "iv_SpD":31, "iv_Spe":31}
     stats = ["HP", "Atk", "Def", "SpA", "SpD", "Spe"]
@@ -19,16 +19,16 @@ def read_pkm(pkm):
     for line in pkm:
         #Read specie and object
         if line == pkm[0]:
-            print(line)
+            #print(line)
             if "@" in line:
                 at = line.index("@")
                 PKM["specie"] = get_specie(line[0:at-1])
-                #print(PKM["specie"])
                 PKM["obj"] = line[at+2:-2]
                 #print(PKM["obj"])
                 #print(len(PKM["obj"]))
             else:
                 PKM["specie"] = get_specie(line)
+            print(PKM["specie"])
 
         #Read ability
         elif "Ability" in line:
@@ -124,18 +124,19 @@ def add_teammates(TEAM, species):
 #pre_at is the substring of the first pkm line before the symbol @
 def get_specie(pre_at):
     #Unfortunately SD put some info in () even if there is no nickname
-    exceptions = ["M", "F", "Gigamax", "Galar", "Alola"]
+    exceptions = ["M", "F"]
+    #exceptions = []
     if "(" in pre_at and ")" in pre_at:
         left = pre_at.index("(")
         right = pre_at.index(")")
         if pre_at[left+1:right] not in exceptions:
             specie = pre_at[left+1:right]
         else:
-            specie = pre_at
+            specie = pre_at[:left]
     else:
         specie = pre_at
     
-    return specie
+    return specie.strip()
 
 ##################################################################
 #MAIN

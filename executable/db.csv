@@ -1,10 +1,10 @@
 specie,obj,ability,HP,Atk,Def,SpA,SpD,Spe,nature,iv_HP,iv_Atk,iv_Def,iv_SpA,iv_SpD,iv_Spe,move1,move2,move3,move4,teammate1,teammate2,teammate3,teammate4,teammate5
-Indeedee (M),Focus Sash ,Psychic Surge,0,0,0,252,4,252,Timid,31,0,31,31,31,31,After You,Expanding Force,Imprison,Trick Room,Sandaconda,Barraskewda,Dracozolt,Dracovish,Greedent
-Sandaconda,Weakness Policy ,Sand Spit,252,252,0,0,4,0,Adamant,31,31,31,31,31,31,High Horsepower,Iron Head,Rock Slide,Protect,Indeedee (M),Barraskewda,Dracozolt,Dracovish,Greedent
-Barraskewda,Choice Scarf ,Propeller Tail,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,Flip Turn,Psychic Fangs,Liquidation,Ice Fang,Indeedee (M),Sandaconda,Dracozolt,Dracovish,Greedent
-Dracozolt,Life Orb ,Sand Rush,0,252,0,0,4,252,Adamant,31,31,31,31,31,31,Bolt Beak,Dragon Claw,Rock Slide,Aerial Ace,Indeedee (M),Sandaconda,Barraskewda,Dracovish,Greedent
-Dracovish,Choice Band ,Sand Rush,0,252,0,0,4,252,Adamant,31,31,31,31,31,31,Fishious Rend,Psychic Fangs,Rock Slide,Leech Life,Indeedee (M),Sandaconda,Barraskewda,Dracozolt,Greedent
-Greedent,Sitrus Berry ,Cheek Pouch,248,252,4,0,4,0,Brave,31,31,31,31,31,0,Belly Drum,Body Slam,Crunch,Fire Fang,Indeedee (M),Sandaconda,Barraskewda,Dracozolt,Dracovish
+Indeedee,Focus Sash ,Psychic Surge,0,0,0,252,4,252,Timid,31,0,31,31,31,31,After You,Expanding Force,Imprison,Trick Room,Sandaconda,Barraskewda,Dracozolt,Dracovish,Greedent
+Sandaconda,Weakness Policy ,Sand Spit,252,252,0,0,4,0,Adamant,31,31,31,31,31,31,High Horsepower,Iron Head,Rock Slide,Protect,Indeedee,Barraskewda,Dracozolt,Dracovish,Greedent
+Barraskewda,Choice Scarf ,Propeller Tail,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,Flip Turn,Psychic Fangs,Liquidation,Ice Fang,Indeedee,Sandaconda,Dracozolt,Dracovish,Greedent
+Dracozolt,Life Orb ,Sand Rush,0,252,0,0,4,252,Adamant,31,31,31,31,31,31,Bolt Beak,Dragon Claw,Rock Slide,Aerial Ace,Indeedee,Sandaconda,Barraskewda,Dracovish,Greedent
+Dracovish,Choice Band ,Sand Rush,0,252,0,0,4,252,Adamant,31,31,31,31,31,31,Fishious Rend,Psychic Fangs,Rock Slide,Leech Life,Indeedee,Sandaconda,Barraskewda,Dracozolt,Greedent
+Greedent,Sitrus Berry ,Cheek Pouch,248,252,4,0,4,0,Brave,31,31,31,31,31,0,Belly Drum,Body Slam,Crunch,Fire Fang,Indeedee,Sandaconda,Barraskewda,Dracozolt,Dracovish
 Dragapult,Life Orb ,Infiltrator,4,0,0,252,0,252,Timid,31,0,31,31,31,31,Hydro Pump,Draco Meteor,Thunder,Shadow Ball,Barraskewda,Indeedee-F,Weezing-Galar,Darmanitan-Galar,Duraludon
 Barraskewda,Choice Band ,Swift Swim,4,252,0,0,0,252,Adamant,31,31,31,31,31,31,Close Combat,Liquidation,Psychic Fangs,Crunch,Dragapult,Indeedee-F,Weezing-Galar,Darmanitan-Galar,Duraludon
 Indeedee-F,Eject Button ,Psychic Surge,252,0,0,4,252,0,Calm,31,0,31,31,31,31,Expanding Force,Follow Me,Protect,Helping Hand,Dragapult,Barraskewda,Weezing-Galar,Darmanitan-Galar,Duraludon
@@ -17,9 +17,9 @@ Hatterene,Babiri Berry ,Magic Bounce,252,0,0,252,4,0,Quiet,31,0,31,31,31,0,Trick
 Copperajah,Rocky Helmet ,Heavy Metal,252,252,0,0,4,0,Brave,31,31,31,31,31,0,Heavy Slam,Heat Crash,Protect,Rock Slide,Rillaboom,Duraludon,Hatterene,Dracozolt,Orbeetle
 Dracozolt,Room Service ,Volt Absorb,252,252,0,0,4,0,Brave,31,31,31,31,31,0,Bolt Beak,Dragon Claw,Taunt,Protect,Rillaboom,Duraludon,Hatterene,Copperajah,Orbeetle
 Orbeetle,Leftovers ,Frisk,252,0,252,0,4,0,Relaxed,31,0,31,31,31,0,Trick Room,Body Press,Protect,Psychic,Rillaboom,Duraludon,Hatterene,Copperajah,Dracozolt
-Coalossal-Gmax,Weakness Policy ,Flash Fire,252,0,0,252,4,0,Quiet,31,0,31,31,31,0,Heat Wave,Ancient Power,Protect,Earth Power,Obstagoon,Indeedee-F,Cinderace,Hatterene (F),Duraludon
-Obstagoon,Flame Orb ,Guts,4,252,0,0,0,252,Adamant,31,31,31,31,31,31,Facade,Knock Off,Obstruct,Fire Punch,Coalossal-Gmax,Indeedee-F,Cinderace,Hatterene (F),Duraludon
-Indeedee-F,Focus Sash ,Psychic Surge,252,0,0,252,4,0,Quiet,31,0,31,31,31,0,Follow Me,Expanding Force,Protect,Mystical Fire,Coalossal-Gmax,Obstagoon,Cinderace,Hatterene (F),Duraludon
-Cinderace,Life Orb ,Libero,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,Pyro Ball,Protect,Sucker Punch,Iron Head,Coalossal-Gmax,Obstagoon,Indeedee-F,Hatterene (F),Duraludon
-Hatterene (F),Babiri Berry ,Magic Bounce,252,0,0,252,4,0,Quiet,31,0,31,31,31,0,Trick Room,Psychic,Dazzling Gleam,Mystical Fire,Coalossal-Gmax,Obstagoon,Indeedee-F,Cinderace,Duraludon
-Duraludon,Shuca Berry ,Stalwart,0,0,252,252,4,0,Quiet,31,0,31,31,31,0,Flash Cannon,Draco Meteor,Dark Pulse,Thunderbolt,Coalossal-Gmax,Obstagoon,Indeedee-F,Cinderace,Hatterene (F)
+Coalossal-Gmax,Weakness Policy ,Flash Fire,252,0,0,252,4,0,Quiet,31,0,31,31,31,0,Heat Wave,Ancient Power,Protect,Earth Power,Obstagoon,Indeedee-F,Cinderace,Hatterene,Duraludon
+Obstagoon,Flame Orb ,Guts,4,252,0,0,0,252,Adamant,31,31,31,31,31,31,Facade,Knock Off,Obstruct,Fire Punch,Coalossal-Gmax,Indeedee-F,Cinderace,Hatterene,Duraludon
+Indeedee-F,Focus Sash ,Psychic Surge,252,0,0,252,4,0,Quiet,31,0,31,31,31,0,Follow Me,Expanding Force,Protect,Mystical Fire,Coalossal-Gmax,Obstagoon,Cinderace,Hatterene,Duraludon
+Cinderace,Life Orb ,Libero,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,Pyro Ball,Protect,Sucker Punch,Iron Head,Coalossal-Gmax,Obstagoon,Indeedee-F,Hatterene,Duraludon
+Hatterene,Babiri Berry ,Magic Bounce,252,0,0,252,4,0,Quiet,31,0,31,31,31,0,Trick Room,Psychic,Dazzling Gleam,Mystical Fire,Coalossal-Gmax,Obstagoon,Indeedee-F,Cinderace,Duraludon
+Duraludon,Shuca Berry ,Stalwart,0,0,252,252,4,0,Quiet,31,0,31,31,31,0,Flash Cannon,Draco Meteor,Dark Pulse,Thunderbolt,Coalossal-Gmax,Obstagoon,Indeedee-F,Cinderace,Hatterene
