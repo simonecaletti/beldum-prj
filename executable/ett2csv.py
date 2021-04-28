@@ -28,7 +28,7 @@ def read_pkm(pkm):
                 #print(len(PKM["obj"]))
             else:
                 PKM["specie"] = get_specie(line)
-            print(PKM["specie"])
+            #print(PKM["specie"])
 
         #Read ability
         elif "Ability" in line:
@@ -141,6 +141,12 @@ def get_specie(pre_at):
 ##################################################################
 #MAIN
 
+print("Hello " + str(os.getlogin()) + "!")
+print("You are using the ett2csv script of the BELDUM package ",
+    "Pokemon VGC competition data analysis. ",
+    "Enjoy this tool but be sure to cite Simone Caletti (aka Manabu) if ",
+    "you want to share your results.\n")
+
 db = open("db.csv", "w", newline="")
 writer = csv.writer(db)
 
@@ -150,19 +156,24 @@ archive.extractall()
 
 j = 0
 for team in archive.namelist():
-    print("Converting " + str(team))
     f = open(team, "r")
     flist = f.readlines()
     #print(flist)
 
-    TEAM, species = read_team(flist, j)
-    #print(TEAM)
-    TEAM_wt = add_teammates(TEAM, species)
+    #Check to cut away pokepaste input instead of ETT
+    if len(flist) < 50:
+        print("Warning: check " + str(team) + ". Probably it is a pokepaste!")
+    else:
+        print("Converting " + str(team) , end="")
+        TEAM, species = read_team(flist, j)
+        #print(TEAM)
+        TEAM_wt = add_teammates(TEAM, species)
 
-    if j==0:
-        writer.writerow(TEAM_wt[0].keys())
-    for PKM in TEAM_wt:
-        writer.writerow(PKM.values())
+        if j==0:
+            writer.writerow(TEAM_wt[0].keys())
+        for PKM in TEAM_wt:
+            writer.writerow(PKM.values())
+        print("...done!")
         
     j += 1
 
@@ -170,6 +181,8 @@ for team in archive.namelist():
     os.remove(team)
 
 db.close()
+
+os.system("pause")
 
 
 

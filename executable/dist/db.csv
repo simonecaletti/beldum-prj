@@ -101,3 +101,27 @@ Coalossal,Shuca Berry ,Flame Body,252,252,0,0,4,0,Brave,31,31,31,31,31,0,Rock Sl
 Corviknight,Figy Berry ,Mirror Armor,252,0,4,0,252,0,Careful,31,31,31,31,31,31,Brave Bird,Body Press,Iron Head,Tailwind,Indeedee-F,Hatterene,Coalossal,Sirfetch’d,Rillaboom
 Sirfetch’d,Leek ,Scrappy,252,252,4,0,0,0,Adamant,31,31,31,31,31,31,Close Combat,Brave Bird,Knock Off,Protect,Indeedee-F,Hatterene,Coalossal,Corviknight,Rillaboom
 Rillaboom,Aguav Berry ,Grassy Surge,252,252,0,0,4,0,Adamant,31,31,31,31,31,31,Grassy Glide,Knock Off,High Horsepower,Protect,Indeedee-F,Hatterene,Coalossal,Corviknight,Sirfetch’d
+Dragapult,Focus Sash ,Infiltrator,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,Protect,Will-O-Wisp,Dragon Claw,Phantom Force,Obstagoon,Indeedee-F,Duraludon,Cinderace,Inteleon
+Obstagoon,Leftovers ,Guts,4,252,0,0,0,252,Adamant,31,31,31,31,31,31,Facade,Brick Break,Obstruct,Shadow Claw,Dragapult,Indeedee-F,Duraludon,Cinderace,Inteleon
+Indeedee-F,Psychic Seed ,Psychic Surge,252,0,212,0,44,0,Sassy,31,31,31,31,31,31,Expanding Force,Follow Me,Helping Hand,Protect,Dragapult,Obstagoon,Duraludon,Cinderace,Inteleon
+Duraludon,Assault Vest ,Stalwart,0,0,0,252,4,252,Timid,31,31,31,31,31,31,Draco Meteor,Flash Cannon,Thunderbolt,Stealth Rock,Dragapult,Obstagoon,Indeedee-F,Cinderace,Inteleon
+Cinderace,Life Orb ,Libero,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,Court Change,Iron Head,Pyro Ball,Bounce,Dragapult,Obstagoon,Indeedee-F,Duraludon,Inteleon
+Inteleon,Scope Lens ,Sniper,0,0,0,252,4,252,Timid,31,31,31,31,31,31,Ice Beam,Dark Pulse,Snipe Shot,U-turn,Dragapult,Obstagoon,Indeedee-F,Duraludon,Cinderace
+Cinderace,Life Orb ,Libero,4,252,0,0,0,252,Adamant,31,31,31,31,31,31,Pyro Ball,Bounce,Low Sweep,Protect,Rillaboom,Duraludon,Indeedee,Hatterene,Corviknight
+Rillaboom,Choice Band ,Grassy Surge,4,252,0,0,0,252,Adamant,31,31,31,31,31,31,Superpower,Grassy Glide,High Horsepower,Knock Off,Cinderace,Duraludon,Indeedee,Hatterene,Corviknight
+Duraludon,Assault Vest ,Stalwart,244,0,0,252,12,0,Quiet,31,31,31,31,31,31,Flash Cannon,Thunderbolt,Draco Meteor,Dark Pulse,Cinderace,Rillaboom,Indeedee,Hatterene,Corviknight
+Indeedee,Focus Sash ,Psychic Surge,252,0,0,8,240,8,Calm,31,0,31,31,31,31,Imprison,Expanding Force,Trick Room,Helping Hand,Cinderace,Rillaboom,Duraludon,Hatterene,Corviknight
+Hatterene,Babiri Berry ,Magic Bounce,148,0,100,252,8,0,Quiet,31,0,31,31,31,0,Mystical Fire,Psychic,Protect,Dazzling Gleam,Cinderace,Rillaboom,Duraludon,Indeedee,Corviknight
+Corviknight,Lum Berry ,Mirror Armor,0,96,252,0,0,160,Timid,31,31,31,31,31,31,Body Press,Protect,Iron Head,Iron Defense,Cinderace,Rillaboom,Duraludon,Indeedee,Hatterene
+Duraludon,Life Orb ,Stalwart,4,0,0,252,0,252,Timid,31,0,31,31,31,31,Flash Cannon,Draco Meteor,Thunderbolt,Protect,Indeedee-F,Stonjourner,Rillaboom,Grimmsnarl,Dragapult
+Indeedee-F,Safety Goggles ,Psychic Surge,252,0,0,4,0,252,Timid,31,0,31,31,31,31,Follow Me,Expanding Force,Helping Hand,Protect,Duraludon,Stonjourner,Rillaboom,Grimmsnarl,Dragapult
+Stonjourner,Focus Sash ,Power Spot,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Rock Slide,Wide Guard,Safeguard,Protect,Duraludon,Indeedee-F,Rillaboom,Grimmsnarl,Dragapult
+Rillaboom,Assault Vest ,Grassy Surge,196,132,148,0,28,4,Adamant,31,31,31,31,31,31,Knock Off,Fake Out,Grassy Glide,U-turn,Duraludon,Indeedee-F,Stonjourner,Grimmsnarl,Dragapult
+Grimmsnarl,Light Clay ,Prankster,252,34,12,0,120,90,Adamant,31,31,31,31,31,31,Taunt,Light Screen,Reflect,Spirit Break,Duraludon,Indeedee-F,Stonjourner,Rillaboom,Dragapult
+Dragapult,Weakness Policy ,Clear Body,172,108,4,0,4,220,Jolly,31,31,31,31,31,31,Phantom Force,Dragon Darts,Fly,Protect,Duraludon,Indeedee-F,Stonjourner,Rillaboom,Grimmsnarl
+Inteleon,Choice Specs ,Sniper,4,0,0,252,0,252,Timid,31,0,31,31,31,31,Snipe Shot,Mud Shot,Dark Pulse,Hydro Cannon,Duraludon,Grimmsnarl,Indeedee-F,Cinderace,Alcremie
+Duraludon,Assault Vest ,Stalwart,236,0,4,252,4,12,Modest,31,0,31,31,31,31,Flash Cannon,Draco Meteor,Dark Pulse,Thunderbolt,Inteleon,Grimmsnarl,Indeedee-F,Cinderace,Alcremie
+Grimmsnarl,Light Clay ,Prankster,244,0,252,0,12,0,Bold,31,31,31,31,31,31,Spirit Break,Light Screen,Reflect,Thunder Wave,Inteleon,Duraludon,Indeedee-F,Cinderace,Alcremie
+Indeedee-F,Focus Sash ,Psychic Surge,236,0,0,252,0,20,Modest,31,0,31,31,31,31,Expanding Force,Helping Hand,Follow Me,Protect,Inteleon,Duraludon,Grimmsnarl,Cinderace,Alcremie
+Cinderace,Life Orb ,Libero,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Pyro Ball,High Jump Kick,Bounce,Sucker Punch,Inteleon,Duraludon,Grimmsnarl,Indeedee-F,Alcremie
+Alcremie,Choice Scarf ,Aroma Veil,252,0,0,0,4,252,Timid,31,0,31,31,31,31,Dazzling Gleam,Decorate,Charm,Magic Room,Inteleon,Duraludon,Grimmsnarl,Indeedee-F,Cinderace
