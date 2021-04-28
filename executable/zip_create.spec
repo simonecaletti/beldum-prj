@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['zip_create.py'],
-             pathex=['C:\\Users\\simon\\Desktop\\Torneo7Fiori\\manabu\\Papers\\data analysis\\executable'],
+             pathex=['C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\executable'],
              binaries=[],
              datas=[],
              hiddenimports=[],
