@@ -9,18 +9,26 @@ import csv
 #READ PKM function
 
 def read_pkm(pkm):
+    #Create a filtered (from "\n") list 
+    pkm = [x for x in pkm if x != "\n"]
+    print(pkm)
+
     PKM = {"specie":"", "obj":"", "ability":"", "HP":0, "Atk":0, "Def":0, "SpA":0, "SpD":0, "Spe":0, "nature":"", "iv_HP":31, "iv_Atk":31, "iv_Def":31, "iv_SpA":31, "iv_SpD":31, "iv_Spe":31}
     stats = ["HP", "Atk", "Def", "SpA", "SpD", "Spe"]
     move_counter = 0
     for line in pkm:
         #Read specie and object
-        if "@" in line:
-            at = line.index("@")
-            PKM["specie"] = get_specie(line[0:at-1])
-            #print(PKM["specie"])
-            PKM["obj"] = line[at+2:-2]
-            #print(PKM["obj"])
-            #print(len(PKM["obj"]))
+        if line == pkm[0]:
+            print(line)
+            if "@" in line:
+                at = line.index("@")
+                PKM["specie"] = get_specie(line[0:at-1])
+                #print(PKM["specie"])
+                PKM["obj"] = line[at+2:-2]
+                #print(PKM["obj"])
+                #print(len(PKM["obj"]))
+            else:
+                PKM["specie"] = get_specie(line)
 
         #Read ability
         elif "Ability" in line:
@@ -85,6 +93,7 @@ def read_team(flist, j):
         #print(high_index)
         
         pkm = flist[low_index:high_index]
+        #print(pkm)
 
         PKM = read_pkm(pkm)
         TEAM.append(PKM)
