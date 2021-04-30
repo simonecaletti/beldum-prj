@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['zip_create.py'],
-             pathex=['C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\executable'],
+             pathex=['C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\main'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -31,4 +31,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=True )
+          console=True , icon='..\\icons\\gear.ico')

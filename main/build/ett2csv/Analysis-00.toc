@@ -1,6 +1,6 @@
-(['C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\executable\\ett2csv.py'],
- ['C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\executable',
-  'C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\executable'],
+(['C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\main\\ett2csv.py'],
+ ['C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\main',
+  'C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\main'],
  ['codecs'],
  ['c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
   'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
@@ -15,9 +15,12 @@
  '3.7.7 (tags/v3.7.7:d7c567b08f, Mar 10 2020, 10:41:24) [MSC v.1900 64 bit '
  '(AMD64)]',
  [('ett2csv',
-   'C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\executable\\ett2csv.py',
+   'C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\main\\ett2csv.py',
    'PYSOURCE')],
- [('tracemalloc',
+ [('copy',
+   'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('tracemalloc',
    'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
    'PYMODULE'),
   ('pickle',
@@ -40,9 +43,6 @@
    'PYMODULE'),
   ('textwrap',
    'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
-   'PYMODULE'),
-  ('copy',
-   'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
    'PYMODULE'),
   ('gettext',
    'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\gettext.py',
@@ -416,11 +416,11 @@
   ('_py_abc',
    'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
    'PYMODULE'),
-  ('typing',
-   'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
-   'PYMODULE'),
   ('stringprep',
    'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
    'PYMODULE'),
   ('csv',
    'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\csv.py',
@@ -434,67 +434,103 @@
   ('os',
    'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\lib\\os.py',
    'PYMODULE')],
- [('api-ms-win-crt-heap-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-heap-l1-1-0.dll',
-   'BINARY'),
-  ('VCRUNTIME140.dll',
-   'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\VCRUNTIME140.dll',
-   'BINARY'),
-  ('python37.dll',
-   'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\python37.dll',
-   'BINARY'),
-  ('api-ms-win-crt-stdio-l1-1-0.dll',
+ [('api-ms-win-crt-stdio-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
    '2.9\\miktex\\bin\\x64\\api-ms-win-crt-stdio-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-runtime-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-runtime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-locale-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-locale-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-math-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
    '2.9\\miktex\\bin\\x64\\api-ms-win-crt-math-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('python37.dll',
+   'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\python37.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
   ('ucrtbase.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
    '2.9\\miktex\\bin\\x64\\ucrtbase.dll',
-   'BINARY'),
-  ('api-ms-win-crt-convert-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-convert-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-string-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-time-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-time-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-crt-environment-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-environment-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-crt-process-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
    '2.9\\miktex\\bin\\x64\\api-ms-win-crt-process-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-crt-conio-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-conio-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-crt-filesystem-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
    '2.9\\miktex\\bin\\x64\\api-ms-win-crt-filesystem-l1-1-0.dll',
    'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
   ('api-ms-win-core-console-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
    '2.9\\miktex\\bin\\x64\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-synch-l1-2-0.dll',
    'BINARY'),
   ('api-ms-win-core-handle-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
@@ -504,93 +540,57 @@
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
    '2.9\\miktex\\bin\\x64\\api-ms-win-core-interlocked-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-localization-l1-2-0.dll',
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-localization-l1-2-0.dll',
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-processthreads-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-errorhandling-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
    '2.9\\miktex\\bin\\x64\\api-ms-win-core-errorhandling-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-synch-l1-1-0.dll',
+  ('api-ms-win-core-memory-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-synch-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-profile-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-profile-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-util-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-util-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-1.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-processthreads-l1-1-1.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l1-2-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-file-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-file-l2-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-file-l2-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-synch-l1-2-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-synch-l1-2-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-datetime-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-datetime-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-debug-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-debug-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-rtlsupport-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-string-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-string-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-libraryloader-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-libraryloader-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-timezone-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-timezone-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processthreads-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-processthreads-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-processenvironment-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-processenvironment-l1-1-0.dll',
-   'BINARY'),
-  ('api-ms-win-core-namedpipe-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-memory-l1-1-0.dll',
    'BINARY'),
   ('api-ms-win-core-sysinfo-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
    '2.9\\miktex\\bin\\x64\\api-ms-win-core-sysinfo-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-heap-l1-1-0.dll',
-   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-heap-l1-1-0.dll',
-   'BINARY'),
   ('api-ms-win-core-file-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
    '2.9\\miktex\\bin\\x64\\api-ms-win-core-file-l1-1-0.dll',
    'BINARY'),
-  ('api-ms-win-core-memory-l1-1-0.dll',
+  ('api-ms-win-core-timezone-l1-1-0.dll',
    'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
-   '2.9\\miktex\\bin\\x64\\api-ms-win-core-memory-l1-1-0.dll',
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Users\\simon\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-util-l1-1-0.dll',
    'BINARY'),
   ('_socket',
    'c:\\users\\simon\\appdata\\local\\programs\\python\\python37\\DLLs\\_socket.pyd',
@@ -629,6 +629,6 @@
  [],
  [],
  [('base_library.zip',
-   'C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\executable\\build\\ett2csv\\base_library.zip',
+   'C:\\Users\\simon\\Documenti\\GitHub\\beldum-prj\\main\\build\\ett2csv\\base_library.zip',
    'DATA')],
  [])
