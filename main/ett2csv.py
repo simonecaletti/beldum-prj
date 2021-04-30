@@ -142,10 +142,8 @@ def get_specie(pre_at):
 #MAIN
 
 print("Hello " + str(os.getlogin()) + "!")
-print("You are using the ett2csv script of the BELDUM package ",
-    "Pokemon VGC competition data analysis. ",
-    "Enjoy this tool but be sure to cite Simone Caletti (aka Manabu) if ",
-    "you want to share your results.\n")
+print("You are using the ett2csv script from the BELDUM package ",
+    "for Pokémon VGC competitions data analysis.\n")
 
 db = open("db.csv", "w", newline="")
 writer = csv.writer(db)
