@@ -125,3 +125,87 @@ Grimmsnarl,Light Clay ,Prankster,244,0,252,0,12,0,Bold,31,31,31,31,31,31,Spirit 
 Indeedee-F,Focus Sash ,Psychic Surge,236,0,0,252,0,20,Modest,31,0,31,31,31,31,Expanding Force,Helping Hand,Follow Me,Protect,Inteleon,Duraludon,Grimmsnarl,Cinderace,Alcremie
 Cinderace,Life Orb ,Libero,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Pyro Ball,High Jump Kick,Bounce,Sucker Punch,Inteleon,Duraludon,Grimmsnarl,Indeedee-F,Alcremie
 Alcremie,Choice Scarf ,Aroma Veil,252,0,0,0,4,252,Timid,31,0,31,31,31,31,Dazzling Gleam,Decorate,Charm,Magic Room,Inteleon,Duraludon,Grimmsnarl,Indeedee-F,Cinderace
+Grimmsnarl,Light Clay ,Prankster,252,0,156,0,100,0,Impish,31,31,31,31,31,31,Light Screen,Reflect,Fake Out,Thunder Wave,Dubwool,Indeedee-F,Dragapult,Cinderace,Rillaboom
+Dubwool,Chesto Berry ,Fluffy,180,0,76,0,156,92,Jolly,31,0,31,31,31,31,Body Press,Substitute,Cotton Guard,Protect,Grimmsnarl,Indeedee-F,Dragapult,Cinderace,Rillaboom
+Indeedee-F,Psychic Seed ,Psychic Surge,244,0,164,0,100,0,Bold,31,0,31,31,31,31,Expanding Force,Mystical Fire,Follow Me,Helping Hand,Grimmsnarl,Dubwool,Dragapult,Cinderace,Rillaboom
+Dragapult,Life Orb ,Clear Body,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Phantom Force,Outrage,U-turn,Dive,Grimmsnarl,Dubwool,Indeedee-F,Cinderace,Rillaboom
+Cinderace,Expert Belt ,Libero,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Flare Blitz,U-turn,Iron Head,Bounce,Grimmsnarl,Dubwool,Indeedee-F,Dragapult,Rillaboom
+Rillaboom,Assault Vest ,Grassy Surge,4,220,84,0,84,116,Serious,31,31,31,31,31,31,Grassy Glide,Earthquake,Knock Off,Wood Hammer,Grimmsnarl,Dubwool,Indeedee-F,Dragapult,Cinderace
+Cinderace,Life Orb ,Libero,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Pyro Ball,Bounce,High Jump Kick,Protect,Grimmsnarl,Duraludon,Darmanitan-Galar,Indeedee-F,Rillaboom
+Grimmsnarl,Light Clay ,Prankster,244,0,116,0,148,0,Careful,31,31,31,31,31,31,Light Screen,Taunt,Reflect,Sucker Punch,Cinderace,Duraludon,Darmanitan-Galar,Indeedee-F,Rillaboom
+Duraludon,Assault Vest ,Stalwart,188,0,4,156,100,60,Modest,31,0,31,31,31,31,Flash Cannon,Draco Meteor,Thunderbolt,Dark Pulse,Cinderace,Grimmsnarl,Darmanitan-Galar,Indeedee-F,Rillaboom
+Darmanitan-Galar,Choice Scarf ,Gorilla Tactics,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Rock Slide,Superpower,Fare Blitz,Icicle Crash,Cinderace,Grimmsnarl,Duraludon,Indeedee-F,Rillaboom
+Indeedee-F,Psychic Seed ,Psychic Surge,244,0,164,64,36,0,Relaxed,31,0,31,31,31,0,Follow Me,Expanding Force,Helping Hand,Imprison,Cinderace,Grimmsnarl,Duraludon,Darmanitan-Galar,Rillaboom
+Rillaboom,Miracle Seed ,Grassy Surge,132,252,48,0,76,0,Brave,31,31,31,31,31,0,Fake Out,Grassy Glide,High Horsepower,Knock Off,Cinderace,Grimmsnarl,Duraludon,Darmanitan-Galar,Indeedee-F
+Indeedee-F,Psychic Seed ,Psychic Surge,252,0,252,4,0,0,Bold,31,0,31,31,31,31,Follow Me,Expanding Force,Protect,Helping Hand,Dragapult,Toxtricity-Gmax,Cinderace,Rillaboom,Grimmsnarl
+Dragapult,Life Orb ,Clear Body,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Dragon Dance,Dragon Darts,Fly,Phantom Force,Indeedee-F,Toxtricity-Gmax,Cinderace,Rillaboom,Grimmsnarl
+Toxtricity-Gmax,Choice Specs ,Punk Rock,4,0,0,252,0,252,Timid,31,0,31,31,31,31,Overdrive,Boomburst,Volt Switch,Sludge Bomb,Indeedee-F,Dragapult,Cinderace,Rillaboom,Grimmsnarl
+Cinderace,Expert Belt ,Libero,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Pyro Ball,High Jump Kick,Iron Head,Zen Headbutt,Indeedee-F,Dragapult,Toxtricity-Gmax,Rillaboom,Grimmsnarl
+Rillaboom,Miracle Seed ,Grassy Surge,252,252,0,0,0,4,Adamant,31,31,31,31,31,31,Grassy Glide,Wood Hammer,Fake Out,Knock Off,Indeedee-F,Dragapult,Toxtricity-Gmax,Cinderace,Grimmsnarl
+Grimmsnarl,Light Clay ,Prankster,252,0,132,0,124,0,Careful,31,31,31,31,31,31,Spirit Break,Reflect,Taunt,Fake Tears,Indeedee-F,Dragapult,Toxtricity-Gmax,Cinderace,Rillaboom
+Grimmsnarl,Light Clay ,Prankster,252,252,0,0,0,4,Adamant,31,31,31,31,31,31,Darkest Lariat,Reflect,Light Screen,Thunder Wave,Corviknight,Cramorant,Indeedee-F,Dracovish,Falinks
+Corviknight,Figy Berry ,Mirror Armor,252,0,4,0,252,0,Careful,31,31,31,31,31,31,Body Press,Iron Head,Brave Bird,Tailwind,Grimmsnarl,Cramorant,Indeedee-F,Dracovish,Falinks
+Cramorant,Life Orb ,Gulp Missile,0,0,0,252,0,252,Modest,31,0,31,31,31,31,Surf,Air Slash,Ice Beam,Protect,Grimmsnarl,Corviknight,Indeedee-F,Dracovish,Falinks
+Indeedee-F,,Psychic Surge,252,0,0,0,252,0,Calm,31,0,31,31,31,31,Expanding Force,Follow Me,Helping Hand,Protect,Grimmsnarl,Corviknight,Cramorant,Dracovish,Falinks
+Dracovish,Choice Scarf ,Water Absorb,0,252,0,0,0,252,Lonely,31,31,10,31,20,31,Earthquake,Dragon Rush,Crunch,Fishious Rend,Grimmsnarl,Corviknight,Cramorant,Indeedee-F,Falinks
+Falinks,Sitrus Berry ,Battle Armor,4,252,0,0,0,252,Jolly,31,31,31,20,25,31,Close Combat,Protect,Iron Head,No Retreat,Grimmsnarl,Corviknight,Cramorant,Indeedee-F,Dracovish
+Grimmsnarl-Gmax,Weakness Policy ,Pickpocket,4,252,0,0,252,0,Adamant,31,31,31,31,31,31,Spirit Break,False Surrender,Stomping Tantrum,Shadow Claw,Cinderace,Inteleon,Rillaboom,Duraludon,Coalossal-Gmax
+Cinderace,Focus Sash ,Libero,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Ally Switch,High Jump Kick,Coaching,Protect,Grimmsnarl-Gmax,Inteleon,Rillaboom,Duraludon,Coalossal-Gmax
+Inteleon,Choice Specs ,Sniper,0,0,0,252,4,252,Timid,31,0,31,31,31,31,Surf,Air Slash,Icy Wind,Shadow Ball,Grimmsnarl-Gmax,Cinderace,Rillaboom,Duraludon,Coalossal-Gmax
+Rillaboom,Miracle Seed ,Grassy Surge,252,252,0,0,0,4,Adamant,31,31,31,31,31,31,Grassy Glide,High Horsepower,Fake Out,Bulk Up,Grimmsnarl-Gmax,Cinderace,Inteleon,Duraludon,Coalossal-Gmax
+Duraludon,Life Orb ,Stalwart,0,0,0,252,4,252,Timid,31,0,31,31,31,31,Steel Beam,Draco Meteor,Thunderbolt,Dark Pulse,Grimmsnarl-Gmax,Cinderace,Inteleon,Rillaboom,Coalossal-Gmax
+Coalossal-Gmax,Power Herb ,Flash Fire,252,0,0,252,4,0,Quiet,31,0,31,31,31,0,Heat Wave,Meteor Beam,Solar Beam,Scorching Sands,Grimmsnarl-Gmax,Cinderace,Inteleon,Rillaboom,Duraludon
+Rillaboom,Miracle Seed ,Grassy Surge,0,252,0,0,4,252,Adamant,31,31,31,31,31,31,Grassy Glide,Knock Off,High Horsepower,Protect,Eldegoss,Appletun,Frosmoth,Greedent,Alcremie
+Eldegoss,Leftovers ,Regenerator,252,0,0,4,252,0,Calm,31,0,31,31,31,31,Sleep Powder,Leech Seed,Protect,Giga Drain,Rillaboom,Appletun,Frosmoth,Greedent,Alcremie
+Appletun,Assault Vest ,Ripen,252,0,4,252,0,0,Quiet,31,0,31,31,31,31,Apple Acid,Draco Meteor,Giga Drain,Dragon Pulse,Rillaboom,Eldegoss,Frosmoth,Greedent,Alcremie
+Frosmoth,Focus Sash ,Shield Dust,252,0,0,4,0,252,Timid,31,0,31,31,31,31,Tailwind,Bug Buzz,Protect,Icy Wind,Rillaboom,Eldegoss,Appletun,Greedent,Alcremie
+Greedent,Sitrus Berry ,Cheek Pouch,252,252,0,0,4,0,Adamant,31,31,31,31,31,31,Earthquake,Belly Drum,Body Slam,Psychic Fangs,Rillaboom,Eldegoss,Appletun,Frosmoth,Alcremie
+Alcremie,Life Orb ,Sweet Veil,252,0,0,252,4,0,Modest,31,0,31,31,31,31,Dazzling Gleam,Protect,Mystical Fire,Psychic,Rillaboom,Eldegoss,Appletun,Frosmoth,Greedent
+Corviknight,Weakness Policy ,Mirror Armor,252,100,0,0,156,0,Adamant,31,31,31,31,31,31,Brave Bird,Iron Head,Bulk Up,Roost,Thievul,Dragapult,Grimmsnarl,Corsola-Galar,Obstagoon
+Thievul,Focus Sash ,Unburden,252,0,4,0,0,252,Timid,31,0,31,31,31,31,Snarl,Fire Fang,Parting Shot,Sucker Punch,Corviknight,Dragapult,Grimmsnarl,Corsola-Galar,Obstagoon
+Dragapult,Life Orb ,Clear Body,44,0,0,212,0,252,Timid,31,0,31,31,31,31,Shadow Ball,Draco Meteor,Thunderbolt,Protect,Corviknight,Thievul,Grimmsnarl,Corsola-Galar,Obstagoon
+Grimmsnarl,Sitrus Berry ,Prankster,252,0,116,0,140,0,Impish,31,31,31,31,31,31,Fake Tears,Fake Out,Light Screen,Spirit Break,Corviknight,Thievul,Dragapult,Corsola-Galar,Obstagoon
+Corsola-Galar,Eviolite ,Weak Armor,252,0,180,0,76,0,Sassy,31,0,31,31,31,0,Night Shade,Strength Sap,Will-O-Wisp,Mirror Coat,Corviknight,Thievul,Dragapult,Grimmsnarl,Obstagoon
+Obstagoon,Flame Orb ,Guts,252,148,0,0,108,0,Careful,31,31,31,31,31,31,Facade,Assurance,Obstruct,Close Combat,Corviknight,Thievul,Dragapult,Grimmsnarl,Corsola-Galar
+Corsola-Galar,Eviolite ,Cursed Body,252,0,0,252,4,0,Modest,31,0,31,31,31,31,Hex,Iron Defense,Calm Mind,Strength Sap,Arctovish,Toxtricity-Gmax,Cinderace,Grimmsnarl,Dragapult
+Arctovish,Assault Vest ,Water Absorb,252,0,0,252,4,0,Modest,31,0,31,31,31,31,Meteor Beam,Freeze-Dry,Surf,Icy Wind,Corsola-Galar,Toxtricity-Gmax,Cinderace,Grimmsnarl,Dragapult
+Toxtricity-Gmax,Air Balloon ,Punk Rock,252,0,0,252,0,4,Timid,31,31,31,31,31,31,Overdrive,Volt Switch,Sludge Bomb,Nuzzle,Corsola-Galar,Arctovish,Cinderace,Grimmsnarl,Dragapult
+Cinderace,Life Orb ,Libero,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,Pyro Ball,Iron Head,Zen Headbutt,Assurance,Corsola-Galar,Arctovish,Toxtricity-Gmax,Grimmsnarl,Dragapult
+Grimmsnarl,Light Clay ,Prankster,252,252,0,0,4,0,Adamant,31,31,31,31,31,31,Fake Out,Reflect,Light Screen,Spirit Break,Corsola-Galar,Arctovish,Toxtricity-Gmax,Cinderace,Dragapult
+Dragapult,Focus Sash ,Infiltrator,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,U-turn,Dragon Darts,Phantom Force,Acrobatics,Corsola-Galar,Arctovish,Toxtricity-Gmax,Cinderace,Grimmsnarl
+Cinderace,Life Orb ,Libero,4,252,0,0,0,252,Adamant,31,31,31,31,31,31,Pyro Ball,Iron Head,Sucker Punch,Bounce,Grimmsnarl,Indeedee,Corviknight,Rillaboom,Toxtricity
+Grimmsnarl,Light Clay ,Prankster,252,4,124,0,116,12,Careful,31,31,31,31,31,31,Light Screen,Reflect,Spirit Break,Thunder Wave,Cinderace,Indeedee,Corviknight,Rillaboom,Toxtricity
+Indeedee,Focus Sash ,Psychic Surge,4,0,0,252,0,252,Modest,31,0,31,31,31,31,Trick Room,Imprison,Expanding Force,Dazzling Gleam,Cinderace,Grimmsnarl,Corviknight,Rillaboom,Toxtricity
+Corviknight,Leftovers ,Mirror Armor,252,0,76,0,180,0,Bold,31,0,31,31,31,31,Iron Defense,Body Press,Roost,Protect,Cinderace,Grimmsnarl,Indeedee,Rillaboom,Toxtricity
+Rillaboom,Assault Vest ,Grassy Surge,252,180,0,0,76,0,Adamant,31,31,31,31,31,0,Fake Out,Wood Hammer,Grassy Glide,Brick Break,Cinderace,Grimmsnarl,Indeedee,Corviknight,Toxtricity
+Toxtricity,Magnet ,Punk Rock,4,0,0,252,0,252,Modest,31,0,31,31,31,31,Overdrive,Sludge Bomb,Snarl,Protect,Cinderace,Grimmsnarl,Indeedee,Corviknight,Rillaboom
+Grimmsnarl,Light Clay ,Prankster,252,4,0,0,252,0,Careful,31,31,31,31,31,31,Scary Face,Reflect,Light Screen,Spirit Break,Rillaboom,Pincurchin,Cinderace,Duraludon,Darmanitan-Galar
+Rillaboom,Grassy Seed ,Grassy Surge,252,252,0,0,4,0,Brave,31,31,31,31,31,31,Grassy Glide,Fake Out,Protect,Knock Off,Grimmsnarl,Pincurchin,Cinderace,Duraludon,Darmanitan-Galar
+Pincurchin,Magnet ,Electric Surge,252,0,4,252,0,0,Quiet,31,0,31,31,31,31,Rising Voltage,Scald,Recover,Protect,Grimmsnarl,Rillaboom,Cinderace,Duraludon,Darmanitan-Galar
+Cinderace,Life Orb ,Libero,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,High Jump Kick,Iron Head,Sucker Punch,Pyro Ball,Grimmsnarl,Rillaboom,Pincurchin,Duraludon,Darmanitan-Galar
+Duraludon,Assault Vest ,Stalwart,236,0,0,252,4,16,Modest,31,0,31,31,31,31,Thunderbolt,Draco Meteor,Flash Cannon,Dark Pulse,Grimmsnarl,Rillaboom,Pincurchin,Cinderace,Darmanitan-Galar
+Darmanitan-Galar,Choice Scarf ,Gorilla Tactics,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,Icicle Crash,Stone Edge,Superpower,Iron Head,Grimmsnarl,Rillaboom,Pincurchin,Cinderace,Duraludon
+Dragapult,Weakness Policy ,Clear Body,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Phantom Force,Fly,Dragon Darts,Steel Wing,Dubwool,Corviknight-Gmax,Boltund,Sirfetch’d,Mr. Rime
+Dubwool,Leftovers ,Fluffy,252,0,252,0,4,0,Impish,31,31,31,31,31,31,Grassy Glide,Body Press,Cotton Guard,Payback,Dragapult,Corviknight-Gmax,Boltund,Sirfetch’d,Mr. Rime
+Corviknight-Gmax,Rocky Helmet ,Mirror Armor,252,0,252,0,0,4,Impish,31,31,31,31,31,31,Brave Bird,Iron Head,Body Press,U-turn,Dragapult,Dubwool,Boltund,Sirfetch’d,Mr. Rime
+Boltund,Assault Vest ,Competitive,0,252,0,0,4,252,Jolly,31,31,31,31,31,31,Thunderbolt,Fire Fang,Dig,Nuzzle,Dragapult,Dubwool,Corviknight-Gmax,Sirfetch’d,Mr. Rime
+Sirfetch’d,Leek ,Scrappy,0,252,4,0,0,252,Jolly,31,31,31,31,31,31,Leaf Blade,Detect,Knock Off,Close Combat,Dragapult,Dubwool,Corviknight-Gmax,Boltund,Mr. Rime
+Mr. Rime,Wiki Berry ,Screen Cleaner,0,0,252,252,0,0,Modest,31,4,31,31,31,31,Psychic,Helping Hand,Freeze-Dry,Ice Shard,Dragapult,Dubwool,Corviknight-Gmax,Boltund,Sirfetch’d
+Corsola-Galar,Eviolite ,Cursed Body,252,0,252,0,4,0,Bold,31,0,31,31,31,31,Strength Sap,Stealth Rock,Will-O-Wisp,Hex,Rillaboom,Indeedee-F,Dracovish,Darmanitan-Galar,Corviknight-Gmax
+Rillaboom,Grassy Seed ,Grassy Surge,0,252,4,0,0,252,Adamant,31,31,31,31,31,31,Grassy Glide,Fake Out,High Horsepower,U-turn,Corsola-Galar,Indeedee-F,Dracovish,Darmanitan-Galar,Corviknight-Gmax
+Indeedee-F,Focus Sash ,Psychic Surge,252,0,216,0,40,0,Sassy,31,31,31,31,31,31,Expanding Force,Follow Me,Helping Hand,Psychic,Corsola-Galar,Rillaboom,Dracovish,Darmanitan-Galar,Corviknight-Gmax
+Dracovish,Life Orb ,Water Absorb,0,252,4,0,0,252,Jolly,31,31,31,31,31,31,Rock Blast,Fishious Rend,Protect,Outrage,Corsola-Galar,Rillaboom,Indeedee-F,Darmanitan-Galar,Corviknight-Gmax
+Darmanitan-Galar,Choice Band ,Gorilla Tactics,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,U-turn,Ice Punch,Flare Blitz,Superpower,Corsola-Galar,Rillaboom,Indeedee-F,Dracovish,Corviknight-Gmax
+Corviknight-Gmax,Rocky Helmet ,Mirror Armor,252,0,252,0,0,4,Impish,31,31,31,31,31,31,Brave Bird,Iron Head,Body Press,Iron Defense,Corsola-Galar,Rillaboom,Indeedee-F,Dracovish,Darmanitan-Galar
+Cinderace,Life Orb ,Libero,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Bounce,Pyro Ball,Sucker Punch,High Jump Kick,Rillaboom,Dracovish,Indeedee-F,Duraludon,Grimmsnarl
+Rillaboom,Miracle Seed ,Grassy Surge,252,252,0,0,4,0,Brave,31,31,31,31,31,0,Grassy Glide,Fake Out,Protect,High Horsepower,Cinderace,Dracovish,Indeedee-F,Duraludon,Grimmsnarl
+Dracovish,Choice Scarf ,Water Absorb,4,252,0,0,0,252,Adamant,31,31,31,31,31,31,Fishious Rend,Psychic Fangs,Crunch,Ice Fang,Cinderace,Rillaboom,Indeedee-F,Duraludon,Grimmsnarl
+Indeedee-F,Focus Sash ,Psychic Surge,252,0,8,248,0,0,Quiet,31,0,31,31,31,0,Helping Hand,Follow Me,Expanding Force,Protect,Cinderace,Rillaboom,Dracovish,Duraludon,Grimmsnarl
+Duraludon,Assault Vest ,Stalwart,188,0,4,156,100,60,Modest,31,0,31,31,31,31,Flash Cannon,Dark Pulse,Draco Meteor,Body Press,Cinderace,Rillaboom,Dracovish,Indeedee-F,Grimmsnarl
+Grimmsnarl,Light Clay ,Prankster,252,24,156,0,76,0,Careful,31,31,31,0,31,31,Thunder Wave,Spirit Break,Reflect,Light Screen,Cinderace,Rillaboom,Dracovish,Indeedee-F,Duraludon
+Barraskewda,Focus Sash ,Swift Swim,0,248,4,0,0,252,Adamant,31,31,31,31,31,31,Liquidation,Close Combat,Protect,Psychic Fangs,Drednaw,Toxtricity,Indeedee-F,Grapploct,Alcremie
+Drednaw,Shuca Berry ,Swift Swim,252,0,4,0,0,252,Jolly,31,31,31,31,31,31,Liquidation,Earthquake,Rock Slide,Stealth Rock,Barraskewda,Toxtricity,Indeedee-F,Grapploct,Alcremie
+Toxtricity,Choice Scarf ,Punk Rock,0,0,0,252,36,216,Modest,31,0,31,31,31,31,Volt Switch,Overdrive,Boomburst,Sludge Bomb,Barraskewda,Drednaw,Indeedee-F,Grapploct,Alcremie
+Indeedee-F,Sitrus Berry ,Psychic Surge,4,0,252,0,252,0,Bold,31,0,31,31,31,31,Follow Me,Protect,Helping Hand,Expanding Force,Barraskewda,Drednaw,Toxtricity,Grapploct,Alcremie
+Grapploct,Assault Vest ,Limber,252,84,160,0,0,12,Adamant,31,31,31,31,31,31,Ice Punch,Close Combat,Drain Punch,Sucker Punch,Barraskewda,Drednaw,Toxtricity,Indeedee-F,Alcremie
+Alcremie,Life Orb ,Sweet Veil,0,0,68,252,0,184,Modest,31,0,31,31,31,31,Dazzling Gleam,Mystical Fire,Psychic,Recover,Barraskewda,Drednaw,Toxtricity,Indeedee-F,Grapploct
