@@ -147,7 +147,7 @@ def get_infos(flist):
         for line in flist[flist.index(start_phrase):]:
             if ":" in line:
                 attr = line[:line.index(":")]
-                INFOs[attr] = line[line.index(":") + 1 :]
+                INFOs[attr] = line[line.index(":") + 1 :].replace("\n", "")
     #print(INFOs)
     return INFOs
 

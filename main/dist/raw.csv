@@ -1878,63 +1878,6 @@ IVs: 0 Atk
 - Sludge Bomb  
 - Snarl  
 - Protect","1616"
-"2021/04/29 2:36:44 PM EET","Grimmsnarl (M) @ Light Clay  
-Ability: Prankster  
-EVs: 252 HP / 4 Atk / 252 SpD  
-Careful Nature  
-- Scary Face  
-- Reflect  
-- Light Screen  
-- Spirit Break  
-
-Rillaboom @ Grassy Seed  
-Ability: Grassy Surge  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Brave Nature  
-- Grassy Glide  
-- Fake Out  
-- Protect  
-- Knock Off  
-
-Pincurchin @ Magnet  
-Ability: Electric Surge  
-EVs: 252 HP / 4 Def / 252 SpA  
-Quiet Nature  
-IVs: 0 Atk  
-- Rising Voltage  
-- Scald  
-- Recover  
-- Protect  
-
-Cinderace @ Life Orb  
-Ability: Libero  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- High Jump Kick  
-- Iron Head  
-- Sucker Punch  
-- Pyro Ball  
-
-Duraludon @ Assault Vest  
-Ability: Stalwart  
-EVs: 236 HP / 252 SpA / 4 SpD / 16 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Thunderbolt  
-- Draco Meteor  
-- Flash Cannon  
-- Dark Pulse  
-
-Darmanitan-Galar @ Choice Scarf  
-Ability: Gorilla Tactics  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Icicle Crash  
-- Stone Edge  
-- Superpower  
-- Iron Head  
-
-","1584 (40° round 1) "
 "2021/04/29 2:56:06 PM EET","Dragapult @ Weakness Policy  
 Ability: Clear Body  
 Level: 50  
@@ -2249,3 +2192,120 @@ IVs: 0 Atk
 - Thunderbolt  
 
 ","1580"
+"2021/05/01 3:48:00 PM EET","Rillaboom @ Miracle Seed  
+Ability: Grassy Surge  
+Level: 50  
+EVs: 252 HP / 252 Atk / 4 Spe  
+Adamant Nature  
+- Fake Out  
+- Grassy Glide  
+- Earthquake  
+- Protect  
+
+Cinderace @ Life Orb  
+Ability: Libero  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Pyro Ball  
+- Iron Head  
+- Bounce  
+- High Jump Kick  
+
+Hatterene (F) @ Focus Sash  
+Ability: Magic Bounce  
+Level: 50  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk / 0 Spe  
+- Expanding Force  
+- Dazzling Gleam  
+- Heal Pulse  
+- Protect  
+
+Corviknight @ Lum Berry  
+Ability: Mirror Armor  
+Level: 50  
+EVs: 252 HP / 140 Def / 116 SpD  
+Impish Nature  
+- Brave Bird  
+- Body Press  
+- Bulk Up  
+- Roost  
+
+Orbeetle-Gmax @ Leftovers  
+Ability: Telepathy  
+Level: 50  
+EVs: 252 HP / 140 Def / 116 SpD  
+Impish Nature  
+IVs: 0 Atk  
+- Struggle Bug  
+- Psychic  
+- Trick Room  
+- Imprison  
+
+Darmanitan-Galar @ Choice Scarf  
+Ability: Gorilla Tactics  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Flare Blitz  
+- U-turn  
+- Superpower  ","1529"
+"2021/05/01 8:44:38 PM EET","Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Scary Face  
+- Reflect  
+- Light Screen  
+- Spirit Break  
+
+Rillaboom @ Grassy Seed  
+Ability: Grassy Surge  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Brave Nature  
+- Grassy Glide  
+- Fake Out  
+- Protect  
+- Knock Off  
+
+Pincurchin @ Magnet  
+Ability: Electric Surge  
+EVs: 252 HP / 4 Def / 252 SpA  
+Quiet Nature  
+IVs: 0 Atk  
+- Rising Voltage  
+- Scald  
+- Recover  
+- Protect  
+
+Cinderace @ Life Orb  
+Ability: Libero  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- High Jump Kick  
+- Iron Head  
+- Sucker Punch  
+- Pyro Ball  
+
+Duraludon @ Assault Vest  
+Ability: Stalwart  
+EVs: 236 HP / 252 SpA / 4 SpD / 16 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Draco Meteor  
+- Flash Cannon  
+- Dark Pulse  
+
+Darmanitan-Galar @ Choice Scarf  
+Ability: Gorilla Tactics  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Icicle Crash  
+- Stone Edge  
+- Superpower  
+- Iron Head  
+","1584"
