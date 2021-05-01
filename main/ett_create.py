@@ -31,6 +31,7 @@ for row in reader:
     teamname = "team" + str(i) + ".txt"
     team = open(teamname, "a")
     team.write(row[col])
+    team.write("\n")
     team.close()
 
     i += 1
