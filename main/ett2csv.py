@@ -139,6 +139,28 @@ def get_specie(pre_at):
     return specie.strip()
 
 ##################################################################
+#LOOKING FOR THE INFOs
+def get_infos(flist):
+    INFOs = {}
+    start_phrase =  "### INFOs START HERE ###\n"
+    if start_phrase in flist:
+        for line in flist[flist.index(start_phrase):]:
+            if ":" in line:
+                attr = line[:line.index(":")]
+                INFOs[attr] = line[line.index(":") + 1 :]
+    #print(INFOs)
+    return INFOs
+
+##################################################################
+#ADD INFOs
+def add_infos(TEAM, INFOs):
+    for PKM in TEAM:
+        for attr, info in zip(INFOs.keys(), INFOs.values()):
+            PKM[attr] = info
+    
+    return TEAM
+
+##################################################################
 #MAIN
 
 print("Hello " + str(os.getlogin()) + "!")
@@ -148,7 +170,25 @@ print("You are using the ett2csv script from the BELDUM package ",
 db = open("db.csv", "w", newline="")
 writer = csv.writer(db)
 
-archive = zipfile.ZipFile("teams.zip", "r")
+'''
+ans = input("Do you want to include additional INFOs extracted using the add_infos script to the database? (yes/no)")
+if ans == "yes" or ans == "Yes" or ans == "y":
+    zipname = "teams_up.zip"
+    affermative = True
+elif ans == "no" or ans == "No" or ans == "n":
+    zipname = "teams.zip"
+    affermative = False
+else:
+    print("Error: answer can be only yes or no.")
+    sys.exit()
+'''
+
+if os.path.exists("teams_up.zip"):
+    zipname = "teams_up.zip"
+else:
+    zipname = "teams.zip"
+
+archive = zipfile.ZipFile(zipname, "r")
 print("N. of teams: " + str(len(archive.namelist())))
 archive.extractall()
 
@@ -167,12 +207,15 @@ for team in archive.namelist():
         #print(TEAM)
         TEAM_wt = add_teammates(TEAM, species)
 
+        INFOs = get_infos(flist)
+        TEAM_wt_wi = add_infos(TEAM_wt, INFOs)
+
         if j==0:
-            writer.writerow(TEAM_wt[0].keys())
-        for PKM in TEAM_wt:
+            writer.writerow(TEAM_wt_wi[0].keys())
+        for PKM in TEAM_wt_wi:
             writer.writerow(PKM.values())
         print("...done!")
-        
+
     j += 1
 
     f.close()

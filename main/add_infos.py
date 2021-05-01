@@ -42,6 +42,8 @@ next(reader)
 for team, row in zip(teamlist, reader):
     f = open(team, "a")
     f.write("\n")
+    f.write("### INFOs START HERE ###\n")
+    f.write("\n")
     for key, col in zip(info_keys, range(2, n_infos + 2)):
         line = key + ": " + row[col]
         f.write(line)
