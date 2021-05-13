@@ -167,7 +167,7 @@ print("Hello " + str(os.getlogin()) + "!")
 print("You are using the ett2csv script from the BELDUM package ",
     "for Pokémon VGC competitions data analysis.\n")
 
-db = open("db.csv", "w", newline="")
+db = open("db.csv", "w+", newline="")
 writer = csv.writer(db)
 
 '''
