@@ -1,0 +1,49 @@
+Yveltal @ Assault Vest  
+Ability: Dark Aura  
+Level: 50  
+- Oblivion Wing  
+- Dark Pulse  
+- Snarl  
+- Foul Play  
+
+Porygon2 @ Eviolite  
+Ability: Trace  
+Level: 50  
+- Foul Play  
+- Eerie Impulse  
+- Trick Room  
+- Recover  
+
+Metagross @ Weakness Policy  
+Ability: Clear Body  
+Level: 50  
+- Iron Head  
+- Ice Punch  
+- Stomping Tantrum  
+- Protect  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+- Flare Blitz  
+- Will-O-Wisp  
+- Fake Out  
+- Parting Shot  
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50  
+- Spirit Break  
+- Reflect  
+- Light Screen  
+- Fake Tears  
+
+Regieleki @ Focus Sash  
+Ability: Transistor  
+Level: 50  
+IVs: 0 Atk  
+- Volt Switch  
+- Thunderbolt  
+- Electroweb  
+- Protect  
+

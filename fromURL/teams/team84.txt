@@ -1,0 +1,48 @@
+Groudon @ Weakness Policy  
+Ability: Drought  
+Level: 50  
+- Precipice Blades  
+- Rock Slide  
+- Fire Punch  
+- Protect  
+
+Incineroar @ Figy Berry  
+Ability: Intimidate  
+Level: 50  
+- Fake Out  
+- Flare Blitz  
+- Parting Shot  
+- Taunt  
+
+Venusaur-Gmax @ Life Orb  
+Ability: Chlorophyll  
+Level: 50  
+- Leaf Storm  
+- Sludge Bomb  
+- Weather Ball  
+- Sleep Powder  
+
+Charizard-Gmax @ Lum Berry  
+Ability: Solar Power  
+Level: 50  
+- Blast Burn  
+- Air Slash  
+- Heat Wave  
+- Protect  
+
+Comfey @ Focus Sash  
+Ability: Triage  
+Level: 50  
+- Giga Drain  
+- Floral Healing  
+- Taunt  
+- Protect  
+
+Umbreon @ Leftovers  
+Ability: Inner Focus  
+Level: 50  
+- Foul Play  
+- Snarl  
+- Yawn  
+- Moonlight  
+

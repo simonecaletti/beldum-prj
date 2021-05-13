@@ -1,0 +1,57 @@
+Palkia @ Lustrous Orb  
+Ability: Pressure  
+Level: 50  
+Serious Nature  
+- Spacial Rend  
+- Hydro Pump  
+- Earth Power  
+- Trick Room  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+- Leech Seed  
+- Body Press  
+- Iron Defense  
+- Protect  
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Gigantamax: Yes  
+Serious Nature  
+- Light Screen  
+- Reflect  
+- Fake Tears  
+- Spirit Break  
+
+Incineroar @ Figy Berry  
+Ability: Intimidate  
+Level: 50  
+Serious Nature  
+- Fake Out  
+- Flare Blitz  
+- Will-O-Wisp  
+- Parting Shot  
+
+Moltres-Galar @ Safety Goggles  
+Ability: Berserk  
+Level: 50  
+Serious Nature  
+- Fiery Wrath  
+- Hurricane  
+- Nasty Plot  
+- Protect  
+
+Thundurus @ Sitrus Berry  
+Ability: Prankster  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+- Thunderbolt  
+- Electroweb  
+- Eerie Impulse  
+- Taunt  
+

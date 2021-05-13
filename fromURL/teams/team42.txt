@@ -1,0 +1,51 @@
+Venusaur-Gmax @ Focus Sash  
+Ability: Chlorophyll  
+Gigantamax: Yes  
+- Frenzy Plant  
+- Sludge Bomb  
+- Sleep Powder  
+- Weather Ball  
+
+Charizard-Gmax @ Life Orb  
+Ability: Solar Power  
+Gigantamax: Yes
+Level: 50  
+- Heat Wave  
+- Hurricane  
+- Scorching Sands  
+- Protect  
+
+MetalGreymon (Groudon) @ Sitrus Berry  
+Ability: Drought  
+Level: 50  
+- Precipice Blades  
+- Swords Dance  
+- Rock Slide  
+- Protect  
+
+Porygon2 @ Eviolite  
+Ability: Download  
+Level: 50  
+Shiny: Yes  
+- Ice Beam  
+- Foul Play  
+- Trick Room  
+- Recover  
+
+Incineroar @ Figy Berry  
+Ability: Intimidate  
+Level: 50  
+Shiny: Yes  
+- Parting Shot  
+- Fake Out  
+- Flare Blitz  
+- Darkest Lariat  
+
+Glastrier @ Lum Berry  
+Ability: Chilling Neigh  
+Level: 50  
+- Icicle Spear  
+- Close Combat  
+- Heavy Slam  
+- Protect  
+

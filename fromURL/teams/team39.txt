@@ -1,0 +1,61 @@
+Calyrex-Shadow @ Spell Tag  
+Ability: As One (Spectrier)  
+Level: 50  
+Serious Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Astral Barrage  
+- Psyshock  
+- Substitute  
+- Protect  
+
+Mimikyu @ Pixie Plate  
+Ability: Disguise  
+Level: 50  
+Serious Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Play Rough  
+- Will-O-Wisp  
+- Taunt  
+- Trick Room  
+
+Regieleki @ Focus Sash  
+Ability: Transistor  
+Level: 50  
+Serious Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Electroweb  
+- Thunderbolt  
+- Eerie Impulse  
+- Protect  
+
+Thundurus (M) @ Assault Vest  
+Ability: Defiant  
+Level: 50  
+Serious Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Fly  
+- Wild Charge  
+- Superpower  
+- Crunch  
+
+Weezing @ Shuca Berry  
+Ability: Neutralizing Gas  
+Level: 50  
+Serious Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Sludge Bomb  
+- Will-O-Wisp  
+- Taunt  
+- Protect  
+
+Regigigas @ Life Orb  
+Ability: Slow Start  
+Level: 50  
+Serious Nature  
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe  
+- Giga Impact  
+- Darkest Lariat  
+- Thunder Punch  
+- Wide Guard  
+
+

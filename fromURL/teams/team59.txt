@@ -1,0 +1,63 @@
+Amoonguss @ Focus Sash  
+Ability: Regenerator  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+IVs: 0 Atk  
+- Spore  
+- Rage Powder  
+- Protect  
+- Pollen Puff  
+
+Umbreon @ Leftovers  
+Ability: Inner Focus  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+IVs: 0 Atk  
+- Taunt  
+- Yawn  
+- Protect  
+- Foul Play  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+Serious Nature  
+- Substitute  
+- Protect  
+- Sacred Sword  
+- Behemoth Blade  
+
+Landorus-Therian @ Lum Berry  
+Ability: Intimidate  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+- Fly  
+- Rock Slide  
+- Earthquake  
+- Protect  
+
+Thundurus @ Assault Vest  
+Ability: Defiant  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+- Fly  
+- Electroweb  
+- Wild Charge  
+- Superpower  
+
+Lapras-Gmax (F) @ Light Clay  
+Ability: Water Absorb  
+Level: 50  
+Shiny: Yes  
+Gigantamax: Yes  
+Bashful Nature  
+IVs: 0 Atk  
+- Protect  
+- Freeze-Dry  
+- Hydro Pump  
+- Perish Song  
+

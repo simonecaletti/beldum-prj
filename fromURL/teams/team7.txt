@@ -1,0 +1,46 @@
+Palkia @ Lustrous Orb  
+Ability: Telepathy  
+- Hydro Pump  
+- Spacial Rend  
+- Earth Power  
+- Trick Room  
+
+Ferrothorn (M) @ Leftovers  
+Ability: Iron Barbs  
+- Body Press  
+- Leech Seed  
+- Iron Defense  
+- Protect  
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Gigantamax: Yes   
+- Spirit Break  
+- Light Screen  
+- Reflect  
+- Thunder Wave  
+
+Landorus-Therian @ Assault Vest  
+Ability: Intimidate  
+- Earthquake  
+- Rock Slide  
+- Fly  
+- U-turn  
+
+Rotom-Heat @ Safety Goggles  
+Ability: Levitate  
+Level: 50  
+- Overheat  
+- Discharge  
+- Nasty Plot  
+- Protect  
+
+Urshifu-Gmax @ Focus Sash  
+Ability: Unseen Fist  
+Level: 50    
+- Wicked Blow  
+- Close Combat  
+- Sucker Punch  
+- Protect  
+

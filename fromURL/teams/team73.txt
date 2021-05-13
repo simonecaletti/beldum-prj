@@ -1,0 +1,53 @@
+Eternatus @ Dragon Fang  
+Ability: Pressure  
+Level: 50  
+Bashful Nature  
+- Dynamax Cannon  
+- Sludge Bomb  
+- Flamethrower  
+- Protect  
+
+Whimsicott (M) @ Coba Berry  
+Ability: Prankster  
+Level: 50  
+Bashful Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Tailwind  
+- Fake Tears  
+- Taunt  
+
+Landorus-Therian (M) @ Assault Vest  
+Ability: Intimidate  
+Level: 50  
+Bashful Nature  
+- Earthquake  
+- Rock Slide  
+- Fly  
+- U-turn  
+
+Urshifu (M) @ Choice Band  
+Ability: Unseen Fist  
+Level: 50  
+Bashful Nature  
+- Close Combat  
+- Wicked Blow  
+- Sucker Punch  
+- U-turn  
+
+Rotom-Heat @ Safety Goggles  
+Ability: Levitate  
+Level: 50  
+Bashful Nature  
+- Thunderbolt  
+- Overheat  
+- Will-O-Wisp  
+- Nasty Plot  
+
+Ditto @ Focus Sash  
+Ability: Imposter  
+Level: 50  
+Shiny: Yes  
+Bashful Nature  
+- Transform  
+

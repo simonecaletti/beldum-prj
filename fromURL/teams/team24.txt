@@ -1,0 +1,48 @@
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+- Behemoth Blade  
+- Sacred Sword  
+- Swords Dance  
+- Protect  
+
+Lapras-Gmax @ Life Orb  
+Ability: Water Absorb  
+Level: 50  
+- Ice Beam  
+- Hydro Pump  
+- Thunder  
+- Protect  
+
+Thundurus (M) @ Assault Vest  
+Ability: Defiant  
+Level: 50  
+- Wild Charge  
+- Fly  
+- Superpower  
+- Foul Play  
+
+Moltres-Galar @ Safety Goggles  
+Ability: Berserk  
+Level: 50  
+- Air Slash  
+- Fiery Wrath  
+- Nasty Plot  
+- Protect  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+- Fake Out  
+- Flare Blitz  
+- Parting Shot  
+- Taunt  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+Level: 50  
+- Spore  
+- Rage Powder  
+- Pollen Puff  
+- Protect  
+

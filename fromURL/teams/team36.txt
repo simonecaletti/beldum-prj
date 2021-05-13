@@ -1,0 +1,49 @@
+Charizard @ Life Orb  
+Ability: Solar Power  
+Level: 50  
+IVs: 0 Atk  
+- Air Slash  
+- Blast Burn  
+- Heat Wave  
+- Protect  
+
+Venusaur @ Focus Sash  
+Ability: Chlorophyll  
+Level: 50  
+- Leaf Storm  
+- Weather Ball  
+- Sludge Bomb  
+- Sleep Powder  
+
+Umbreon @ Leftovers  
+Ability: Inner Focus  
+Level: 50  
+- Foul Play  
+- Yawn  
+- Moonlight  
+- Snarl  
+
+Incineroar @ Assault Vest  
+Ability: Intimidate  
+Level: 50   
+- Flare Blitz  
+- Fake Out  
+- Darkest Lariat  
+- U-turn  
+
+Regieleki @ Magnet  
+Ability: Transistor  
+Level: 50  
+- Electroweb  
+- Thunderbolt  
+- Eerie Impulse  
+- Protect  
+
+Groudon @ Sitrus Berry  
+Ability: Drought  
+Level: 50   
+- Precipice Blades  
+- Rock Slide  
+- Swords Dance  
+- Protect  
+

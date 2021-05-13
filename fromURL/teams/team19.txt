@@ -1,0 +1,43 @@
+Coalossal-Gmax @ Weakness Policy  
+Ability: Steam Engine  
+Gigantamax: Yes  
+- Meteor Beam  
+- Heat Wave  
+- Earth Power  
+- Protect  
+
+Dragapult @ Life Orb  
+Ability: Clear Body  
+- Phantom Force  
+- Dragon Darts  
+- Fly  
+- Surf  
+
+Urshifu-Rapid-Strike-Gmax @ Focus Sash  
+Ability: Unseen Fist  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- Protect  
+
+Incineroar @ Assault Vest  
+Ability: Intimidate  
+- Flare Blitz  
+- Lash Out  
+- U-turn  
+- Fake Out  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+- Pollen Puff  
+- Rage Powder  
+- Spore  
+- Protect  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+- Behemoth Blade  
+- Close Combat  
+- Substitute  
+- Protect  
+

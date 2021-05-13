@@ -1,0 +1,43 @@
+Incineroar @ Figy Berry  
+Ability: Intimidate  
+- Fake Out  
+- Snarl  
+- Flare Blitz  
+- Parting Shot  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+- Iron Head  
+- Close Combat  
+- Substitute  
+- Protect  
+
+Dragapult @ Lum Berry  
+Ability: Clear Body  
+- Fly  
+- Dragon Darts  
+- Phantom Force  
+- Will-O-Wisp  
+
+Lapras-Gmax @ Life Orb  
+Ability: Water Absorb  
+Gigantamax: Yes  
+- Freeze-Dry  
+- Ice Shard  
+- Protect  
+- Hydro Pump  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+- Spore  
+- Rage Powder  
+- Pollen Puff  
+- Protect  
+
+Regieleki @ Focus Sash  
+Ability: Transistor  
+- Thunderbolt  
+- Electroweb  
+- Eerie Impulse  
+- Protect  
+

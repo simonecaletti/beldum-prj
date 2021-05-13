@@ -1,0 +1,63 @@
+Lapras @ Light Clay  
+Ability: Water Absorb  
+Level: 50  
+Shiny: Yes  
+Gigantamax: Yes  
+Serious Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Freeze-Dry  
+- Perish Song  
+- Protect  
+
+Thundurus @ Assault Vest  
+Ability: Defiant  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+- Wild Charge  
+- Fly  
+- Superpower  
+- Electroweb  
+
+Amoonguss @ Focus Sash  
+Ability: Regenerator  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+- Spore  
+- Rage Powder  
+- Pollen Puff  
+- Protect  
+
+Hydreigon @ Safety Goggles  
+Ability: Levitate  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Draco Meteor  
+- Heat Wave  
+- Nasty Plot  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+- Fake Out  
+- Flare Blitz  
+- Taunt  
+- Parting Shot  
+
+Zacian @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+Serious Nature  
+IVs: 0 SpA  
+- Iron Head  
+- Sacred Sword  
+- Substitute  
+- Protect  
+

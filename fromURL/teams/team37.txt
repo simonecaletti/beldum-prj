@@ -1,0 +1,56 @@
+Lapras-Gmax @ Light Clay  
+Ability: Water Absorb  
+Level: 50  
+Gigantamax: Yes  
+Serious Nature  
+- Freeze-Dry  
+- Hydro Pump  
+- Perish Song  
+- Protect  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+Level: 50  
+Serious Nature  
+- Pollen Puff  
+- Spore  
+- Rage Powder  
+- Protect  
+
+Landorus-Therian @ Lum Berry  
+Ability: Intimidate  
+Level: 50  
+Serious Nature  
+- Earthquake  
+- Rock Slide  
+- Fly  
+- Swords Dance  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+Serious Nature  
+- Flare Blitz  
+- Fake Out  
+- Parting Shot  
+- Taunt  
+
+Regieleki @ Focus Sash  
+Ability: Transistor  
+Level: 50  
+Serious Nature  
+- Electroweb  
+- Thunderbolt  
+- Volt Switch  
+- Protect  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+EVs: 252 HP  
+Serious Nature  
+- Behemoth Blade  
+- Sacred Sword  
+- Substitute  
+- Protect  
+

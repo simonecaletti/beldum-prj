@@ -1,0 +1,43 @@
+Dragapult @ Life Orb  
+Ability: Clear Body  
+Level: 50  
+- Dragon Darts  
+- Phantom Force  
+- Fly  
+- Surf  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+- Behemoth Blade  
+- Sacred Sword  
+- Substitute  
+- Protect  
+
+Coalossal-Gmax @ Weakness Policy  
+Ability: Steam Engine  
+- Meteor Beam  
+- Heat Wave  
+- Ancient Power  
+- Protect  
+
+Urshifu-Rapid-Strike-Gmax @ Focus Sash  
+Ability: Unseen Fist  
+- Surging Strikes  
+- Close Combat  
+- Aqua Jet  
+- Protect  
+
+Rillaboom-Gmax (M) @ Miracle Seed  
+Ability: Grassy Surge  
+- Fake Out  
+- Grassy Glide  
+- Wood Hammer  
+- Protect  
+
+Landorus-Therian @ Lum Berry  
+Ability: Intimidate  
+- Earthquake  
+- Fly  
+- Rock Slide  
+- Swords Dance  
+

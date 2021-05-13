@@ -1,0 +1,54 @@
+Solgaleo @ Weakness Policy  
+Ability: Full Metal Body  
+Level: 50  
+Serious Nature  
+- Sunsteel Strike  
+- Earthquake  
+- Rock Slide  
+- Protect  
+
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Serious Nature  
+- Spirit Break  
+- Sucker Punch  
+- Light Screen  
+- Reflect  
+
+Spectrier @ Focus Sash  
+Ability: Grim Neigh  
+Level: 50  
+Serious Nature  
+- Shadow Ball  
+- Snarl  
+- Will-O-Wisp  
+- Bulldoze  
+
+Porygon2 @ Eviolite  
+Ability: Trace  
+Level: 50  
+Serious Nature  
+- Foul Play  
+- Eerie Impulse  
+- Recover  
+- Trick Room  
+
+Rotom-Heat @ Safety Goggles  
+Ability: Levitate  
+Level: 50  
+Serious Nature  
+- Overheat  
+- Thunderbolt  
+- Nasty Plot  
+- Protect  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+Level: 50  
+Serious Nature  
+- Muddy Water  
+- Moonblast  
+- Calm Mind  
+- Protect  
+

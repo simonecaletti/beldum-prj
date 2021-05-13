@@ -1,0 +1,55 @@
+Regieleki @ Focus Sash  
+Ability: Transistor  
+Level: 50  
+Serious Nature  
+- Protect  
+- Electroweb  
+- Volt Switch  
+- Thunder  
+
+Kyogre @ Mystic Water  
+Ability: Drizzle  
+Level: 50  
+Serious Nature  
+- Protect  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+
+Incineroar (M) @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+- Fake Out  
+- Taunt  
+- Flare Blitz  
+- Parting Shot  
+
+Ferrothorn (F) @ Leftovers  
+Ability: Iron Barbs  
+Level: 50  
+Serious Nature  
+- Protect  
+- Body Press  
+- Leech Seed  
+- Iron Defense  
+
+Porygon2 @ Eviolite  
+Ability: Trace  
+Level: 50  
+Serious Nature  
+- Foul Play  
+- Eerie Impulse  
+- Recover  
+- Trick Room  
+
+Dragapult (F) @ Lum Berry  
+Ability: Clear Body  
+Level: 50  
+Serious Nature  
+- Phantom Force  
+- Dragon Darts  
+- Fly  
+- Will-O-Wisp  
+

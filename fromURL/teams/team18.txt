@@ -1,0 +1,43 @@
+Groudon @ White Herb  
+Ability: Drought  
+- Precipice Blades  
+- Rock Slide  
+- Swords Dance  
+- Protect  
+
+Venusaur (M) @ Coba Berry  
+Ability: Chlorophyll  
+IVs: 0 Atk  
+- Leaf Storm  
+- Earth Power  
+- Weather Ball  
+- Sleep Powder  
+
+Regieleki @ Focus Sash  
+Ability: Transistor  
+- Electroweb  
+- Eerie Impulse  
+- Thunderbolt  
+- Protect  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+- Earth Power  
+- Ice Beam  
+- Yawn  
+- Protect  
+
+Charizard (M) @ Life Orb  
+Ability: Solar Power  
+- Blast Burn  
+- Hurricane  
+- Heat Wave  
+- Protect  
+
+Landorus-Therian @ Lum Berry  
+Ability: Intimidate  
+- Earthquake  
+- Fly  
+- Rock Slide  
+- Swords Dance  
+

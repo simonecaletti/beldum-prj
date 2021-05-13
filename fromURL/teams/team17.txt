@@ -1,0 +1,53 @@
+Dragapult @ Life Orb  
+Ability: Clear Body  
+Level: 50  
+Serious Nature  
+- Dragon Darts  
+- Phantom Force  
+- Fly  
+- Surf  
+
+Coalossal-Gmax @ Weakness Policy  
+Ability: Steam Engine  
+Level: 50  
+Serious Nature  
+- Meteor Beam  
+- Heat Wave  
+- Earth Power  
+- Protect  
+
+Urshifu-Rapid-Strike @ Focus Sash  
+Ability: Unseen Fist  
+Level: 50  
+- Surging Strikes  
+- Aqua Jet  
+- Close Combat  
+- Detect  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+Serious Nature  
+- Behemoth Blade  
+- Close Combat  
+- Substitute  
+- Protect  
+
+Incineroar @ Assault Vest  
+Ability: Intimidate  
+Level: 50  
+Serious Nature  
+- Fake Out  
+- Flare Blitz  
+- Snarl  
+- U-turn  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+Level: 50  
+Serious Nature  
+- Spore  
+- Rage Powder  
+- Giga Drain  
+- Protect  
+

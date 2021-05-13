@@ -1,0 +1,42 @@
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword   
+- Behemoth Blade  
+- Close Combat  
+- Substitute  
+- Protect  
+
+Thundurus @ Lum Berry  
+Ability: Defiant   
+- Wild Charge  
+- Fly  
+- Superpower  
+- Taunt  
+
+Kingdra @ Life Orb  
+Ability: Swift Swim  
+- Muddy Water 
+- Hurricane
+- Draco Meteor     
+- Protect  
+
+Politoed @ Eject Button  
+Ability: Drizzle  
+- Scald 
+- Perish Song  
+- Helping Hand  
+- Protect   
+
+Landorus-Therian @ Assault Vest  
+Ability: Intimidate  
+- Rock Slide 
+- Earthquake    
+- Fly  
+- U-turn  
+
+Urshifu-Gmax @ Focus Sash  
+Ability: Unseen Fist    
+- Wicked Blow  
+- Close Combat  
+- Sucker Punch  
+- Detect  
+

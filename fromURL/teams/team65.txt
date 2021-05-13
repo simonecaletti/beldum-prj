@@ -1,0 +1,50 @@
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+Level: 50  
+Shiny: Yes     
+- Protect  
+- Leech Seed  
+- Body Press  
+- Iron Defense  
+
+Raichu @ Focus Sash  
+Ability: Lightning Rod  
+Level: 50  
+Shiny: Yes    
+- Fake Out  
+- Nuzzle  
+- Eerie Impulse  
+- Volt Switch  
+
+Kyogre @ Mystic Water  
+Ability: Drizzle  
+Level: 50    
+- Origin Pulse  
+- Water Spout  
+- Ice Beam  
+- Protect  
+
+Kingdra @ Life Orb  
+Ability: Swift Swim  
+Level: 50  
+- Hydro Pump  
+- Hurricane  
+- Draco Meteor  
+- Protect  
+
+Mimikyu @ Safety Goggles  
+Ability: Disguise  
+Level: 50   
+- Shadow Sneak  
+- Will-O-Wisp  
+- Trick Room  
+- Taunt  
+
+Metagross @ Weakness Policy  
+Ability: Clear Body  
+Level: 50    
+- Iron Head  
+- Ice Punch  
+- Earthquake  
+- Protect  
+

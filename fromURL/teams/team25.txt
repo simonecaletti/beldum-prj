@@ -1,0 +1,39 @@
+Dragapult @ Safety Goggles  
+Ability: Clear Body  
+- Light Screen  
+- Surf  
+- Breaking Swipe  
+- Phantom Force  
+
+Coalossal-Gmax  @ Weakness Policy  
+Ability: Steam Engine 
+- Protect  
+- Earth Power  
+- Meteor Beam  
+- Heat Wave  
+Rillaboom-Gmax  @ Miracle Seed  
+Ability: Grassy Surge 
+- Protect  
+- Fake Out  
+- High Horsepower  
+- Grassy Glide  
+Urshifu-Rapid-Strike-Gmax @ Focus Sash  
+Ability: Unseen Fist 
+- Detect  
+- Close Combat  
+- Aqua Jet  
+- Surging Strikes  
+
+Yveltal @ Assault Vest  
+Ability: Dark Aura  
+- Foul Play  
+- Sucker Punch  
+- Snarl  
+- Oblivion Wing  
+
+Incineroar  @ Sitrus Berry  
+Ability: Intimidate   
+- Taunt  
+- Parting Shot  
+- Fake Out  
+- Flare Blitz  

@@ -1,0 +1,52 @@
+Sableye @ Safety Goggles  
+Ability: Prankster  
+Serious Nature  
+IVs: 1 SpA  
+- Foul Play  
+- Quash  
+- Sunny Day  
+- Will-O-Wisp  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Bashful Nature  
+- Behemoth Blade  
+- Swords Dance  
+- Protect  
+- Sacred Sword  
+
+Charizard @ Life Orb  
+Ability: Solar Power  
+Level: 50  
+IVs: 0 Atk  
+- Heat Wave  
+- Air Slash  
+- Protect  
+- Scorching Sands  
+
+Umbreon @ Leftovers  
+Ability: Inner Focus  
+Level: 50  
+Shiny: Yes  
+Bashful Nature  
+- Snarl  
+- Yawn  
+- Foul Play  
+- Moonlight  
+
+Regieleki @ Focus Sash  
+Ability: Transistor  
+Serious Nature  
+- Electroweb  
+- Eerie Impulse  
+- Protect  
+- Thunder Cage  
+
+Landorus-Therian @ Lum Berry  
+Ability: Intimidate  
+Serious Nature  
+- Earthquake  
+- Fly  
+- Rock Slide  
+- Swords Dance  
+

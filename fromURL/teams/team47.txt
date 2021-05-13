@@ -1,0 +1,57 @@
+Charizard (M) @ Life Orb  
+Ability: Solar Power  
+Level: 50  
+Shiny: Yes  
+Gigantamax: Yes  
+Serious Nature  
+- Heat Wave  
+- Blast Burn  
+- Hurricane  
+- Protect  
+
+Groudon @ Aguav Berry  
+Ability: Drought  
+Level: 50  
+Serious Nature  
+- Precipice Blades  
+- Rock Slide  
+- Swords Dance  
+- Protect  
+
+Venusaur-Gmax (M) @ Weakness Policy  
+Ability: Chlorophyll  
+Level: 50  
+Gigantamax: Yes  
+Serious Nature  
+- Sludge Bomb  
+- Frenzy Plant  
+- Weather Ball  
+- Sleep Powder  
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Level: 50  
+Serious Nature  
+- Taunt  
+- Reflect  
+- Light Screen  
+- Spirit Break  
+
+Umbreon (M) @ Leftovers  
+Ability: Inner Focus  
+Level: 50  
+Serious Nature  
+- Foul Play  
+- Snarl  
+- Yawn  
+- Moonlight  
+
+Regieleki @ Focus Sash  
+Ability: Transistor  
+Level: 50  
+Serious Nature  
+- Electroweb  
+- Thunderbolt  
+- Volt Switch  
+- Protect  
+

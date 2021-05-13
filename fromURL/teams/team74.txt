@@ -1,0 +1,53 @@
+Grimmsnarl-Gmax (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+- Spirit Break  
+- Scary Face  
+- Reflect  
+- Light Screen  
+
+Dragapult (M) @ Safety Goggles  
+Ability: Clear Body  
+Level: 50  
+Shiny: Yes  
+- Dragon Darts  
+- Phantom Force  
+- Fly  
+- Will-O-Wisp  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+Level: 50  
+Shiny: Yes  
+IVs: 0 Atk  
+- Muddy Water  
+- Moonblast  
+- Nature's Madness  
+- Protect  
+
+Necrozma-Dusk-Mane @ Weakness Policy  
+Ability: Prism Armor  
+Level: 50  
+Shiny: Yes  
+- Sunsteel Strike  
+- Earthquake  
+- Rock Slide  
+- Swords Dance  
+
+Zapdos @ Assault Vest  
+Ability: Static  
+Level: 50  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Hurricane  
+- Heat Wave  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+- Flare Blitz  
+- Parting Shot  
+- Taunt  
+- Fake Out  
+

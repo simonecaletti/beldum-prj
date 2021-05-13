@@ -1,0 +1,48 @@
+Grimmsnarl (M) @ Light Clay  
+Ability: Prankster  
+Level: 50  
+- Spirit Break  
+- Reflect  
+- Light Screen  
+- Taunt  
+
+Porygon2 @ Eviolite  
+Ability: Trace  
+Level: 50  
+- Eerie Impulse  
+- Foul Play  
+- Trick Room  
+- Recover  
+
+Dialga @ Life Orb  
+Ability: Telepathy  
+Level: 50  
+- Roar of Time  
+- Flash Cannon  
+- Earth Power  
+- Flamethrower  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+Level: 50  
+- Moonblast  
+- Muddy Water  
+- Calm Mind  
+- Protect  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+Level: 50  
+- Fake Out  
+- Flare Blitz  
+- Parting Shot  
+- Snarl  
+
+Nihilego @ Focus Sash  
+Ability: Beast Boost  
+Level: 50  
+- Power Gem  
+- Sludge Bomb  
+- Trick Room  
+- Protect  
+

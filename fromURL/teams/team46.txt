@@ -1,0 +1,57 @@
+Yveltal @ Assault Vest  
+Ability: Dark Aura  
+Level: 50  
+Serious Nature  
+IVs: 0 Atk  
+- Oblivion Wing  
+- Dark Pulse  
+- Snarl  
+- Heat Wave  
+
+Bisharp @ Black Glasses  
+Ability: Defiant  
+Level: 50  
+Serious Nature  
+- Protect  
+- Iron Head  
+- Sucker Punch  
+- Assurance  
+
+Regieleki @ Choice Specs  
+Ability: Transistor  
+Level: 50  
+Serious Nature  
+IVs: 0 Atk  
+- Electroweb  
+- Volt Switch  
+- Electro Ball  
+- Thunderbolt  
+
+Cinderace @ Life Orb  
+Ability: Libero  
+Level: 50  
+Serious Nature  
+- Protect  
+- Pyro Ball  
+- Bounce  
+- High Jump Kick  
+
+Whimsicott @ Focus Sash  
+Ability: Prankster  
+Level: 50  
+Serious Nature  
+IVs: 0 Atk  
+- Protect  
+- Tailwind  
+- Moonblast  
+- Helping Hand  
+
+Landorus-Therian @ Lum Berry  
+Ability: Intimidate  
+Level: 50  
+Serious Nature  
+- Protect  
+- Earthquake  
+- Fly  
+- Rock Slide  
+

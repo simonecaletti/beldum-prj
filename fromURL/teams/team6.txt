@@ -1,0 +1,42 @@
+Charizard-Gmax @ Life Orb  
+Ability: Solar Power  
+- Protect  
+- Blast Burn  
+- Heat Wave  
+- Hurricane  
+
+Groudon @ Sitrus Berry  
+Ability: Drought  
+- Protect  
+- Precipice Blades  
+- Rock Slide  
+- Swords Dance  
+
+Venusaur-Gmax @ Focus Sash  
+Ability: Chlorophyll  
+- Sleep Powder  
+- Leaf Storm  
+- Earth Power  
+- Weather Ball  
+
+Umbreon @ Leftovers  
+Ability: Inner Focus  
+- Foul Play  
+- Snarl  
+- Yawn  
+- Moonlight  
+
+Incineroar @ Assault Vest  
+Ability: Intimidate   
+- U-turn  
+- Flare Blitz  
+- Darkest Lariat  
+- Fake Out  
+
+Regieleki @ Magnet  
+Ability: Transistor  
+- Thunderbolt  
+- Electroweb  
+- Volt Switch  
+- Protect  
+

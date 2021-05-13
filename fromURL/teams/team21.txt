@@ -1,0 +1,58 @@
+Regieleki @ Focus Sash  
+Ability: Transistor  
+Level: 50  
+Serious Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Electroweb  
+- Screech  
+- Protect  
+
+Dragapult @ Life Orb  
+Ability: Clear Body  
+Level: 50  
+Serious Nature  
+- Dragon Darts  
+- Phantom Force  
+- Fly  
+- Dragon Dance  
+
+Zacian-Crowned @ Rusted Sword  
+Ability: Intrepid Sword  
+Level: 50  
+Serious Nature  
+- Behemoth Blade  
+- Close Combat  
+- Substitute  
+- Protect  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+Level: 50  
+Serious Nature  
+IVs: 0 Atk / 0 Spe  
+- Spore  
+- Rage Powder  
+- Pollen Puff  
+- Protect  
+
+Incineroar @ Iapapa Berry  
+Ability: Intimidate  
+Level: 50  
+EVs: 4 Def  
+Serious Nature  
+- Flare Blitz  
+- Assurance  
+- Fake Out  
+- Parting Shot  
+
+Rotom-Wash @ Sitrus Berry  
+Ability: Levitate  
+Level: 50  
+Serious Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Thunderbolt  
+- Will-O-Wisp  
+- Nasty Plot  
+

@@ -1,0 +1,48 @@
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+Level: 50  
+- Moonblast  
+- Dazzling Gleam  
+- Geomancy  
+- Protect  
+
+Charizard-Gmax @ Life Orb  
+Ability: Solar Power  
+Level: 50  
+- Blast Burn  
+- Heat Wave  
+- Hurricane  
+- Protect  
+
+Regieleki @ Focus Sash  
+Ability: Transistor  
+Level: 50  
+- Thunderbolt  
+- Electroweb  
+- Volt Switch  
+- Protect  
+
+Sableye @ Safety Goggles  
+Ability: Prankster  
+Level: 50  
+- Quash  
+- Will-O-Wisp  
+- Foul Play  
+- Sunny Day  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+Level: 50  
+- Protect  
+- Pollen Puff  
+- Rage Powder  
+- Spore  
+
+Landorus-Therian (M) @ Assault Vest  
+Ability: Intimidate  
+Level: 50  
+- Earthquake  
+- Rock Slide  
+- Fly  
+- U-turn  
+

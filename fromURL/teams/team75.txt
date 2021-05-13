@@ -1,0 +1,44 @@
+Regieleki @ Focus Sash  
+Ability: Transistor  
+Level: 50  
+- Electroweb  
+- Eerie Impulse  
+- Thunderbolt  
+- Protect  
+
+Charizard-Gmax (M) @ Life Orb  
+Ability: Solar Power  
+Level: 50  
+- Blast Burn  
+- Hurricane  
+- Heat Wave  
+- Protect  
+
+Groudon @ Sitrus Berry  
+Ability: Drought  
+- Precipice Blades  
+- Rock Slide  
+- Swords Dance  
+- Protect  
+
+Venusaur-Gmax @ Coba Berry  
+Ability: Chlorophyll  
+- Frenzy Plant  
+- Earth Power  
+- Sleep Powder  
+- Weather Ball  
+
+Umbreon @ Leftovers  
+Ability: Inner Focus  
+- Foul Play  
+- Snarl  
+- Moonlight  
+- Yawn  
+
+Incineroar (M) @ Assault Vest  
+Ability: Intimidate  
+- Fake Out  
+- Flare Blitz  
+- U-turn  
+- Snarl  
+

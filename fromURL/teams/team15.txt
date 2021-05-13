@@ -1,0 +1,59 @@
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+Level: 50  
+Hardy Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Dazzling Gleam  
+- Geomancy  
+- Protect  
+
+Rotom-Heat @ Safety Goggles  
+Ability: Levitate  
+Level: 50  
+Hardy Nature  
+IVs: 0 Atk  
+- Overheat  
+- Thunderbolt  
+- Protect  
+- Nasty Plot  
+
+Milotic @ Assault Vest  
+Ability: Competitive  
+Level: 50  
+Hardy Nature  
+IVs: 0 Atk  
+- Scald  
+- Ice Beam  
+- Mud Shot  
+- Dragon Pulse  
+
+Amoonguss @ Coba Berry  
+Ability: Regenerator  
+Level: 50  
+Quirky Nature  
+IVs: 0 Atk  
+- Spore  
+- Rage Powder  
+- Protect  
+- Pollen Puff  
+
+Landorus-Therian (M) @ Life Orb  
+Ability: Intimidate  
+Level: 50  
+Hardy Nature  
+- Fly  
+- Rock Slide  
+- Earthquake  
+- Protect  
+
+Naganadel @ Focus Sash  
+Ability: Beast Boost  
+Level: 50  
+Quirky Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Snarl  
+- Draco Meteor  
+- Charm  
+

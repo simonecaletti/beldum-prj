@@ -1,0 +1,53 @@
+Ferrothorn (M) @ Leftovers  
+Ability: Iron Barbs  
+Level: 50  
+Bashful Nature  
+- Body Press  
+- Protect  
+- Leech Seed  
+- Iron Defense  
+
+Rotom-Heat @ Safety Goggles  
+Ability: Levitate  
+Level: 50  
+Bashful Nature  
+- Overheat  
+- Discharge  
+- Nasty Plot  
+- Will-O-Wisp  
+
+Regieleki @ Magnet  
+Ability: Transistor  
+Level: 50  
+Bashful Nature  
+- Thunderbolt  
+- Electroweb  
+- Eerie Impulse  
+- Protect  
+
+Urshifu @ Focus Sash  
+Ability: Unseen Fist  
+Level: 50  
+- Protect  
+- Sucker Punch  
+- Wicked Blow  
+- Protect  
+
+Landorus-Therian @ Assault Vest  
+Ability: Intimidate  
+Level: 50  
+Bashful Nature  
+- Earthquake  
+- Rock Slide  
+- Fly  
+- U-turn  
+
+Palkia @ Life Orb  
+Ability: Telepathy  
+Level: 50  
+Bashful Nature  
+- Hydro Pump  
+- Spacial Rend  
+- Earth Power  
+- Trick Room  
+

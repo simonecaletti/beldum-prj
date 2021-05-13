@@ -1,0 +1,45 @@
+Groudon @ White Herb  
+Ability: Drought  
+- Precipice Blades  
+- Rock Slide  
+- Swords Dance  
+- Protect  
+
+Charizard-Gmax (M) @ Life Orb  
+Ability: Solar Power  
+Gigantamax: Yes  
+- Heat Wave  
+- Blast Burn  
+- Air Slash  
+- Protect  
+
+Venusaur-Gmax (M) @ Weakness Policy  
+Ability: Chlorophyll  
+Gigantamax: Yes  
+- Leaf Storm  
+- Weather Ball  
+- Sludge Bomb  
+- Sleep Powder  
+
+Incineroar (M) @ Sitrus Berry  
+Ability: Intimidate  
+- Fake Out  
+- Flare Blitz  
+- Darkest Lariat  
+- Parting Shot  
+
+Grimmsnarl @ Light Clay  
+Ability: Prankster  
+Gigantamax: Yes   
+- Spirit Break  
+- Reflect  
+- Light Screen  
+- Scary Face  
+
+Porygon2 @ Eviolite  
+Ability: Download  
+- Ice Beam  
+- Eerie Impulse  
+- Recover  
+- Trick Room  
+

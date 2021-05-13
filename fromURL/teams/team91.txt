@@ -1,0 +1,44 @@
+Groudon @ White Herb  
+Ability: Drought  
+- Precipice Blades  
+- Rock Slide  
+- Swords Dance  
+- Protect  
+
+Venusaur-Gmax (M) @ Coba Berry  
+Ability: Chlorophyll   
+Gigantamax: Yes  
+- Sludge Bomb  
+- Leaf Storm  
+- Earth Power  
+- Sleep Powder  
+
+Charizard-Gmax (M) @ Life Orb  
+Ability: Solar Power   
+Timid Nature  
+- Heat Wave  
+- Air Slash  
+- Blast Burn  
+- Protect  
+
+Whimsicott @ Focus Sash  
+Ability: Prankster  
+- Tailwind  
+- Helping Hand  
+- Moonblast  
+- Sunny Day  
+
+Urshifu-Gmax @ Choice Band  
+Ability: Unseen Fist  
+- Wicked Blow  
+- Sucker Punch  
+- Close Combat  
+- Poison Jab
+
+Torkoal @ Charcoal  
+Ability: Drought  
+- Eruption  
+- Heat Wave  
+- Earth Power  
+- Protect  
+

@@ -1,0 +1,56 @@
+Moby Dick (Kyogre) @ Sea Incense  
+Ability: Drizzle  
+Serious Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Origin Pulse  
+- Ice Beam  
+- Protect  
+
+Aladdin (Tornadus) @ Focus Sash  
+Ability: Prankster  
+Serious Nature  
+IVs: 0 Atk  
+- Tailwind  
+- Brutal Swing  
+- Hurricane  
+- Protect  
+
+Heidi (Regieleki) @ Magnet  
+Ability: Transistor  
+Level: 70  
+Serious Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Electroweb  
+- Thunder  
+- Protect  
+
+Stregatto (Incineroar) (M) @ Sitrus Berry  
+Ability: Intimidate  
+Serious Nature  
+- Flare Blitz  
+- Snarl  
+- Parting Shot  
+- Fake Out  
+
+MetaGruoss (Metagross) @ Weakness Policy  
+Ability: Clear Body  
+Level: 50  
+Shiny: Yes  
+Serious Nature  
+- Iron Head  
+- Rock Slide  
+- Stomping Tantrum  
+- Protect  
+
+Anacleto (Zapdos) @ Life Orb  
+Ability: Static  
+Level: 70  
+Serious Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Heat Wave  
+- Thunderbolt  
+- Protect  
+
