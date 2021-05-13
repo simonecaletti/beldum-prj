@@ -3,36 +3,22 @@ import sys
 import urllib.request as url #For point (1)
 import pandas as pd
 from bs4 import BeautifulSoup
+from requests import get
 
 # #(1) Read HTML pages line by line
 # data = url.urlopen("https://pokepast.es/e6ccdce63b42a0ba")
 # for line in data:
 #     print(line.decode('utf-8'))
 
-# (2) Convert HTML in pandas DataFrame
-path = "prova.html"
-data = []
-list_header = []
+# (2) Convert HTML in pandas DataFrame using Web scraping
+page = get("https://pokepast.es/e6ccdce63b42a0ba")
+soup = BeautifulSoup(page.content, 'html.parser')
+html = list(soup.children)[2]
+body = list(html.children)[3]
 
-soup = BeautifulSoup(open(path), 'html.parser')
-header = soup.find_all("table")[0].find("class")
+#Open txt file and write ett
+outFile = open("ett.txt", 'w+')
 
-for items in header:
-    try:
-        list_header.append(items.get_text())
-    except:
-        continue
-
-HTML_data = soup.find_all("table")[0].find_all("class")[1:]
-
-for element in HTML_data:
-    sub_data = []
-    for sub_element in element:
-        try:
-            sub_data.append(sub_element.get_text())
-        except:
-            continue
-    data.append(sub_data)
-
-dataframe = pd.DataFrame(data = data, columns = list_header)
-dataframe.to_csv('prova.csv')
+#print(body) #ETT infos are contained in the body of a pokepaste
+for pkm in body.find_all('pre'):
+    outFile.write(pkm.get_text()) #This is precisely a Pokemon
