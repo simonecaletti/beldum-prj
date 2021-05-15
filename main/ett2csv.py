@@ -9,6 +9,11 @@ import csv
 #READ PKM function
 
 def read_pkm(pkm):
+
+    #Check if the pkm input is corrupted like was for Ferrothorn
+    if '@' in pkm[0] and 'Ability' in pkm[0]:
+        pkm = adjust_ferro(pkm[0])
+
     #Create a filtered (from "\n") list 
     pkm = [x for x in pkm if x != "\n"]
     #print(pkm)
@@ -85,11 +90,25 @@ def read_team(flist, j):
     low_index = 0
     specie = []
     TEAM = []
+    #flist = [x.strip() for x in flist if x == ' \n']
     for el in range(6):
-        if el != 5: #last party member has not the \n in the very end
-            high_index = flist.index("\n", low_index+1)
+        low_index = find_with_tag(flist, "@", el+1)
+        if el != 5:
+            high_index = find_with_tag(flist, "@", el+2)
         else:
             high_index = len(flist)
+
+        #old split team member system
+        # if el != 5: #last party member has not the \n in the very end
+        #     if "\n" in flist:
+        #         high_index = flist.index("\n", low_index+1)
+        #     elif " \n" in flist:
+                # high_index = flist.index(" \n", low_index+1)
+        #     else:
+        #         print("Error: nor ' \n' neither '\n' in team{}.txt".format(j))
+        # else:
+        #     high_index = len(flist)
+        
         #print(high_index)
         
         pkm = flist[low_index:high_index]
@@ -160,6 +179,40 @@ def add_infos(TEAM, INFOs):
     
     return TEAM
 
+#################################################################
+#FIND THE Nth in a string
+
+def find_with_tag(list, tag, count=1):
+    i = 0
+    for el in list:
+        if tag in el:
+            i += 1
+            if i == count:
+                return list.index(el)
+
+##################################################################
+#CORRECT WRONG ETT PRINTING from Pokepaste
+
+def adjust_ferro(pkm):
+    new_pkm = []
+    low_index = 0
+    for i in range(len(pkm.split())):
+        if '-' in pkm.split()[i] or ':' in pkm.split()[i]:
+            high_index = i
+            line = ' '.join(pkm.split()[low_index:high_index]) + " \n"
+            new_pkm.append(line)
+            low_index = high_index
+        elif i == len(pkm.split())-1:
+            high_index = i + 1
+            line = ' '.join(pkm.split()[low_index:high_index]) + " \n"
+            new_pkm.append(line)
+        elif pkm.split()[i] == 'Nature':
+            high_index = i - 1
+            line = ' '.join(pkm.split()[low_index:high_index]) + " \n"
+            new_pkm.append(line)
+            low_index = high_index
+    return new_pkm
+
 ##################################################################
 #MAIN
 
@@ -167,7 +220,7 @@ print("Hello " + str(os.getlogin()) + "!")
 print("You are using the ett2csv script from the BELDUM package ",
     "for Pokémon VGC competitions data analysis.\n")
 
-db = open("db.csv", "w+", newline="")
+db = open("db.csv", "w", newline="")
 writer = csv.writer(db)
 
 '''
@@ -199,7 +252,7 @@ for team in archive.namelist():
     #print(flist)
 
     #Check to cut away pokepaste input instead of ETT
-    if len(flist) < 50:
+    if len(flist) < 2:
         print("Warning: check " + str(team) + ". Probably it is a pokepaste!")
     else:
         print("Converting " + str(team) , end="")
@@ -213,6 +266,7 @@ for team in archive.namelist():
         if j==0:
             writer.writerow(TEAM_wt_wi[0].keys())
         for PKM in TEAM_wt_wi:
+            #print(PKM)
             writer.writerow(PKM.values())
         print("...done!")
 

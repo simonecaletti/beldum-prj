@@ -24,45 +24,22 @@ def get_ett(paste, filepath):
 
     # print(body) #ETT infos are contained in the body of a pokepaste
     for pkm in body.find_all('pre'):
-        if "span class" in str(list(pkm.children)[0]):
+        print(list(pkm.children))
+        if any(["span class" in  x for x in list(pkm.children)]):
             if pkm != body.find_all('pre')[0]:
                 outFile.write("\n")
             outFile.write(pkm.get_text()[:-1]) #This is precisely a Pokemon is all it's ok
         else:
             outFile.write(pkm.get_text().replace("\n","")) #If problems
             outFile.write("\n")
-        #outFile.write("---------------\n")
-    
+        outFile.write("---------------\n")
+
 #########################################################################
 # MAIN
 
-#Create team folder if do not exist
-#if not os.path.exists("teams"):
-#    os.mkdir("teams")
-
-#Remove old zip file
-if os.path.exists("teams.zip"):
-    os.remove("teams.zip")
-archive = zipfile.ZipFile("teams.zip", "w")
-
-raw = open("battlefy-palace.csv", "r")
-reader = csv.reader(raw)
-next(reader)
-
-i=1
-col = -1 #Select the column with the link
-for row in reader:
-    paste = row[col]
-    filename = "team" + str(i) + ".txt"
-    print("Extracting " + str(i) + "...", end="")
-    get_ett(paste, filename)
-    print("done!")
-
-    
-    archive.write(filename)
-    os.remove(filename)
-
-    sleep(0.1)
-    i += 1
-
-archive.close()
+#         [funziona, rotto]
+links = ["https://pokepast.es/9ba8fc07d08c9a2d", "https://pokepast.es/ee229428b0a697df", "https://pokepast.es/14781ecedd0314c1"]
+filenames = ["team1.txt", "team2.txt", "team11.txt"]
+for paste, name in zip(links, filenames):
+    print("Extraction...done!")
+    get_ett(paste, name)

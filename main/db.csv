@@ -1,0 +1,577 @@
+specie,obj,ability,HP,Atk,Def,SpA,SpD,Spe,nature,iv_HP,iv_Atk,iv_Def,iv_SpA,iv_SpD,iv_Spe,move1,move2,move3,move4,teammate1,teammate2,teammate3,teammate4,teammate5
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Reflect,Light Screen,Foul Play,Thunder Wave,Rotom-Wash,Torkoal,Landorus-Therian,Venusaur-Gmax,Zacian-Crowned
+Rotom-Wash,Safety Goggles ,Levitate,0,0,0,0,0,0,,31,31,31,31,31,31,Thunderbolt,Hydro Pump,Nasty Plot,Will-O-Wisp,Grimmsnarl,Torkoal,Landorus-Therian,Venusaur-Gmax,Zacian-Crowned
+Torkoal,Sitrus Berry ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Heat Wave,Body Press,Yawn,Protect,Grimmsnarl,Rotom-Wash,Landorus-Therian,Venusaur-Gmax,Zacian-Crowned
+Landorus-Therian,Assault Vest ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Earthquake,Fly,Rock Slide,U-turn,Grimmsnarl,Rotom-Wash,Torkoal,Venusaur-Gmax,Zacian-Crowned
+Venusaur-Gmax,Weakness Policy ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Frenzy Plant,Weather Ball,Earth Power,Sleep Powder,Grimmsnarl,Rotom-Wash,Torkoal,Landorus-Therian,Zacian-Crowned
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,,31,31,31,31,31,31,Behemoth Blade,Sacred Sword,Substitute,Protect,Grimmsnarl,Rotom-Wash,Torkoal,Landorus-Therian,Venusaur-Gmax
+Zacian-Crowned,Rusted Sword ,Intrepid Sword ,0,0,0,0,0,0,,31,31,31,31,31,31,Behemoth Blade,Sacred Sword,Substitute,Protect,Venusaur-Gmax,Thundurus,Torkoal,Landorus-Therian,Persian-Alola
+Venusaur-Gmax,Life Orb ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Sludge Bomb,Leaf Storm,Weather Ball,Protect,Zacian-Crowned,Thundurus,Torkoal,Landorus-Therian,Persian-Alola
+Thundurus,Assault Vest ,Defiant  ,0,0,0,0,0,0,,31,31,31,31,31,31,Fly,Wild Charge,Brick Break,Foul Play,Zacian-Crowned,Venusaur-Gmax,Torkoal,Landorus-Therian,Persian-Alola
+Torkoal,Sitrus Berry ,Drought  ,0,0,0,0,0,0,,31,31,31,31,31,31,Burning Jealousy,Body Press,Yawn,Protect,Zacian-Crowned,Venusaur-Gmax,Thundurus,Landorus-Therian,Persian-Alola
+Landorus-Therian,Lum Berry ,Intimidate  ,0,0,0,0,0,0,,31,31,31,31,31,31,Earthquake,Rock Slide,Fly,Protect,Zacian-Crowned,Venusaur-Gmax,Thundurus,Torkoal,Persian-Alola
+Persian-Alola,Focus Sash ,Fur Coat ,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Foul Play,Parting Shot,Icy Wind,Zacian-Crowned,Venusaur-Gmax,Thundurus,Torkoal,Landorus-Therian
+Solgaleo,Weakness Policy ,Full Metal Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Sunsteel Strike,Earthquake,Rock Slide,Protect,Grimmsnarl,Spectrier,Porygon2,Rotom-Heat,Tapu Fini
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Spirit Break,Sucker Punch,Light Screen,Reflect,Solgaleo,Spectrier,Porygon2,Rotom-Heat,Tapu Fini
+Spectrier,Focus Sash ,Grim Neigh,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Shadow Ball,Snarl,Will-O-Wisp,Bulldoze,Solgaleo,Grimmsnarl,Porygon2,Rotom-Heat,Tapu Fini
+Porygon2,Eviolite ,Trace,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Foul Play,Eerie Impulse,Recover,Trick Room,Solgaleo,Grimmsnarl,Spectrier,Rotom-Heat,Tapu Fini
+Rotom-Heat,Safety Goggles ,Levitate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Overheat,Thunderbolt,Nasty Plot,Protect,Solgaleo,Grimmsnarl,Spectrier,Porygon2,Tapu Fini
+Tapu Fini,Leftovers ,Misty Surge,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Muddy Water,Moonblast,Calm Mind,Protect,Solgaleo,Grimmsnarl,Spectrier,Porygon2,Rotom-Heat
+Raichu,Focus Sash ,Lightning Rod,0,0,0,0,0,0,,31,31,31,31,31,31,Volt Switch,Electroweb,Helping Hand,Fake Out,Lapras-Gmax,Volcarona,Moltres-Galar,Kartana,Zygarde
+Lapras-Gmax,Light Clay ,Water Absorb,0,0,0,0,0,0,,31,31,31,31,31,31,Hydro Pump,Freeze-Dry,Ice Shard,Life Dew,Raichu,Volcarona,Moltres-Galar,Kartana,Zygarde
+Volcarona,Coba Berry ,Flame Body,0,0,0,0,0,0,,31,31,31,31,31,31,Rage Powder,Struggle Bug,Will-O-Wisp,Fiery Dance,Raichu,Lapras-Gmax,Moltres-Galar,Kartana,Zygarde
+Moltres-Galar,Life Orb ,Berserk,0,0,0,0,0,0,,31,31,31,31,31,31,Fiery Wrath,Nasty Plot,Hurricane,Protect,Raichu,Lapras-Gmax,Volcarona,Kartana,Zygarde
+Kartana,Assault Vest ,Beast Boost ,0,0,0,0,0,0,,31,31,31,31,31,31,Leaf Blade,Smart Strike,Sacred Sword,Aerial Ace,Raichu,Lapras-Gmax,Volcarona,Moltres-Galar,Zygarde
+Zygarde,Weakness Policy ,Power Construct,0,0,0,0,0,0,,31,31,31,31,31,31,Thousand Arrows,Rock Slide,Coil,Protect,Raichu,Lapras-Gmax,Volcarona,Moltres-Galar,Kartana
+Calyrex-Shadow,Life Orb ,As One (Spectrier),0,0,0,0,0,0,,31,31,31,31,31,31,Astral Barrage,Expanding Force,Mud Shot,Protect,Indeedee-F,Thundurus,Whimsicott,Rotom-Heat,Excadrill
+Indeedee-F,Psychic Seed ,Psychic Surge,0,0,0,0,0,0,,31,31,31,31,31,31,Expanding Force,Follow Me,Helping Hand,Protect,Calyrex-Shadow,Thundurus,Whimsicott,Rotom-Heat,Excadrill
+Thundurus,Assault Vest ,Defiant,0,0,0,0,0,0,,31,31,31,31,31,31,Thunder Punch,Fly,Brick Break,Lash Out,Calyrex-Shadow,Indeedee-F,Whimsicott,Rotom-Heat,Excadrill
+Whimsicott,Focus Sash ,Prankster ,0,0,0,0,0,0,,31,31,31,31,31,31,Moonblast,Tailwind,Taunt,Helping Hand,Calyrex-Shadow,Indeedee-F,Thundurus,Rotom-Heat,Excadrill
+Rotom-Heat,Safety Goggles ,Levitate,0,0,0,0,0,0,,31,31,31,31,31,31,Overheat,Thunderbolt,Will-O-Wisp,Nasty Plot,Calyrex-Shadow,Indeedee-F,Thundurus,Whimsicott,Excadrill
+Excadrill,Weakness Policy ,Sand Rush,0,0,0,0,0,0,,31,31,31,31,31,31,Iron Head,Earthquake,Rock Slide,Swords Dance,Calyrex-Shadow,Indeedee-F,Thundurus,Whimsicott,Rotom-Heat
+Charizard-Gmax,Life Orb ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Blast Burn,Heat Wave,Hurricane,Groudon,Venusaur-Gmax,Umbreon,Incineroar,Regieleki
+Groudon,Sitrus Berry ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Precipice Blades,Rock Slide,Swords Dance,Charizard-Gmax,Venusaur-Gmax,Umbreon,Incineroar,Regieleki
+Venusaur-Gmax,Focus Sash ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Sleep Powder,Leaf Storm,Earth Power,Weather Ball,Charizard-Gmax,Groudon,Umbreon,Incineroar,Regieleki
+Umbreon,Leftovers ,Inner Focus,0,0,0,0,0,0,,31,31,31,31,31,31,Foul Play,Snarl,Yawn,Moonlight,Charizard-Gmax,Groudon,Venusaur-Gmax,Incineroar,Regieleki
+Incineroar,Assault Vest ,Intimidate ,0,0,0,0,0,0,,31,31,31,31,31,31,U-turn,Flare Blitz,Darkest Lariat,Fake Out,Charizard-Gmax,Groudon,Venusaur-Gmax,Umbreon,Regieleki
+Regieleki,Magnet ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Thunderbolt,Electroweb,Volt Switch,Protect,Charizard-Gmax,Groudon,Venusaur-Gmax,Umbreon,Incineroar
+Palkia,Lustrous Orb ,Telepathy,0,0,0,0,0,0,,31,31,31,31,31,31,Hydro Pump,Spacial Rend,Earth Power,Trick Room,Ferrothorn,Grimmsnarl,Landorus-Therian,Rotom-Heat,Urshifu-Gmax
+Ferrothorn,Leftovers ,Iron Barbs,0,0,0,0,0,0,,31,31,31,31,31,31,Body Press,Leech Seed,Iron Defense,Protect,Palkia,Grimmsnarl,Landorus-Therian,Rotom-Heat,Urshifu-Gmax
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Spirit Break,Light Screen,Reflect,Thunder Wave,Palkia,Ferrothorn,Landorus-Therian,Rotom-Heat,Urshifu-Gmax
+Landorus-Therian,Assault Vest ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Earthquake,Rock Slide,Fly,U-turn,Palkia,Ferrothorn,Grimmsnarl,Rotom-Heat,Urshifu-Gmax
+Rotom-Heat,Safety Goggles ,Levitate,0,0,0,0,0,0,,31,31,31,31,31,31,Overheat,Discharge,Nasty Plot,Protect,Palkia,Ferrothorn,Grimmsnarl,Landorus-Therian,Urshifu-Gmax
+Urshifu-Gmax,Focus Sash ,Unseen Fist,0,0,0,0,0,0,,31,31,31,31,31,31,Wicked Blow,Close Combat,Sucker Punch,Protect,Palkia,Ferrothorn,Grimmsnarl,Landorus-Therian,Rotom-Heat
+Venusaur,Coba Berry ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Sleep Powder,Frenzy Plant,Sludge Bomb,Weather Ball,Torkoal,Tornadus,Porygon2,Kyogre,Urshifu
+Torkoal,Charcoal ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Eruption,Yawn,Burning Jealousy,Protect,Venusaur,Tornadus,Porygon2,Kyogre,Urshifu
+Tornadus,Life Orb ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Tailwind,Hurricane,Dark Pulse,Icy Wind,Venusaur,Torkoal,Porygon2,Kyogre,Urshifu
+Porygon2,Eviolite ,Trace,0,0,0,0,0,0,,31,31,31,31,31,31,Ice Beam,Eerie Impulse,Recover,Trick Room,Venusaur,Torkoal,Tornadus,Kyogre,Urshifu
+Kyogre,Sea Incense ,Drizzle,0,0,0,0,0,0,,31,31,31,31,31,31,Water Spout,Origin Pulse,Thunder,Protect,Venusaur,Torkoal,Tornadus,Porygon2,Urshifu
+Urshifu,Focus Sash ,Unseen Fist ,0,0,0,0,0,0,,31,31,31,31,31,31,Wicked Blow,Close Combat,Sucker Punch,Detect,Venusaur,Torkoal,Tornadus,Porygon2,Kyogre
+Calyrex-Ice,Weakness Policy ,As One (Glastrier),0,0,0,0,0,0,,31,31,31,31,31,31,Glacial Lance,High Horsepower,Close Combat,Protect,Regieleki,Tapu Fini,Urshifu,Incineroar,Mimikyu
+Regieleki,Magnet ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Electro Ball,Electroweb,Volt Switch,Protect,Calyrex-Ice,Tapu Fini,Urshifu,Incineroar,Mimikyu
+Tapu Fini,Leftovers ,Misty Surge,0,0,0,0,0,0,,31,31,31,31,31,31,Muddy Water,Moonblast,Calm Mind,Protect,Calyrex-Ice,Regieleki,Urshifu,Incineroar,Mimikyu
+Urshifu,Focus Sash ,Unseen Fist,0,0,0,0,0,0,,31,31,31,31,31,31,Wicked Blow,Close Combat,Sucker Punch,Detect,Calyrex-Ice,Regieleki,Tapu Fini,Incineroar,Mimikyu
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Flare Blitz,Fake Out,Taunt,Parting Shot,Calyrex-Ice,Regieleki,Tapu Fini,Urshifu,Mimikyu
+Mimikyu,Mental Herb ,Disguise,0,0,0,0,0,0,,31,31,31,31,31,31,Play Rough,Shadow Sneak,Will-O-Wisp,Trick Room,Calyrex-Ice,Regieleki,Tapu Fini,Urshifu,Incineroar
+Groudon,White Herb ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Precipice Blades,Rock Slide,Swords Dance,Protect,Charizard-Gmax,Venusaur-Gmax,Incineroar,Grimmsnarl,Porygon2
+Charizard-Gmax,Life Orb ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Heat Wave,Blast Burn,Air Slash,Protect,Groudon,Venusaur-Gmax,Incineroar,Grimmsnarl,Porygon2
+Venusaur-Gmax,Weakness Policy ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Leaf Storm,Weather Ball,Sludge Bomb,Sleep Powder,Groudon,Charizard-Gmax,Incineroar,Grimmsnarl,Porygon2
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Flare Blitz,Darkest Lariat,Parting Shot,Groudon,Charizard-Gmax,Venusaur-Gmax,Grimmsnarl,Porygon2
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Spirit Break,Reflect,Light Screen,Scary Face,Groudon,Charizard-Gmax,Venusaur-Gmax,Incineroar,Porygon2
+Porygon2,Eviolite ,Download,0,0,0,0,0,0,,31,31,31,31,31,31,Ice Beam,Eerie Impulse,Recover,Trick Room,Groudon,Charizard-Gmax,Venusaur-Gmax,Incineroar,Grimmsnarl
+Charizard,Life Orb ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Heat Wave,Air Slash,Protect,Solar Beam,Sableye,Zacian-Crowned,Rillaboom,Gastrodon,Landorus-Therian
+Sableye,Focus Sash ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Quash,Taunt,Sunny Day,Foul Play,Charizard,Zacian-Crowned,Rillaboom,Gastrodon,Landorus-Therian
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,,31,31,31,31,31,31,Behemoth Blade,Protect,Play Rough,Swords Dance,Charizard,Sableye,Rillaboom,Gastrodon,Landorus-Therian
+Rillaboom,Assault Vest ,Grassy Surge,0,0,0,0,0,0,,31,31,31,31,31,31,Grassy Glide,Wood Hammer,Fake Out,Knock Off,Charizard,Sableye,Zacian-Crowned,Gastrodon,Landorus-Therian
+Gastrodon,,Storm Drai,0,0,0,0,0,0,,31,31,31,31,31,31,astrodon-East) @ Rindo Berry ,Earth Power ,Scald ,Protect ,Ice Beam ,Charizard,Sableye,Zacian-Crowned,Rillaboom,Landorus-Therian
+Landorus-Therian,Choice Scarf ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Rock Slide,Earthquake,U-turn,Fly,Charizard,Sableye,Zacian-Crowned,Rillaboom,Gastrodon
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Behemoth Blade,Sacred Sword,Substitute,Protect,Venusaur-Gmax,Torkoal,Charizard-Gmax,Landorus-Therian,Grimmsnarl
+Venusaur-Gmax,Weakness Policy ,Chlorophyll,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Frenzy Plant,Weather Ball,Earth Power,Sleep Powder,Zacian-Crowned,Torkoal,Charizard-Gmax,Landorus-Therian,Grimmsnarl
+Torkoal,Sitrus Berry ,Drought,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Burning Jealousy,Body Press,Yawn,Protect,Zacian-Crowned,Venusaur-Gmax,Charizard-Gmax,Landorus-Therian,Grimmsnarl
+Charizard-Gmax,Assault Vest ,Solar Power,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Heat Wave,Scorching Sands,Air Slash,Ancient Power,Zacian-Crowned,Venusaur-Gmax,Torkoal,Landorus-Therian,Grimmsnarl
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Rock Slide,Earthquake,Swords Dance,Fly,Zacian-Crowned,Venusaur-Gmax,Torkoal,Charizard-Gmax,Grimmsnarl
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Reflect,Light Screen,Scary Face,Spirit Break,Zacian-Crowned,Venusaur-Gmax,Torkoal,Charizard-Gmax,Landorus-Therian
+Incineroar,Figy Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Snarl,Flare Blitz,Parting Shot,Zacian-Crowned,Dragapult,Lapras-Gmax,Amoonguss,Regieleki
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,,31,31,31,31,31,31,Iron Head,Close Combat,Substitute,Protect,Incineroar,Dragapult,Lapras-Gmax,Amoonguss,Regieleki
+Dragapult,Lum Berry ,Clear Body,0,0,0,0,0,0,,31,31,31,31,31,31,Fly,Dragon Darts,Phantom Force,Will-O-Wisp,Incineroar,Zacian-Crowned,Lapras-Gmax,Amoonguss,Regieleki
+Lapras-Gmax,Life Orb ,Water Absorb,0,0,0,0,0,0,,31,31,31,31,31,31,Freeze-Dry,Ice Shard,Protect,Hydro Pump,Incineroar,Zacian-Crowned,Dragapult,Amoonguss,Regieleki
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,,31,31,31,31,31,31,Spore,Rage Powder,Pollen Puff,Protect,Incineroar,Zacian-Crowned,Dragapult,Lapras-Gmax,Regieleki
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Thunderbolt,Electroweb,Eerie Impulse,Protect,Incineroar,Zacian-Crowned,Dragapult,Lapras-Gmax,Amoonguss
+Calyrex-Shadow,Life Orb ,As One (Spectrier),0,0,0,0,0,0,,31,31,31,31,31,31,Astral Barrage,Expanding Force,Mud Shot,Protect,Indeedee-F,Thundurus,Coalossal-Gmax,Ferrothorn,Urshifu-Rapid-Strike
+Indeedee-F,Safety Goggles ,Psychic Surge,0,0,0,0,0,0,,31,31,31,31,31,31,Dazzling Gleam,Follow Me,Helping Hand,Protect,Calyrex-Shadow,Thundurus,Coalossal-Gmax,Ferrothorn,Urshifu-Rapid-Strike
+Thundurus,Assault Vest ,Defiant  ,0,0,0,0,0,0,,31,31,31,31,31,31,Wild Charge,Fly,Brick Break,Foul Play,Calyrex-Shadow,Indeedee-F,Coalossal-Gmax,Ferrothorn,Urshifu-Rapid-Strike
+Coalossal-Gmax,Weakness Policy ,Steam Engine,0,0,0,0,0,0,,31,31,31,31,31,31,Meteor Beam,Heat Wave,Solar Beam,Protect,Calyrex-Shadow,Indeedee-F,Thundurus,Ferrothorn,Urshifu-Rapid-Strike
+Ferrothorn,Leftovers ,Iron Barbs,0,0,0,0,0,0,,31,31,31,31,31,31,Body Press,Leech Seed,Iron Defense,Protect,Calyrex-Shadow,Indeedee-F,Thundurus,Coalossal-Gmax,Urshifu-Rapid-Strike
+Urshifu-Rapid-Strike,Focus Sash ,Unseen Fist,0,0,0,0,0,0,,31,31,31,31,31,31,Aqua Jet,Close Combat,Surging Strikes,Detect,Calyrex-Shadow,Indeedee-F,Thundurus,Coalossal-Gmax,Ferrothorn
+Xerneas,Power Herb ,Fairy Aura,0,0,0,0,0,0,Hardy,31,0,31,31,31,31,Moonblast,Dazzling Gleam,Geomancy,Protect,Rotom-Heat,Milotic,Amoonguss,Landorus-Therian,Naganadel
+Rotom-Heat,Safety Goggles ,Levitate,0,0,0,0,0,0,Hardy,31,0,31,31,31,31,Overheat,Thunderbolt,Protect,Nasty Plot,Xerneas,Milotic,Amoonguss,Landorus-Therian,Naganadel
+Milotic,Assault Vest ,Competitive,0,0,0,0,0,0,Hardy,31,0,31,31,31,31,Scald,Ice Beam,Mud Shot,Dragon Pulse,Xerneas,Rotom-Heat,Amoonguss,Landorus-Therian,Naganadel
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,Quirky,31,0,31,31,31,31,Spore,Rage Powder,Protect,Pollen Puff,Xerneas,Rotom-Heat,Milotic,Landorus-Therian,Naganadel
+Landorus-Therian,Life Orb ,Intimidate,0,0,0,0,0,0,Hardy,31,31,31,31,31,31,Fly,Rock Slide,Earthquake,Protect,Xerneas,Rotom-Heat,Milotic,Amoonguss,Naganadel
+Naganadel,Focus Sash ,Beast Boost,0,0,0,0,0,0,Quirky,31,0,31,31,31,31,Sludge Bomb,Snarl,Draco Meteor,Charm,Xerneas,Rotom-Heat,Milotic,Amoonguss,Landorus-Therian
+Groudon,Sitrus Berry ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Precipice Blades,Rock Slide,Swords Dance,Protect,Venusaur-Gmax,Charizard-Gmax,Incineroar,Umbreon,Regieleki
+Venusaur-Gmax,Focus Sash ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Leaf Storm,Sludge Bomb,Weather Ball,Sleep Powder,Groudon,Charizard-Gmax,Incineroar,Umbreon,Regieleki
+Charizard-Gmax,Life Orb ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Blast Burn,Heat Wave,Air Slash,Protect,Groudon,Venusaur-Gmax,Incineroar,Umbreon,Regieleki
+Incineroar,Assault Vest ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Flare Blitz,Darkest Lariat,U-turn,Fake Out,Groudon,Venusaur-Gmax,Charizard-Gmax,Umbreon,Regieleki
+Umbreon,Leftovers ,Inner Focus,0,0,0,0,0,0,,31,31,31,31,31,31,Foul Play,Snarl,Yawn,Moonlight,Groudon,Venusaur-Gmax,Charizard-Gmax,Incineroar,Regieleki
+Regieleki,Magnet ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Thunderbolt,Volt Switch,Electroweb,Protect,Groudon,Venusaur-Gmax,Charizard-Gmax,Incineroar,Umbreon
+Dragapult,Life Orb ,Clear Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Dragon Darts,Phantom Force,Fly,Surf,Coalossal-Gmax,Urshifu-Rapid-Strike,Zacian-Crowned,Incineroar,Amoonguss
+Coalossal-Gmax,Weakness Policy ,Steam Engine,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Meteor Beam,Heat Wave,Earth Power,Protect,Dragapult,Urshifu-Rapid-Strike,Zacian-Crowned,Incineroar,Amoonguss
+Urshifu-Rapid-Strike,Focus Sash ,Unseen Fist,0,0,0,0,0,0,,31,31,31,31,31,31,Surging Strikes,Aqua Jet,Close Combat,Detect,Dragapult,Coalossal-Gmax,Zacian-Crowned,Incineroar,Amoonguss
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Behemoth Blade,Close Combat,Substitute,Protect,Dragapult,Coalossal-Gmax,Urshifu-Rapid-Strike,Incineroar,Amoonguss
+Incineroar,Assault Vest ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fake Out,Flare Blitz,Snarl,U-turn,Dragapult,Coalossal-Gmax,Urshifu-Rapid-Strike,Zacian-Crowned,Amoonguss
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Spore,Rage Powder,Giga Drain,Protect,Dragapult,Coalossal-Gmax,Urshifu-Rapid-Strike,Zacian-Crowned,Incineroar
+Groudon,White Herb ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Precipice Blades,Rock Slide,Swords Dance,Protect,Venusaur,Regieleki,Gastrodon,Charizard,Landorus-Therian
+Venusaur,Coba Berry ,Chlorophyll,0,0,0,0,0,0,,31,0,31,31,31,31,Leaf Storm,Earth Power,Weather Ball,Sleep Powder,Groudon,Regieleki,Gastrodon,Charizard,Landorus-Therian
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Electroweb,Eerie Impulse,Thunderbolt,Protect,Groudon,Venusaur,Gastrodon,Charizard,Landorus-Therian
+Gastrodon,Leftovers ,Storm Drain,0,0,0,0,0,0,,31,31,31,31,31,31,Earth Power,Ice Beam,Yawn,Protect,Groudon,Venusaur,Regieleki,Charizard,Landorus-Therian
+Charizard,Life Orb ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Blast Burn,Hurricane,Heat Wave,Protect,Groudon,Venusaur,Regieleki,Gastrodon,Landorus-Therian
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Earthquake,Fly,Rock Slide,Swords Dance,Groudon,Venusaur,Regieleki,Gastrodon,Charizard
+Coalossal-Gmax,Weakness Policy ,Steam Engine,0,0,0,0,0,0,,31,31,31,31,31,31,Meteor Beam,Heat Wave,Earth Power,Protect,Dragapult,Urshifu-Rapid-Strike-Gmax,Incineroar,Amoonguss,Zacian-Crowned
+Dragapult,Life Orb ,Clear Body,0,0,0,0,0,0,,31,31,31,31,31,31,Phantom Force,Dragon Darts,Fly,Surf,Coalossal-Gmax,Urshifu-Rapid-Strike-Gmax,Incineroar,Amoonguss,Zacian-Crowned
+Urshifu-Rapid-Strike-Gmax,Focus Sash ,Unseen Fist,0,0,0,0,0,0,,31,31,31,31,31,31,Surging Strikes,Close Combat,Aqua Jet,Protect,Coalossal-Gmax,Dragapult,Incineroar,Amoonguss,Zacian-Crowned
+Incineroar,Assault Vest ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Flare Blitz,Lash Out,U-turn,Fake Out,Coalossal-Gmax,Dragapult,Urshifu-Rapid-Strike-Gmax,Amoonguss,Zacian-Crowned
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,,31,31,31,31,31,31,Pollen Puff,Rage Powder,Spore,Protect,Coalossal-Gmax,Dragapult,Urshifu-Rapid-Strike-Gmax,Incineroar,Zacian-Crowned
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,,31,31,31,31,31,31,Behemoth Blade,Close Combat,Substitute,Protect,Coalossal-Gmax,Dragapult,Urshifu-Rapid-Strike-Gmax,Incineroar,Amoonguss
+Dragapult,Life Orb ,Clear Body,0,0,0,0,0,0,,31,31,31,31,31,31,Dragon Darts,Phantom Force,Fly,Surf,Zacian-Crowned,Coalossal-Gmax,Urshifu-Rapid-Strike-Gmax,Rillaboom-Gmax,Landorus-Therian
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,,31,31,31,31,31,31,Behemoth Blade,Sacred Sword,Substitute,Protect,Dragapult,Coalossal-Gmax,Urshifu-Rapid-Strike-Gmax,Rillaboom-Gmax,Landorus-Therian
+Coalossal-Gmax,Weakness Policy ,Steam Engine,0,0,0,0,0,0,,31,31,31,31,31,31,Meteor Beam,Heat Wave,Ancient Power,Protect,Dragapult,Zacian-Crowned,Urshifu-Rapid-Strike-Gmax,Rillaboom-Gmax,Landorus-Therian
+Urshifu-Rapid-Strike-Gmax,Focus Sash ,Unseen Fist,0,0,0,0,0,0,,31,31,31,31,31,31,Surging Strikes,Close Combat,Aqua Jet,Protect,Dragapult,Zacian-Crowned,Coalossal-Gmax,Rillaboom-Gmax,Landorus-Therian
+Rillaboom-Gmax,Miracle Seed ,Grassy Surge,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Grassy Glide,Wood Hammer,Protect,Dragapult,Zacian-Crowned,Coalossal-Gmax,Urshifu-Rapid-Strike-Gmax,Landorus-Therian
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Earthquake,Fly,Rock Slide,Swords Dance,Dragapult,Zacian-Crowned,Coalossal-Gmax,Urshifu-Rapid-Strike-Gmax,Rillaboom-Gmax
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Thunderbolt,Electroweb,Screech,Protect,Dragapult,Zacian-Crowned,Amoonguss,Incineroar,Rotom-Wash
+Dragapult,Life Orb ,Clear Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Dragon Darts,Phantom Force,Fly,Dragon Dance,Regieleki,Zacian-Crowned,Amoonguss,Incineroar,Rotom-Wash
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Behemoth Blade,Close Combat,Substitute,Protect,Regieleki,Dragapult,Amoonguss,Incineroar,Rotom-Wash
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,Serious,31,0,31,31,31,0,Spore,Rage Powder,Pollen Puff,Protect,Regieleki,Dragapult,Zacian-Crowned,Incineroar,Rotom-Wash
+Incineroar,Iapapa Berry ,Intimidate,0,0,4,0,0,0,Serious,31,31,31,31,31,31,Flare Blitz,Assurance,Fake Out,Parting Shot,Regieleki,Dragapult,Zacian-Crowned,Amoonguss,Rotom-Wash
+Rotom-Wash,Sitrus Berry ,Levitate,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Hydro Pump,Thunderbolt,Will-O-Wisp,Nasty Plot,Regieleki,Dragapult,Zacian-Crowned,Amoonguss,Incineroar
+Azumarill,Sitrus Berry ,Huge Power,0,0,0,0,0,0,,31,31,31,31,31,31,Belly Drum,Aqua Jet,Superpower,Play Rough,Porygon2,Indeedee-F,Groudon,Venusaur,Charizard
+Porygon2,Eviolite ,Trace,0,0,0,0,0,0,,31,31,31,31,31,31,Trick Room,Eerie Impulse,Foul Play,Recover,Azumarill,Indeedee-F,Groudon,Venusaur,Charizard
+Indeedee-F,Psychic Seed ,Psychic Surge,0,0,0,0,0,0,,31,31,31,31,31,31,Follow Me,Helping Hand,Expanding Force,Safeguard,Azumarill,Porygon2,Groudon,Venusaur,Charizard
+Groudon,White Herb ,,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Precipice Blades,Rock Slide,Fire Punch,Azumarill,Porygon2,Indeedee-F,Venusaur,Charizard
+Venusaur,Focus Sash ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Leaf Storm,Weather Ball,Earth Power,Sleep Powder,Azumarill,Porygon2,Indeedee-F,Groudon,Charizard
+Charizard,Life Orb ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Blast Burn,Heat Wave,Air Slash,Azumarill,Porygon2,Indeedee-F,Groudon,Venusaur
+Calyrex-Ice,Weakness Policy ,As One (Glastrier),0,0,0,0,0,0,,31,31,31,31,31,31,Glacial Lance,Heavy Slam,High Horsepower,Trick Room,Incineroar,Tapu Fini,Mimikyu,Torkoal,Sableye
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Flare Blitz,Snarl,U-turn,Calyrex-Ice,Tapu Fini,Mimikyu,Torkoal,Sableye
+Tapu Fini,Leftovers ,Misty Surge,0,0,0,0,0,0,,31,31,31,31,31,31,Moonblast,Muddy Water,Calm Mind,Protect,Calyrex-Ice,Incineroar,Mimikyu,Torkoal,Sableye
+Mimikyu,Mental Herb ,Disguise,0,0,0,0,0,0,,31,31,31,31,31,31,Shadow Sneak,Will-O-Wisp,Taunt,Trick Room,Calyrex-Ice,Incineroar,Tapu Fini,Torkoal,Sableye
+Torkoal,Charcoal ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Eruption,Heat Wave,Body Press,Protect,Calyrex-Ice,Incineroar,Tapu Fini,Mimikyu,Sableye
+Sableye,Focus Sash ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Quash,Shadow Sneak,Feint,Foul Play,Calyrex-Ice,Incineroar,Tapu Fini,Mimikyu,Torkoal
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,,31,31,31,31,31,31,Behemoth Blade,Sacred Sword,Swords Dance,Protect,Lapras-Gmax,Thundurus,Moltres-Galar,Incineroar,Amoonguss
+Lapras-Gmax,Life Orb ,Water Absorb,0,0,0,0,0,0,,31,31,31,31,31,31,Ice Beam,Hydro Pump,Thunder,Protect,Zacian-Crowned,Thundurus,Moltres-Galar,Incineroar,Amoonguss
+Thundurus,Assault Vest ,Defiant,0,0,0,0,0,0,,31,31,31,31,31,31,Wild Charge,Fly,Superpower,Foul Play,Zacian-Crowned,Lapras-Gmax,Moltres-Galar,Incineroar,Amoonguss
+Moltres-Galar,Safety Goggles ,Berserk,0,0,0,0,0,0,,31,31,31,31,31,31,Air Slash,Fiery Wrath,Nasty Plot,Protect,Zacian-Crowned,Lapras-Gmax,Thundurus,Incineroar,Amoonguss
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Flare Blitz,Parting Shot,Taunt,Zacian-Crowned,Lapras-Gmax,Thundurus,Moltres-Galar,Amoonguss
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,,31,31,31,31,31,31,Spore,Rage Powder,Pollen Puff,Protect,Zacian-Crowned,Lapras-Gmax,Thundurus,Moltres-Galar,Incineroar
+Dragapult,Safety Goggles ,Clear Body,0,0,0,0,0,0,,31,31,31,31,31,31,Light Screen,Surf,Breaking Swipe,Phantom Force,Coalossal-Gmax,Rillaboom-Gmax,Urshifu-Rapid-Strike-Gmax,Yveltal,Incineroar
+Coalossal-Gmax,Weakness Policy ,Steam Engin,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Earth Power,Meteor Beam,Heat Wave,Dragapult,Rillaboom-Gmax,Urshifu-Rapid-Strike-Gmax,Yveltal,Incineroar
+Rillaboom-Gmax,Miracle Seed ,Grassy Surg,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Fake Out,High Horsepower,Grassy Glide,Dragapult,Coalossal-Gmax,Urshifu-Rapid-Strike-Gmax,Yveltal,Incineroar
+Urshifu-Rapid-Strike-Gmax,Focus Sash ,Unseen Fis,0,0,0,0,0,0,,31,31,31,31,31,31,Detect,Close Combat,Aqua Jet,Surging Strikes,Dragapult,Coalossal-Gmax,Rillaboom-Gmax,Yveltal,Incineroar
+Yveltal,Assault Vest ,Dark Aura,0,0,0,0,0,0,,31,31,31,31,31,31,Foul Play,Sucker Punch,Snarl,Oblivion Wing,Dragapult,Coalossal-Gmax,Rillaboom-Gmax,Urshifu-Rapid-Strike-Gmax,Incineroar
+Incineroar,Sitrus Berry ,Intimidate ,0,0,0,0,0,0,,31,31,31,31,31,31,Taunt,Parting Shot,Fake Out,Flare Blitz,Dragapult,Coalossal-Gmax,Rillaboom-Gmax,Urshifu-Rapid-Strike-Gmax,Yveltal
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Parting Shot,Darkest Lariat,Flare Blitz,Fake Out,Venusaur,Charizard,Regieleki,Groudon,Clefairy
+Venusaur,Life Orb ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Leaf Storm,Earth Power,Sludge Bomb,Sleep Powder,Incineroar,Charizard,Regieleki,Groudon,Clefairy
+Charizard,Safety Goggles ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Heat Wave,Air Slash,Solar Beam,Protect,Incineroar,Venusaur,Regieleki,Groudon,Clefairy
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Volt Switch,Electroweb,Thunderbolt,Incineroar,Venusaur,Charizard,Groudon,Clefairy
+Groudon,Assault Vest ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Fire Punch,Thunder Punch,Rock Slide,Precipice Blades,Incineroar,Venusaur,Charizard,Regieleki,Clefairy
+Clefairy,Eviolite ,Friend Guard,0,0,0,0,0,0,,31,31,31,31,31,31,Follow Me,Helping Hand,Light Screen,Reflect,Incineroar,Venusaur,Charizard,Regieleki,Groudon
+Venusaur-Gmax,Coba Berry ,Chlorophyll,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Frenzy Plant,Sludge Bomb,Weather Ball,Protect,Groudon,Incineroar,Celesteela,Thundurus,Tapu Fini
+Groudon,Weakness Policy ,Drought,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Precipice Blades,Rock Slide,Swords Dance,Protect,Venusaur-Gmax,Incineroar,Celesteela,Thundurus,Tapu Fini
+Incineroar,Assault Vest ,Intimidate,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Flare Blitz,Assurance,Fake Out,U-turn,Venusaur-Gmax,Groudon,Celesteela,Thundurus,Tapu Fini
+Celesteela,Power Herb ,Beast Boost,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Flash Cannon,Flamethrower,Meteor Beam,Protect,Venusaur-Gmax,Groudon,Incineroar,Thundurus,Tapu Fini
+Thundurus,Life Orb ,Defiant,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Wild Charge,Fly,Superpower,Protect,Venusaur-Gmax,Groudon,Incineroar,Celesteela,Tapu Fini
+Tapu Fini,Sitrus Berry ,Misty Surge,0,0,0,0,0,0,-,31,31,31,31,31,31,Moonblast,Icy Wind,Haze,Venusaur-Gmax,Groudon,Incineroar,Celesteela,Thundurus
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Sacred Sword,Protect,Behemoth Blade,Substitute,Amoonguss,Urshifu-Rapid-Strike-Gmax,Dragapult,Incineroar,Coalossal-Gmax
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,Bashful,31,0,31,31,31,31,Rage Powder,Spore,Protect,Pollen Puff,Zacian-Crowned,Urshifu-Rapid-Strike-Gmax,Dragapult,Incineroar,Coalossal-Gmax
+Urshifu-Rapid-Strike-Gmax,Focus Sash ,Unseen Fist,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Close Combat,Aqua Jet,Surging Strikes,Detect,Zacian-Crowned,Amoonguss,Dragapult,Incineroar,Coalossal-Gmax
+Dragapult,Choice Scarf ,Clear Body,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Fly,Dragon Darts,Surf,Phantom Force,Zacian-Crowned,Amoonguss,Urshifu-Rapid-Strike-Gmax,Incineroar,Coalossal-Gmax
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Fake Out,Parting Shot,Flare Blitz,Assurance,Zacian-Crowned,Amoonguss,Urshifu-Rapid-Strike-Gmax,Dragapult,Coalossal-Gmax
+Coalossal-Gmax,Weakness Policy ,Steam Engine,0,0,0,0,0,0,Bashful,31,0,31,31,31,31,Heat Wave,Protect,Solar Beam,Meteor Beam,Zacian-Crowned,Amoonguss,Urshifu-Rapid-Strike-Gmax,Dragapult,Incineroar
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,,31,31,31,31,31,31,Behemoth Blade,Sacred Sword,Substitute,Protect,Charizard-Gmax,Venusaur-Gmax,Thundurus,Urshifu-Gmax,Sableye
+Charizard-Gmax,Safety Goggles ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Blast Burn,Air Slash,Ancient Power,Protect,Zacian-Crowned,Venusaur-Gmax,Thundurus,Urshifu-Gmax,Sableye
+Venusaur-Gmax,Life Orb ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Leaf Storm,Sludge Bomb,Earth Power,Sleep Powder,Zacian-Crowned,Charizard-Gmax,Thundurus,Urshifu-Gmax,Sableye
+Thundurus,Assault Vest ,Defiant,0,0,0,0,0,0,,31,31,31,31,31,31,Wild Charge,Fly,Superpower,Lash Out,Zacian-Crowned,Charizard-Gmax,Venusaur-Gmax,Urshifu-Gmax,Sableye
+Urshifu-Gmax,Focus Sash ,Unseen Fist ,0,0,0,0,0,0,,31,31,31,31,31,31,Close Combat,Wicked Blow,Sucker Punch,Protect,Zacian-Crowned,Charizard-Gmax,Venusaur-Gmax,Thundurus,Sableye
+Sableye,Mental Herb ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Foul Play,Quash,Will-O-Wisp,Sunny Day,Zacian-Crowned,Charizard-Gmax,Venusaur-Gmax,Thundurus,Urshifu-Gmax
+Reshiram,Weakness Policy ,Turboblaze,0,0,0,0,0,0,,31,31,31,31,31,31,Blue Flare,Draco Meteor,Earth Power,Protect,Grimmsnarl-Gmax,Tapu Koko,Ferrothorn,Landorus-Therian,Porygon2
+Grimmsnarl-Gmax,Light Clay ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Spirit Break,Light Screen,Reflect,Sucker Punch,Reshiram,Tapu Koko,Ferrothorn,Landorus-Therian,Porygon2
+Tapu Koko,Assault Vest ,Electric Surge,0,0,0,0,0,0,-,31,31,31,31,31,31,Volt Switch,Electroweb,Dazzling Gleam,Reshiram,Grimmsnarl-Gmax,Ferrothorn,Landorus-Therian,Porygon2
+Ferrothorn,Leftovers ,Iron Barbs,0,0,0,0,0,0,,31,31,31,31,31,31,Body Press,Leech Seed,Iron Defense,Protect,Reshiram,Grimmsnarl-Gmax,Tapu Koko,Landorus-Therian,Porygon2
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Fly,Earthquake,Rock Slide,Swords Dance,Reshiram,Grimmsnarl-Gmax,Tapu Koko,Ferrothorn,Porygon2
+Porygon2,Eviolite ,Trace,0,0,0,0,0,0,,31,31,31,31,31,31,Foul Play,Eerie Impulse,Recover,Trick Room,Reshiram,Grimmsnarl-Gmax,Tapu Koko,Ferrothorn,Landorus-Therian
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Spirit Break,Reflect,Light Screen,Taunt,Porygon2,Dialga,Tapu Fini,Incineroar,Nihilego
+Porygon2,Eviolite ,Trace,0,0,0,0,0,0,,31,31,31,31,31,31,Eerie Impulse,Foul Play,Trick Room,Recover,Grimmsnarl,Dialga,Tapu Fini,Incineroar,Nihilego
+Dialga,Life Orb ,Telepathy,0,0,0,0,0,0,,31,31,31,31,31,31,Roar of Time,Flash Cannon,Earth Power,Flamethrower,Grimmsnarl,Porygon2,Tapu Fini,Incineroar,Nihilego
+Tapu Fini,Leftovers ,Misty Surge,0,0,0,0,0,0,,31,31,31,31,31,31,Moonblast,Muddy Water,Calm Mind,Protect,Grimmsnarl,Porygon2,Dialga,Incineroar,Nihilego
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Flare Blitz,Parting Shot,Snarl,Grimmsnarl,Porygon2,Dialga,Tapu Fini,Nihilego
+Nihilego,Focus Sash ,Beast Boost,0,0,0,0,0,0,,31,31,31,31,31,31,Power Gem,Sludge Bomb,Trick Room,Protect,Grimmsnarl,Porygon2,Dialga,Tapu Fini,Incineroar
+Tornadus,Wacan Berry ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Hurricane,Tailwind,Taunt,Brutal Swing,Kyogre,Metagross,Zapdos,Amoonguss,Urshifu
+Kyogre,Mystic Water ,Drizzle,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Water Spout,Origin Pulse,Thunder,Protect,Tornadus,Metagross,Zapdos,Amoonguss,Urshifu
+Metagross,Weakness Policy ,Clear Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Iron Head,Stomping Tantrum,Rock Slide,Protect,Tornadus,Kyogre,Zapdos,Amoonguss,Urshifu
+Zapdos,Life Orb ,Static,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Thunderbolt,Hurricane,Heat Wave,Protect,Tornadus,Kyogre,Metagross,Amoonguss,Urshifu
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Pollen Puff,Spore,Rage Powder,Protect,Tornadus,Kyogre,Metagross,Zapdos,Urshifu
+Urshifu,Focus Sash ,Unseen Fist,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Close Combat,Wicked Blow,Sucker Punch,Detect,Tornadus,Kyogre,Metagross,Zapdos,Amoonguss
+Dialga,Weakness Policy ,Pressure,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Body Press,Flash Cannon,Earth Power,Trick Room,Togekiss,Ferrothorn,Entei,Urshifu-Gmax,Whimsicott
+Togekiss,Safety Goggles ,Super Luck,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Follow Me,Helping Hand,Dazzling Gleam,Air Slash,Dialga,Ferrothorn,Entei,Urshifu-Gmax,Whimsicott
+Ferrothorn,Leftovers ,Iron Barbs,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Iron Defense,Body Press,Protect,Leech Seed,Dialga,Togekiss,Entei,Urshifu-Gmax,Whimsicott
+Entei,Assault Vest ,Inner Focus,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Sacred Fire,Stone Edge,Bulldoze,Extreme Speed,Dialga,Togekiss,Ferrothorn,Urshifu-Gmax,Whimsicott
+Urshifu-Gmax,Focus Sash ,Unseen Fist,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Wicked Blow,Sucker Punch,Close Combat,Protect,Dialga,Togekiss,Ferrothorn,Entei,Whimsicott
+Whimsicott,Lagging Tail ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Tailwind,Fake Tears,Moonblast,Switcheroo,Dialga,Togekiss,Ferrothorn,Entei,Urshifu-Gmax
+Kyurem-White,Life Orb ,Turboblaze,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Draco Meteor,Ice Beam,Earth Power,Protect,Metagross,Sableye,Incineroar,Regieleki,Rillaboom
+Metagross,Weakness Policy ,Clear Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Iron Head,Stomping Tantrum,Rock Slide,Protect,Kyurem-White,Sableye,Incineroar,Regieleki,Rillaboom
+Sableye,Safety Goggles ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Shadow Sneak,Quash,Taunt,Will-O-Wisp,Kyurem-White,Metagross,Incineroar,Regieleki,Rillaboom
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Flare Blitz,Snarl,Parting Shot,Fake Out,Kyurem-White,Metagross,Sableye,Regieleki,Rillaboom
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Eerie Impulse,Thunderbolt,Electroweb,Protect,Kyurem-White,Metagross,Sableye,Incineroar,Rillaboom
+Rillaboom,Assault Vest ,Grassy Surge,0,0,0,0,0,0,,31,31,31,31,31,31,Grassy Glide,U-turn,Darkest Lariat,Fake Out,Kyurem-White,Metagross,Sableye,Incineroar,Regieleki
+Zacian-Crowned,Rusted Sword ,Intrepid Sword ,0,0,0,0,0,0,,31,31,31,31,31,31,Behemoth Blade,Close Combat,Substitute,Protect,Thundurus,Kingdra,Politoed,Landorus-Therian,Urshifu-Gmax
+Thundurus,Lum Berry ,Defiant ,0,0,0,0,0,0,,31,31,31,31,31,31,Wild Charge,Fly,Superpower,Taunt,Zacian-Crowned,Kingdra,Politoed,Landorus-Therian,Urshifu-Gmax
+Kingdra,Life Orb ,Swift Swim,0,0,0,0,0,0,,31,31,31,31,31,31,Muddy Water ,Hurricane,Draco Meteor ,Protect,Zacian-Crowned,Thundurus,Politoed,Landorus-Therian,Urshifu-Gmax
+Politoed,Eject Button ,Drizzle,0,0,0,0,0,0,,31,31,31,31,31,31,Scald ,Perish Song,Helping Hand,Protect ,Zacian-Crowned,Thundurus,Kingdra,Landorus-Therian,Urshifu-Gmax
+Landorus-Therian,Assault Vest ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Rock Slide ,Earthquake,Fly,U-turn,Zacian-Crowned,Thundurus,Kingdra,Politoed,Urshifu-Gmax
+Urshifu-Gmax,Focus Sash ,Unseen Fist  ,0,0,0,0,0,0,,31,31,31,31,31,31,Wicked Blow,Close Combat,Sucker Punch,Detect,Zacian-Crowned,Thundurus,Kingdra,Politoed,Landorus-Therian
+Charizard,Life Orb ,Solar Power,0,0,0,0,0,0,,31,0,31,31,31,31,Air Slash,Blast Burn,Heat Wave,Protect,Venusaur,Umbreon,Incineroar,Regieleki,Groudon
+Venusaur,Focus Sash ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Leaf Storm,Weather Ball,Sludge Bomb,Sleep Powder,Charizard,Umbreon,Incineroar,Regieleki,Groudon
+Umbreon,Leftovers ,Inner Focus,0,0,0,0,0,0,,31,31,31,31,31,31,Foul Play,Yawn,Moonlight,Snarl,Charizard,Venusaur,Incineroar,Regieleki,Groudon
+Incineroar,Assault Vest ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Flare Blitz,Fake Out,Darkest Lariat,U-turn,Charizard,Venusaur,Umbreon,Regieleki,Groudon
+Regieleki,Magnet ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Electroweb,Thunderbolt,Eerie Impulse,Protect,Charizard,Venusaur,Umbreon,Incineroar,Groudon
+Groudon,Sitrus Berry ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Precipice Blades,Rock Slide,Swords Dance,Protect,Charizard,Venusaur,Umbreon,Incineroar,Regieleki
+Lapras-Gmax,Light Clay ,Water Absorb,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Freeze-Dry,Hydro Pump,Perish Song,Protect,Amoonguss,Landorus-Therian,Incineroar,Regieleki,Zacian-Crowned
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Pollen Puff,Spore,Rage Powder,Protect,Lapras-Gmax,Landorus-Therian,Incineroar,Regieleki,Zacian-Crowned
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Earthquake,Rock Slide,Fly,Swords Dance,Lapras-Gmax,Amoonguss,Incineroar,Regieleki,Zacian-Crowned
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Flare Blitz,Fake Out,Parting Shot,Taunt,Lapras-Gmax,Amoonguss,Landorus-Therian,Regieleki,Zacian-Crowned
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Electroweb,Thunderbolt,Volt Switch,Protect,Lapras-Gmax,Amoonguss,Landorus-Therian,Incineroar,Zacian-Crowned
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,252,0,0,0,0,0,Serious,31,31,31,31,31,31,Behemoth Blade,Sacred Sword,Substitute,Protect,Lapras-Gmax,Amoonguss,Landorus-Therian,Incineroar,Regieleki
+Venusaur-Gmax,Focus Sash ,Chlorophyll,0,0,0,0,0,0,Hitter,31,31,31,31,31,31,Sleep Powder,Leaf Storm,Earth Power,Weather Ball,Groudon,Incineroar,Charizard-Gmax,Umbreon,Regieleki
+Groudon,Sitrus Berry ,Drought,0,0,0,0,0,0,Accurate,31,31,31,31,31,31,Protect,Swords Dance,Precipice Blades,Rock Slide,Venusaur-Gmax,Incineroar,Charizard-Gmax,Umbreon,Regieleki
+Incineroar,Assault Vest ,Intimidate,0,0,0,0,0,0,IceCreamMaker,31,31,31,31,31,31,Fake Out,Flare Blitz,Darkest Lariat,U-turn,Venusaur-Gmax,Groudon,Charizard-Gmax,Umbreon,Regieleki
+Charizard-Gmax,Life Orb ,Solar Power,0,0,0,0,0,0,Hot,31,31,31,31,31,31,Protect,Blast Burn,Hurricane,Heat Wave,Venusaur-Gmax,Groudon,Incineroar,Umbreon,Regieleki
+Umbreon,Leftovers ,Inner Focus,0,0,0,0,0,0,Lunatic,31,31,31,31,31,31,Snarl,Foul Play,Moonlight,Yawn,Venusaur-Gmax,Groudon,Incineroar,Charizard-Gmax,Regieleki
+Regieleki,Magnet ,Transistor,0,0,0,0,0,0,Sparky,31,31,31,31,31,31,Protect,Thunderbolt,Volt Switch,Electroweb,Venusaur-Gmax,Groudon,Incineroar,Charizard-Gmax,Umbreon
+Calyrex-Shadow,Spell Tag ,As One (Spectrier),0,0,0,0,0,0,Serious,0,0,0,0,0,0,Astral Barrage,Psyshock,Substitute,Protect,Mimikyu,Regieleki,Thundurus,Weezing,Regigigas
+Mimikyu,Pixie Plate ,Disguise,0,0,0,0,0,0,Serious,0,0,0,0,0,0,Play Rough,Will-O-Wisp,Taunt,Trick Room,Calyrex-Shadow,Regieleki,Thundurus,Weezing,Regigigas
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Serious,0,0,0,0,0,0,Electroweb,Thunderbolt,Eerie Impulse,Protect,Calyrex-Shadow,Mimikyu,Thundurus,Weezing,Regigigas
+Thundurus,Assault Vest ,Defiant,0,0,0,0,0,0,Serious,0,0,0,0,0,0,Fly,Wild Charge,Superpower,Crunch,Calyrex-Shadow,Mimikyu,Regieleki,Weezing,Regigigas
+Weezing,Shuca Berry ,Neutralizing Gas,0,0,0,0,0,0,Serious,0,0,0,0,0,0,Sludge Bomb,Will-O-Wisp,Taunt,Protect,Calyrex-Shadow,Mimikyu,Regieleki,Thundurus,Regigigas
+Regigigas,Life Orb ,Slow Start,0,0,0,0,0,0,Serious,0,0,0,0,0,0,Giga Impact,Darkest Lariat,Thunder Punch,Wide Guard,Calyrex-Shadow,Mimikyu,Regieleki,Thundurus,Weezing
+Gastrodon,Rindo Berry ,Storm Drain,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Earth Power,Scald,Recover,Protect,Zacian-Crowned,Rillaboom,Rotom-Heat,Dragapult,Grimmsnarl
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Substitute,Behemoth Blade,Close Combat,Gastrodon,Rillaboom,Rotom-Heat,Dragapult,Grimmsnarl
+Rillaboom,Miracle Seed ,Grassy Surge,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Grassy Glide,Wood Hammer,Fake Out,Protect,Gastrodon,Zacian-Crowned,Rotom-Heat,Dragapult,Grimmsnarl
+Rotom-Heat,Safety Goggles ,Levitate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Thunderbolt,Overheat,Nasty Plot,Protect,Gastrodon,Zacian-Crowned,Rillaboom,Dragapult,Grimmsnarl
+Dragapult,Focus Sash ,Clear Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Will-O-Wisp,Dragon Darts,Fly,Phantom Force,Gastrodon,Zacian-Crowned,Rillaboom,Rotom-Heat,Grimmsnarl
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Spirit Break,Taunt,Reflect,Light Screen,Gastrodon,Zacian-Crowned,Rillaboom,Rotom-Heat,Dragapult
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Electroweb,Protect,Thunderbolt,Eerie Impulse,Landorus-Therian,Yveltal,Metagross,Lapras-Gmax,Incineroar
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Swords Dance,Earthquake,Fly,Rock Slide,Regieleki,Yveltal,Metagross,Lapras-Gmax,Incineroar
+Yveltal,Assault Vest ,Dark Aura,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Oblivion Wing,Dark Pulse,Heat Wave,Foul Play,Regieleki,Landorus-Therian,Metagross,Lapras-Gmax,Incineroar
+Metagross,Weakness Policy ,Clear Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Iron Head,Stomping Tantrum,Ice Punch,Protect,Regieleki,Landorus-Therian,Yveltal,Lapras-Gmax,Incineroar
+Lapras-Gmax,Light Clay ,Water Absorb,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Hydro Pump,Freeze-Dry,Protect,Thunder,Regieleki,Landorus-Therian,Yveltal,Metagross,Incineroar
+Incineroar,Aguav Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fake Out,Flare Blitz,Parting Shot,Taunt,Regieleki,Landorus-Therian,Yveltal,Metagross,Lapras-Gmax
+Venusaur-Gmax,Focus Sash ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Frenzy Plant,Sludge Bomb,Sleep Powder,Weather Ball,Charizard-Gmax,Groudon,Porygon2,Incineroar,Glastrier
+Charizard-Gmax,Life Orb ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Heat Wave,Hurricane,Scorching Sands,Protect,Venusaur-Gmax,Groudon,Porygon2,Incineroar,Glastrier
+Groudon,Sitrus Berry,Drough,0,0,0,0,0,0,,31,31,31,31,31,31,Precipice Blades ,Swords Dance ,Rock Slide ,Protect ,Venusaur-Gmax,Charizard-Gmax,Porygon2,Incineroar,Glastrier
+Porygon2,Eviolite ,Download,0,0,0,0,0,0,,31,31,31,31,31,31,Ice Beam,Foul Play,Trick Room,Recover,Venusaur-Gmax,Charizard-Gmax,Groudon,Incineroar,Glastrier
+Incineroar,Figy Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Parting Shot,Fake Out,Flare Blitz,Darkest Lariat,Venusaur-Gmax,Charizard-Gmax,Groudon,Porygon2,Glastrier
+Glastrier,Lum Berry ,Chilling Neigh,0,0,0,0,0,0,,31,31,31,31,31,31,Icicle Spear,Close Combat,Heavy Slam,Protect,Venusaur-Gmax,Charizard-Gmax,Groudon,Porygon2,Incineroar
+Rotom-Wash,Sitrus Berry ,Levitate,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Nasty Plot,Thunderbolt,Hydro Pump,Torkoal,Venusaur-Gmax,Zacian-Crowned,Landorus-Therian,Grimmsnarl-Gmax
+Torkoal,Leftovers ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Burning Jealousy,Body Press,Yawn,Rotom-Wash,Venusaur-Gmax,Zacian-Crowned,Landorus-Therian,Grimmsnarl-Gmax
+Venusaur-Gmax,Life Orb ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Sleep Powder,Leaf Storm,Sludge Bomb,Earth Power,Rotom-Wash,Torkoal,Zacian-Crowned,Landorus-Therian,Grimmsnarl-Gmax
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Behemoth Blade,Sacred Sword,Substitute,Rotom-Wash,Torkoal,Venusaur-Gmax,Landorus-Therian,Grimmsnarl-Gmax
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Rock Slide,Fly,Earthquake,Swords Dance,Rotom-Wash,Torkoal,Venusaur-Gmax,Zacian-Crowned,Grimmsnarl-Gmax
+Grimmsnarl-Gmax,Light Clay ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Spirit Break,Reflect,Light Screen,Thunder Wave,Rotom-Wash,Torkoal,Venusaur-Gmax,Zacian-Crowned,Landorus-Therian
+Calyrex-Shadow,Life Orb ,As One (Spectrier),0,0,0,0,0,0,,31,31,31,31,31,31,Astral Barrage,Expanding Force,Protect,Substitute,Thundurus,Charizard-Gmax,Torkoal,Urshifu-Gmax,Whimsicott
+Thundurus,Assault Vest ,Defiant,0,0,0,0,0,0,,31,31,31,31,31,31,Wild Charge,Fly,Superpower,Foul Play,Calyrex-Shadow,Charizard-Gmax,Torkoal,Urshifu-Gmax,Whimsicott
+Charizard-Gmax,Safety Goggles ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Heat Wave,Air Slash,Ancient Power,Protect,Calyrex-Shadow,Thundurus,Torkoal,Urshifu-Gmax,Whimsicott
+Torkoal,Sitrus Berry ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Burning Jealousy,Protect,Yawn,Body Press,Calyrex-Shadow,Thundurus,Charizard-Gmax,Urshifu-Gmax,Whimsicott
+Urshifu-Gmax,Focus Sash ,Unseen Fist ,0,0,0,0,0,0,,31,31,31,31,31,31,Wicked Blow,Close Combat,Sucker Punch,Protect,Calyrex-Shadow,Thundurus,Charizard-Gmax,Torkoal,Whimsicott
+Whimsicott,Eject Button ,Prankster ,0,0,0,0,0,0,,31,31,31,31,31,31,Tailwind,Moonblast,Switcheroo,Protect,Calyrex-Shadow,Thundurus,Charizard-Gmax,Torkoal,Urshifu-Gmax
+Lapras-Gmax,Weakness Policy ,Shell Armor,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Hydro Pump,Freeze-Dry,Thunderbolt,Protect,Zacian,Indeedee-F,Dusclops,Incineroar,Landorus
+Zacian,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Iron Head,Play Rough,Sacred Sword,Lapras-Gmax,Indeedee-F,Dusclops,Incineroar,Landorus
+Indeedee-F,Safety Goggles ,Psychic Surge,0,0,0,0,0,0, Serious,31,31,31,31,31,31,Follow Me,Helping Hand,Mystical Fire,Safeguard,Lapras-Gmax,Zacian,Dusclops,Incineroar,Landorus
+Dusclops,Eviolite ,Frisk,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Trick Room,Will-O-Wisp,Night Shade,Rock Tomb,Lapras-Gmax,Zacian,Indeedee-F,Incineroar,Landorus
+Incineroar,Assault Vest ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,U-turn,Fake Out,Snarl,Flare Blitz,Lapras-Gmax,Zacian,Indeedee-F,Dusclops,Landorus
+Landorus,Life Orb ,Sand Force,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Swords Dance,Earthquake,Rock Slide,Fly,Lapras-Gmax,Zacian,Indeedee-F,Dusclops,Incineroar
+Yveltal,Assault Vest ,Dark Aura,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Oblivion Wing,Dark Pulse,Snarl,Heat Wave,Bisharp,Regieleki,Cinderace,Whimsicott,Landorus-Therian
+Bisharp,Black Glasses ,Defiant,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Iron Head,Sucker Punch,Assurance,Yveltal,Regieleki,Cinderace,Whimsicott,Landorus-Therian
+Regieleki,Choice Specs ,Transistor,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Electroweb,Volt Switch,Electro Ball,Thunderbolt,Yveltal,Bisharp,Cinderace,Whimsicott,Landorus-Therian
+Cinderace,Life Orb ,Libero,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Pyro Ball,Bounce,High Jump Kick,Yveltal,Bisharp,Regieleki,Whimsicott,Landorus-Therian
+Whimsicott,Focus Sash ,Prankster,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Protect,Tailwind,Moonblast,Helping Hand,Yveltal,Bisharp,Regieleki,Cinderace,Landorus-Therian
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Earthquake,Fly,Rock Slide,Yveltal,Bisharp,Regieleki,Cinderace,Whimsicott
+Charizard,Life Orb ,Solar Power,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Heat Wave,Blast Burn,Hurricane,Protect,Groudon,Venusaur-Gmax,Grimmsnarl,Umbreon,Regieleki
+Groudon,Aguav Berry ,Drought,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Precipice Blades,Rock Slide,Swords Dance,Protect,Charizard,Venusaur-Gmax,Grimmsnarl,Umbreon,Regieleki
+Venusaur-Gmax,Weakness Policy ,Chlorophyll,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Sludge Bomb,Frenzy Plant,Weather Ball,Sleep Powder,Charizard,Groudon,Grimmsnarl,Umbreon,Regieleki
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Taunt,Reflect,Light Screen,Spirit Break,Charizard,Groudon,Venusaur-Gmax,Umbreon,Regieleki
+Umbreon,Leftovers ,Inner Focus,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Foul Play,Snarl,Yawn,Moonlight,Charizard,Groudon,Venusaur-Gmax,Grimmsnarl,Regieleki
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Electroweb,Thunderbolt,Volt Switch,Protect,Charizard,Groudon,Venusaur-Gmax,Grimmsnarl,Umbreon
+Amoonguss,Coba Berry,Regenerato,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Spore ,Rage Powder ,Pollen Puff ,Protect ,Yoki,Hydreigon,Regieleki,Incineroar,Thundurus
+Yoki,,Intrepid Swor,0,0,0,0,0,0,Serious,31,31,31,31,31,31,acian-Crowned) @ Rusted Sword ,Behemoth Blade ,Sacred Sword ,Substitute ,Protect ,Amoonguss,Hydreigon,Regieleki,Incineroar,Thundurus
+Hydreigon,Life Orb ,Levitate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Draco Meteor,Dark Pulse,Earth Power,Nasty Plot,Amoonguss,Yoki,Regieleki,Incineroar,Thundurus
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Electroweb,Volt Switch,Eerie Impulse,Protect,Amoonguss,Yoki,Hydreigon,Incineroar,Thundurus
+Incineroar,Sitrus Berry,Intimidat,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fake Out ,Flare Blitz ,Taunt ,Parting Shot ,Amoonguss,Yoki,Hydreigon,Regieleki,Thundurus
+Thundurus,Assault Vest,Defian,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Wild Charge ,Fly ,Superpower ,Foul Play ,Amoonguss,Yoki,Hydreigon,Regieleki,Incineroar
+Kyogre,Mystic Water ,Drizzle,68,0,0,252,0,188,Modest,31,0,31,31,31,31,Water Spout,Scald,Ice Beam,Protect,Ferrothorn,Regieleki,Incineroar,Dragapult,Porygon2
+Ferrothorn,Leftovers ,Iron Barbs,212,0,252,0,44,0,Bold,31,0,31,31,31,31,Iron Defense,Body Press,Leech Seed,Protect,Kyogre,Regieleki,Incineroar,Dragapult,Porygon2
+Regieleki,Focus Sash ,Transistor,4,0,0,252,0,252,Timid,31,0,31,31,31,31,Thunder,Volt Switch,Electroweb,Protect,Kyogre,Ferrothorn,Incineroar,Dragapult,Porygon2
+Incineroar,Safety Goggles ,Intimidate,244,4,68,0,52,140,Careful,31,31,31,31,31,31,Fake Out,Flare Blitz,Parting Shot,Taunt,Kyogre,Ferrothorn,Regieleki,Dragapult,Porygon2
+Dragapult,Lum Berry ,Clear Body,4,252,0,0,0,252,Jolly,31,31,31,31,31,31,Dragon Darts,Phantom Force,Fly,Will-O-Wisp,Kyogre,Ferrothorn,Regieleki,Incineroar,Porygon2
+Porygon2,Eviolite ,Trace,244,0,172,0,92,0,Bold,31,0,31,31,31,31,Trick Room,Foul Play,Eerie Impulse,Recover,Kyogre,Ferrothorn,Regieleki,Incineroar,Dragapult
+Calyrex-Ice,Weakness Policy ,As One (Glastrier),0,0,0,0,0,0,Serious,31,31,31,31,31,31,Glacial Lance,High Horsepower,Heavy Slam,Trick Room,Tapu Fini,Incineroar,Mimikyu,Urshifu,Regieleki
+Tapu Fini,Sitrus Berry ,Misty Surge,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Muddy Water,Moonblast,Haze,Heal Pulse,Calyrex-Ice,Incineroar,Mimikyu,Urshifu,Regieleki
+Incineroar,Assault Vest ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fake Out,Flare Blitz,U-turn,Snarl,Calyrex-Ice,Tapu Fini,Mimikyu,Urshifu,Regieleki
+Mimikyu,Mental Herb ,Disguise,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Trick Room,Will-O-Wisp,Shadow Sneak,Taunt,Calyrex-Ice,Tapu Fini,Incineroar,Urshifu,Regieleki
+Urshifu,Focus Sash ,Unseen Fist,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Wicked Blow,Close Combat,Sucker Punch,Protect,Calyrex-Ice,Tapu Fini,Incineroar,Mimikyu,Regieleki
+Regieleki,Life Orb ,Transistor,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Electroweb,Volt Switch,Thunder,Light Screen,Calyrex-Ice,Tapu Fini,Incineroar,Mimikyu,Urshifu
+Kyogre,Mystic Water ,Drizzle,0,0,0,0,0,0,,31,31,31,31,31,31,Water Spout,Thunder,Origin Pulse,Protect,Metagross,Spectrier,Urshifu,Whimsicott,Thundurus
+Metagross,Weakness Policy ,Clear Body,0,0,0,0,0,0,,31,31,31,31,31,31,Iron Head,Stomping Tantrum,Protect,Ice Punch,Kyogre,Spectrier,Urshifu,Whimsicott,Thundurus
+Spectrier,Colbur Berry ,Grim Neigh,0,0,0,0,0,0,,31,31,31,31,31,31,Taunt,Will-O-Wisp,Shadow Ball,Bulldoze,Kyogre,Metagross,Urshifu,Whimsicott,Thundurus
+Urshifu,Choice Band ,Unseen Fist,0,0,0,0,0,0,,31,31,31,31,31,31,Wicked Blow,Sucker Punch,Poison Jab,Close Combat,Kyogre,Metagross,Spectrier,Whimsicott,Thundurus
+Whimsicott,Focus Sash ,Prankster  ,0,0,0,0,0,0,,31,31,31,31,31,31,Moonblast,Tailwind,Taunt,Protect,Kyogre,Metagross,Spectrier,Urshifu,Thundurus
+Thundurus,Assault Vest ,Defiant,0,0,0,0,0,0,,31,31,31,31,31,31,Fly,Wild Charge,Superpower,Lash Out,Kyogre,Metagross,Spectrier,Urshifu,Whimsicott
+Suicune,Assault Vest ,Inner Focus,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Icy Wind,Hydro Pump,Snarl,Mirror Coat,Regieleki,Grimmsnarl,Kyurem-White,Metagross,Entei
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Rain Dance,Thunderbolt,Electroweb,Protect,Suicune,Grimmsnarl,Kyurem-White,Metagross,Entei
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Sucker Punch,Light Screen,Reflect,Thunder Wave,Suicune,Regieleki,Kyurem-White,Metagross,Entei
+Kyurem-White,Life Orb ,Turboblaze,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Draco Meteor,Blizzard,Earth Power,Suicune,Regieleki,Grimmsnarl,Metagross,Entei
+Metagross,Weakness Policy ,Clear Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Stomping Tantrum,Iron Head,Ice Punch,Ally Switch,Suicune,Regieleki,Grimmsnarl,Kyurem-White,Entei
+Entei,Shuca Berry ,Inner Focus,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Sacred Fire,Bulldoze,Protect,Extreme Speed,Suicune,Regieleki,Grimmsnarl,Kyurem-White,Metagross
+Ferrothorn,Leftovers ,Iron Barbs,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Body Press,Protect,Leech Seed,Iron Defense,Rotom-Heat,Regieleki,Urshifu,Landorus-Therian,Palkia
+Rotom-Heat,Safety Goggles ,Levitate,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Overheat,Discharge,Nasty Plot,Will-O-Wisp,Ferrothorn,Regieleki,Urshifu,Landorus-Therian,Palkia
+Regieleki,Magnet ,Transistor,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Thunderbolt,Electroweb,Eerie Impulse,Protect,Ferrothorn,Rotom-Heat,Urshifu,Landorus-Therian,Palkia
+Urshifu,Focus Sash ,Unseen Fist,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Sucker Punch,Wicked Blow,Protect,Ferrothorn,Rotom-Heat,Regieleki,Landorus-Therian,Palkia
+Landorus-Therian,Assault Vest ,Intimidate,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Earthquake,Rock Slide,Fly,U-turn,Ferrothorn,Rotom-Heat,Regieleki,Urshifu,Palkia
+Palkia,Life Orb ,Telepathy,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Hydro Pump,Spacial Rend,Earth Power,Trick Room,Ferrothorn,Rotom-Heat,Regieleki,Urshifu,Landorus-Therian
+Gothitelle,Focus Sash ,Shadow Tag,0,0,0,0,0,0,,31,31,31,31,31,31,Psyshock,Fake Out,Helping Hand,Thunder Wave,Thundurus,Zacian-Crowned,Rotom-Wash,Hydreigon,Volcarona
+Thundurus,Assault Vest ,Defiant,0,0,0,0,0,0,,31,31,31,31,31,31,Wild Charge,Fly,Superpower,Foul Play,Gothitelle,Zacian-Crowned,Rotom-Wash,Hydreigon,Volcarona
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,,31,31,31,31,31,31,Behemoth Blade,Close Combat,Substitute,Protect,Gothitelle,Thundurus,Rotom-Wash,Hydreigon,Volcarona
+Rotom-Wash,Sitrus Berry ,Levitate,0,0,0,0,0,0,,31,31,31,31,31,31,Hydro Pump,Thunderbolt,Nasty Plot,Protect,Gothitelle,Thundurus,Zacian-Crowned,Hydreigon,Volcarona
+Hydreigon,Life Orb ,Levitate,0,0,0,0,0,0,,31,31,31,31,31,31,Dark Pulse,Earth Power,Draco Meteor,Protect,Gothitelle,Thundurus,Zacian-Crowned,Rotom-Wash,Volcarona
+Volcarona,Coba Berry ,Flame Body,0,0,0,0,0,0,,31,31,31,31,31,31,Overheat,Will-O-Wisp,Struggle Bug,Rage Powder,Gothitelle,Thundurus,Zacian-Crowned,Rotom-Wash,Hydreigon
+Kyogre,Sea Incense,Drizzl,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Water Spout ,Origin Pulse ,Ice Beam ,Protect ,Tornadus,Regieleki,Incineroar,Metagross,Zapdos
+Tornadus,Focus Sash,Prankste,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Tailwind ,Brutal Swing ,Hurricane ,Protect ,Kyogre,Regieleki,Incineroar,Metagross,Zapdos
+Regieleki,Magnet,Transisto,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Volt Switch ,Electroweb ,Thunder ,Protect ,Kyogre,Tornadus,Incineroar,Metagross,Zapdos
+Incineroar,Sitrus Berry,Intimidat,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Flare Blitz ,Snarl ,Parting Shot ,Fake Out ,Kyogre,Tornadus,Regieleki,Metagross,Zapdos
+Metagross,Weakness Policy,Clear Bod,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Iron Head ,Rock Slide ,Stomping Tantrum ,Protect ,Kyogre,Tornadus,Regieleki,Incineroar,Zapdos
+Zapdos,Life Orb,Stati,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Hurricane ,Heat Wave ,Thunderbolt ,Protect ,Kyogre,Tornadus,Regieleki,Incineroar,Metagross
+Blastoise,Life Orb ,Torrent  ,0,0,0,0,0,0,,31,31,31,31,31,31,Water Spout,Shell Smash,Ice Beam,Scald,Zacian-Crowned,Whimsicott,Indeedee,Cinderace,Regieleki
+Zacian-Crowned,Rusted Sword ,Intrepid Sword ,0,0,0,0,0,0,,31,31,31,31,31,31,Behemoth Blade,Protect,Sacred Sword,Play Rough,Blastoise,Whimsicott,Indeedee,Cinderace,Regieleki
+Whimsicott,Coba Berry ,Prankster ,0,0,0,0,0,0,,31,31,31,31,31,31,Moonblast,Tailwind,Helping Hand,Worry Seed,Blastoise,Zacian-Crowned,Indeedee,Cinderace,Regieleki
+Indeedee,Focus Sash ,Psychic Surge  ,0,0,0,0,0,0,,31,31,31,31,31,31,Expanding Force,Imprison,Trick Room,Helping Hand,Blastoise,Zacian-Crowned,Whimsicott,Cinderace,Regieleki
+Cinderace,White Herb ,Libero,0,0,0,0,0,0,,31,31,31,31,31,31,Flare Blitz,Bounce,Sucker Punch,High Jump Kick,Blastoise,Zacian-Crowned,Whimsicott,Indeedee,Regieleki
+Regieleki,Magnet ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Electroweb,Thunderbolt,Protect,Thunder Wave,Blastoise,Zacian-Crowned,Whimsicott,Indeedee,Cinderace
+Solgaleo,Weakness Policy ,Full Metal Body,0,0,0,0,0,0,Hardy,31,31,31,31,31,31,Sunsteel Strike,Earthquake,Rock Slide,Protect,Tapu Fini,Thundurus,Spectrier,Incineroar,Rillaboom-Gmax
+Tapu Fini,Leftovers ,Misty Surge,0,0,0,0,0,0,Hardy,31,31,31,31,31,31,Muddy Water,Calm Mind,Protect,Moonblast,Solgaleo,Thundurus,Spectrier,Incineroar,Rillaboom-Gmax
+Thundurus,Assault Vest ,Defiant,0,0,0,0,0,0,Hardy,31,31,31,31,31,31,Wild Charge,Foul Play,Superpower,Fly,Solgaleo,Tapu Fini,Spectrier,Incineroar,Rillaboom-Gmax
+Spectrier,Focus Sash ,Grim Neigh,0,0,0,0,0,0,Hardy,31,31,31,31,31,31,Snarl,Will-O-Wisp,Bulldoze,Shadow Ball,Solgaleo,Tapu Fini,Thundurus,Incineroar,Rillaboom-Gmax
+Incineroar,Aguav Berry ,Intimidate,0,0,0,0,0,0,Hardy,31,31,31,31,31,31,Fake Out,Parting Shot,Flare Blitz,Darkest Lariat,Solgaleo,Tapu Fini,Thundurus,Spectrier,Rillaboom-Gmax
+Rillaboom-Gmax,Miracle Seed ,Grassy Surge,0,0,0,0,0,0,Hardy,31,31,31,31,31,31,Grassy Glide,Wood Hammer,Fake Out,Protect,Solgaleo,Tapu Fini,Thundurus,Spectrier,Incineroar
+Kyogre,Wave Incense ,Drizzle,0,0,0,0,0,0,Timid,31,31,31,31,31,31,Water Spout,Origin Pulse,Thunder,Protect,Grimmsnarl,Urshifu,Porygon2,Torkoal,Venusaur-Gmax
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Spirit Break,Light Screen,Reflect,Thunder Wave,Kyogre,Urshifu,Porygon2,Torkoal,Venusaur-Gmax
+Urshifu,Focus Sash,Unseen Fis,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Wicked Blow ,Close Combat ,Sucker Punch ,Detect ,Kyogre,Grimmsnarl,Porygon2,Torkoal,Venusaur-Gmax
+Porygon2,Eviolite ,Trace,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Ice Beam,Eerie Impulse,Recover,Trick Room,Kyogre,Grimmsnarl,Urshifu,Torkoal,Venusaur-Gmax
+Torkoal,Charcoal ,Drought,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Eruption,Yawn,Heat Wave,Protect,Kyogre,Grimmsnarl,Urshifu,Porygon2,Venusaur-Gmax
+Venusaur-Gmax,Coba Berry ,Chlorophyll,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Sleep Powder,Leaf Storm,Sludge Bomb,Weather Ball,Kyogre,Grimmsnarl,Urshifu,Porygon2,Torkoal
+Amoonguss,Focus Sash ,Regenerator,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Spore,Rage Powder,Protect,Pollen Puff,Umbreon,Zacian-Crowned,Landorus-Therian,Thundurus,Lapras-Gmax
+Umbreon,Leftovers ,Inner Focus,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Taunt,Yawn,Protect,Foul Play,Amoonguss,Zacian-Crowned,Landorus-Therian,Thundurus,Lapras-Gmax
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Substitute,Protect,Sacred Sword,Behemoth Blade,Amoonguss,Umbreon,Landorus-Therian,Thundurus,Lapras-Gmax
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fly,Rock Slide,Earthquake,Protect,Amoonguss,Umbreon,Zacian-Crowned,Thundurus,Lapras-Gmax
+Thundurus,Assault Vest ,Defiant,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fly,Electroweb,Wild Charge,Superpower,Amoonguss,Umbreon,Zacian-Crowned,Landorus-Therian,Lapras-Gmax
+Lapras-Gmax,Light Clay ,Water Absorb,0,0,0,0,0,0,Bashful,31,0,31,31,31,31,Protect,Freeze-Dry,Hydro Pump,Perish Song,Amoonguss,Umbreon,Zacian-Crowned,Landorus-Therian,Thundurus
+Groudon,Lum Berry ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Precipice Blades,Rock Slide,Swords Dance,Protect,Charizard-Gmax,Umbreon,Venusaur-Gmax,Regieleki,Sableye
+Charizard-Gmax,Life Orb ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Blast Burn,Protect,Heat Wave,Hurricane,Groudon,Umbreon,Venusaur-Gmax,Regieleki,Sableye
+Umbreon,Sitrus Berry ,Inner Focus,0,0,0,0,0,0,,31,31,31,31,31,31,Foul Play,Snarl,Yawn,Moonlight,Groudon,Charizard-Gmax,Venusaur-Gmax,Regieleki,Sableye
+Venusaur-Gmax,Coba Berry ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Leaf Storm,Sludge Bomb,Earth Power,Sleep Powder,Groudon,Charizard-Gmax,Umbreon,Regieleki,Sableye
+Regieleki,Focus Sash ,Transistor  ,0,0,0,0,0,0,,31,31,31,31,31,31,Thunderbolt,Electroweb,Eerie Impulse,Protect,Groudon,Charizard-Gmax,Umbreon,Venusaur-Gmax,Sableye
+Sableye,Mental Herb ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Quash,Fake Out,Will-O-Wisp,Sunny Day,Groudon,Charizard-Gmax,Umbreon,Venusaur-Gmax,Regieleki
+Kyogre,Wave Incense ,Drizzle,0,0,0,0,0,0,Quirky,31,0,31,31,31,31,Protect,Water Spout,Origin Pulse,Thunder,Cinderace,Talonflame,Tsareena,Regidrago,Regieleki
+Cinderace,Life Orb ,Libero,0,0,0,0,0,0,Quirky,31,31,31,31,31,31,High Jump Kick,Bounce,Iron Head,Sucker Punch,Kyogre,Talonflame,Tsareena,Regidrago,Regieleki
+Talonflame,Sharp Beak ,Gale Wings,0,0,0,0,0,0,Quirky,31,31,31,31,15,31,Tailwind,Will-O-Wisp,Taunt,Brave Bird,Kyogre,Cinderace,Tsareena,Regidrago,Regieleki
+Tsareena,Coba Berry ,Queenly Majesty,0,0,0,0,0,0,Docile,31,31,31,31,31,31,Power Whip,Taunt,Helping Hand,U-turn,Kyogre,Cinderace,Talonflame,Regidrago,Regieleki
+Regidrago,Dragon Fang ,Dragon's Maw,0,0,0,0,0,0,Quirky,31,0,31,31,31,31,Dragon Energy,Draco Meteor,Hyper Beam,Protect,Kyogre,Cinderace,Talonflame,Tsareena,Regieleki
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Quirky,31,0,31,31,31,31,Protect,Thunder,Electroweb,Eerie Impulse,Kyogre,Cinderace,Talonflame,Tsareena,Regidrago
+Solgaleo,Weakness Policy ,Full Metal Body,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Sunsteel Strike,Earthquake,Rock Slide,Protect,Grimmsnarl,Spectrier,Porygon2,Rotom-Heat,Tapu Fini
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Sucker Punch,Reflect,Light Screen,Thunder Wave,Solgaleo,Spectrier,Porygon2,Rotom-Heat,Tapu Fini
+Spectrier,Focus Sash ,Grim Neigh,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Shadow Ball,Snarl,Will-O-Wisp,Bulldoze,Solgaleo,Grimmsnarl,Porygon2,Rotom-Heat,Tapu Fini
+Porygon2,Eviolite ,Trace,0,0,0,0,0,0,Docile,31,0,31,31,31,31,Foul Play,Eerie Impulse,Recover,Trick Room,Solgaleo,Grimmsnarl,Spectrier,Rotom-Heat,Tapu Fini
+Rotom-Heat,Safety Goggles ,Levitate,0,0,0,0,0,0,Quirky,31,0,31,31,31,31,Overheat,Thunderbolt,Nasty Plot,Protect,Solgaleo,Grimmsnarl,Spectrier,Porygon2,Tapu Fini
+Tapu Fini,Leftovers ,Misty Surge,0,0,0,0,0,0,Quirky,31,0,31,31,31,31,Moonblast,Muddy Water,Calm Mind,Protect,Solgaleo,Grimmsnarl,Spectrier,Porygon2,Rotom-Heat
+Giratina,Weakness Policy ,Pressure,0,0,0,0,0,0,,31,31,31,31,31,31,Dragon Claw,Shadow Force,Dual Wingbeat,Destiny Bond,Comfey,Coalossal-Gmax,Glastrier,Pheromosa,Blacephalon
+Comfey,Babiri Berry ,Triage,0,0,0,0,0,0,,31,31,31,31,31,31,Draining Kiss,Floral Healing,Trick Room,Helping Hand,Giratina,Coalossal-Gmax,Glastrier,Pheromosa,Blacephalon
+Coalossal-Gmax,Power Herb ,Steam Engine,0,0,0,0,0,0,,31,31,31,31,31,31,Heat Wave,Meteor Beam,Solar Beam,Substitute,Giratina,Comfey,Glastrier,Pheromosa,Blacephalon
+Glastrier,Assault Vest ,Chilling Neigh,0,0,0,0,0,0,,31,31,31,31,31,31,Icicle Crash,Close Combat,High Horsepower,Heavy Slam,Giratina,Comfey,Coalossal-Gmax,Pheromosa,Blacephalon
+Pheromosa,Focus Sash ,Beast Boost,0,0,0,0,0,0,,31,31,31,31,31,31,Close Combat,Protect,Speed Swap,Coaching,Giratina,Comfey,Coalossal-Gmax,Glastrier,Blacephalon
+Blacephalon,Choice Scarf ,Beast Boost,0,0,0,0,0,0,,31,31,31,31,31,31,Mind Blown,Shadow Ball,Flamethrower,Trick,Giratina,Comfey,Coalossal-Gmax,Glastrier,Pheromosa
+Sableye,Safety Goggles ,Prankster,0,0,0,0,0,0,Serious,31,31,31,1,31,31,Foul Play,Quash,Sunny Day,Will-O-Wisp,Zacian-Crowned,Charizard,Umbreon,Regieleki,Landorus-Therian
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Behemoth Blade,Swords Dance,Protect,Sacred Sword,Sableye,Charizard,Umbreon,Regieleki,Landorus-Therian
+Charizard,Life Orb ,Solar Power,0,0,0,0,0,0,,31,0,31,31,31,31,Heat Wave,Air Slash,Protect,Scorching Sands,Sableye,Zacian-Crowned,Umbreon,Regieleki,Landorus-Therian
+Umbreon,Leftovers ,Inner Focus,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Snarl,Yawn,Foul Play,Moonlight,Sableye,Zacian-Crowned,Charizard,Regieleki,Landorus-Therian
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Electroweb,Eerie Impulse,Protect,Thunder Cage,Sableye,Zacian-Crowned,Charizard,Umbreon,Landorus-Therian
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Earthquake,Fly,Rock Slide,Swords Dance,Sableye,Zacian-Crowned,Charizard,Umbreon,Regieleki
+Ferrothorn,Leftovers ,Iron Barbs,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Leech Seed,Body Press,Iron Defense,Raichu,Kyogre,Kingdra,Mimikyu,Metagross
+Raichu,Focus Sash ,Lightning Rod,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Nuzzle,Eerie Impulse,Volt Switch,Ferrothorn,Kyogre,Kingdra,Mimikyu,Metagross
+Kyogre,Mystic Water ,Drizzle,0,0,0,0,0,0,,31,31,31,31,31,31,Origin Pulse,Water Spout,Ice Beam,Protect,Ferrothorn,Raichu,Kingdra,Mimikyu,Metagross
+Kingdra,Life Orb ,Swift Swim,0,0,0,0,0,0,,31,31,31,31,31,31,Hydro Pump,Hurricane,Draco Meteor,Protect,Ferrothorn,Raichu,Kyogre,Mimikyu,Metagross
+Mimikyu,Safety Goggles ,Disguise,0,0,0,0,0,0,,31,31,31,31,31,31,Shadow Sneak,Will-O-Wisp,Trick Room,Taunt,Ferrothorn,Raichu,Kyogre,Kingdra,Metagross
+Metagross,Weakness Policy ,Clear Body,0,0,0,0,0,0,,31,31,31,31,31,31,Iron Head,Ice Punch,Earthquake,Protect,Ferrothorn,Raichu,Kyogre,Kingdra,Mimikyu
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Electroweb,Volt Switch,Thunder,Kyogre,Incineroar,Ferrothorn,Porygon2,Dragapult
+Kyogre,Mystic Water ,Drizzle,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Water Spout,Origin Pulse,Ice Beam,Regieleki,Incineroar,Ferrothorn,Porygon2,Dragapult
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fake Out,Taunt,Flare Blitz,Parting Shot,Regieleki,Kyogre,Ferrothorn,Porygon2,Dragapult
+Ferrothorn,Leftovers ,Iron Barbs,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Body Press,Leech Seed,Iron Defense,Regieleki,Kyogre,Incineroar,Porygon2,Dragapult
+Porygon2,Eviolite ,Trace,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Foul Play,Eerie Impulse,Recover,Trick Room,Regieleki,Kyogre,Incineroar,Ferrothorn,Dragapult
+Dragapult,Lum Berry ,Clear Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Phantom Force,Dragon Darts,Fly,Will-O-Wisp,Regieleki,Kyogre,Incineroar,Ferrothorn,Porygon2
+Milotic,Assault Vest ,Competitive,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Scald,Mud Shot,Icy Wind,Disarming Voice,Grimmsnarl,Zacian-Crowned,Dragapult,Rotom-Heat,Amoonguss
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Spirit Break,Scary Face,Reflect,Light Screen,Milotic,Zacian-Crowned,Dragapult,Rotom-Heat,Amoonguss
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Behemoth Blade,Close Combat,Substitute,Protect,Milotic,Grimmsnarl,Dragapult,Rotom-Heat,Amoonguss
+Dragapult,Life Orb ,Clear Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Phantom Force,Dragon Darts,Fly,Dragon Dance,Milotic,Grimmsnarl,Zacian-Crowned,Rotom-Heat,Amoonguss
+Rotom-Heat,Safety Goggles ,Levitate,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Overheat,Thunderbolt,Nasty Plot,Protect,Milotic,Grimmsnarl,Zacian-Crowned,Dragapult,Amoonguss
+Amoonguss,Focus Sash ,Regenerator,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Pollen Puff,Spore,Rage Powder,Protect,Milotic,Grimmsnarl,Zacian-Crowned,Dragapult,Rotom-Heat
+Venusaur-Gmax,Weakness Policy ,Chlorophyll,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Frenzy Plant,Sludge Bomb,Weather Ball,Protect,Groudon,Tapu Fini,Rotom-Heat,Grimmsnarl,Umbreon
+Groudon,Iapapa Berry ,Drought,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Swords Dance,Precipice Blades,Rock Slide,Venusaur-Gmax,Tapu Fini,Rotom-Heat,Grimmsnarl,Umbreon
+Tapu Fini,Leftovers ,Misty Surge,0,0,0,0,0,0,-,31,0,31,31,31,31,Protect,Moonblast,Haze,Venusaur-Gmax,Groudon,Rotom-Heat,Grimmsnarl,Umbreon
+Rotom-Heat,Safety Goggles ,Levitate,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Overheat,Nasty Plot,Thunderbolt,Will-O-Wisp,Venusaur-Gmax,Groudon,Tapu Fini,Grimmsnarl,Umbreon
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,Serious,31,31,31,0,31,31,Spirit Break,Reflect,Light Screen,Scary Face,Venusaur-Gmax,Groudon,Tapu Fini,Rotom-Heat,Umbreon
+Umbreon,Sitrus Berry ,Inner Focus,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Foul Play,Snarl,Yawn,Moonlight,Venusaur-Gmax,Groudon,Tapu Fini,Rotom-Heat,Grimmsnarl
+Kyogre,Sea Incense ,Drizzle,0,0,0,0,0,0,,31,0,31,31,31,31,Water Spout,Protect,Scald,Ice Beam,Kartana,Amoonguss,Tornadus,Mamoswine,Incineroar
+Kartana,Assault Vest ,Beast Boost,0,0,0,0,0,0,,31,31,31,31,31,31,Smart Strike,Leaf Blade,Sacred Sword,Night Slash,Kyogre,Amoonguss,Tornadus,Mamoswine,Incineroar
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,,31,31,31,31,31,31,Sludge Bomb,Spore,Rage Powder,Protect,Kyogre,Kartana,Tornadus,Mamoswine,Incineroar
+Tornadus,Focus Sash ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Tailwind,Hurricane,Taunt,Icy Wind,Kyogre,Kartana,Amoonguss,Mamoswine,Incineroar
+Mamoswine,Life Orb ,Oblivious,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Earthquake,Rock Slide,Icicle Crash,Kyogre,Kartana,Amoonguss,Tornadus,Incineroar
+Incineroar,Safety Goggles ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Burning Jealousy,Flare Blitz,Parting Shot,Kyogre,Kartana,Amoonguss,Tornadus,Mamoswine
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Scary Face,Reflect,Light Screen,Spirit Break,Groudon,Charizard-Gmax,Venusaur-Gmax,Umbreon,Regieleki
+Groudon,Lum Berry ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Precipice Blades,Rock Slide,Swords Dance,Grimmsnarl,Charizard-Gmax,Venusaur-Gmax,Umbreon,Regieleki
+Charizard-Gmax,Safety Goggles ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Hurricane,Heat Wave,Blast Burn,Grimmsnarl,Groudon,Venusaur-Gmax,Umbreon,Regieleki
+Venusaur-Gmax,Coba Berry ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Sleep Powder,Leaf Storm,Sludge Bomb,Weather Ball,Grimmsnarl,Groudon,Charizard-Gmax,Umbreon,Regieleki
+Umbreon,Sitrus Berry ,Inner Focus,0,0,0,0,0,0,,31,31,31,31,31,31,Foul Play,Snarl,Yawn,Moonlight,Grimmsnarl,Groudon,Charizard-Gmax,Venusaur-Gmax,Regieleki
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Volt Switch,Thunderbolt,Electroweb,Grimmsnarl,Groudon,Charizard-Gmax,Venusaur-Gmax,Umbreon
+Cinderace-Gmax,Life Orb ,Libero,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Iron Head,Sucker Punch,High Jump Kick,Bounce,Tsareena,Kyogre,Regieleki,Regidrago,Talonflame
+Tsareena,Coba Berry ,Queenly Majesty,0,0,0,0,0,0,Quirky,31,31,31,31,31,31,Power Whip,U-turn,Helping Hand,Taunt,Cinderace-Gmax,Kyogre,Regieleki,Regidrago,Talonflame
+Kyogre,Sea Incense ,Drizzle,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Protect,Thunder,Water Spout,Origin Pulse,Cinderace-Gmax,Tsareena,Regieleki,Regidrago,Talonflame
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Protect,Thunder,Electroweb,Eerie Impulse,Cinderace-Gmax,Tsareena,Kyogre,Regidrago,Talonflame
+Regidrago,Dragon Fang ,Dragon's Maw,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Hyper Beam,Draco Meteor,Dragon Energy,Cinderace-Gmax,Tsareena,Kyogre,Regieleki,Talonflame
+Talonflame,Safety Goggles ,Gale Wings,0,0,0,0,0,0,Quirky,31,31,0,31,0,31,Tailwind,Taunt,Will-O-Wisp,Brave Bird,Cinderace-Gmax,Tsareena,Kyogre,Regieleki,Regidrago
+Lapras-Gmax,Light Clay ,Water Absorb,0,0,0,0,0,0,Hardy,31,31,31,31,31,31,Hydro Pump,Freeze-Dry,Perish Song,Protect,Landorus-Therian,Zacian-Crowned,Sableye,Rillaboom-Gmax,Pop Tart
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Earthquake,Fly,Rock Slide,Protect,Lapras-Gmax,Zacian-Crowned,Sableye,Rillaboom-Gmax,Pop Tart
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Quirky,31,31,31,31,31,31,Behemoth Blade,Sacred Sword,Swords Dance,Protect,Lapras-Gmax,Landorus-Therian,Sableye,Rillaboom-Gmax,Pop Tart
+Sableye,Focus Sash ,Prankster,0,0,0,0,0,0,Quirky,31,31,31,31,31,31,Taunt,Will-O-Wisp,Quash,Snarl,Lapras-Gmax,Landorus-Therian,Zacian-Crowned,Rillaboom-Gmax,Pop Tart
+Rillaboom-Gmax,Assault Vest ,Grassy Surge,0,0,0,0,0,0,Quirky,31,31,31,31,31,31,Grassy Glide,Fake Out,Knock Off,U-turn,Lapras-Gmax,Landorus-Therian,Zacian-Crowned,Sableye,Pop Tart
+Pop Tart,,Levitat,0,0,0,0,0,0,Serious,31,31,31,31,31,31,otom-Heat) @ Sitrus Berry ,Overheat ,Thunderbolt ,Nasty Plot ,Protect ,Lapras-Gmax,Landorus-Therian,Zacian-Crowned,Sableye,Rillaboom-Gmax
+Eternatus,Dragon Fang ,Pressure,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Dynamax Cannon,Sludge Bomb,Flamethrower,Protect,Whimsicott,Landorus-Therian,Urshifu,Rotom-Heat,Ditto
+Whimsicott,Coba Berry ,Prankster,0,0,0,0,0,0,Bashful,31,0,31,31,31,31,Moonblast,Tailwind,Fake Tears,Taunt,Eternatus,Landorus-Therian,Urshifu,Rotom-Heat,Ditto
+Landorus-Therian,Assault Vest ,Intimidate,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Earthquake,Rock Slide,Fly,U-turn,Eternatus,Whimsicott,Urshifu,Rotom-Heat,Ditto
+Urshifu,Choice Band ,Unseen Fist,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Close Combat,Wicked Blow,Sucker Punch,U-turn,Eternatus,Whimsicott,Landorus-Therian,Rotom-Heat,Ditto
+Rotom-Heat,Safety Goggles ,Levitate,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Thunderbolt,Overheat,Will-O-Wisp,Nasty Plot,Eternatus,Whimsicott,Landorus-Therian,Urshifu,Ditto
+Ditto,Focus Sash ,Imposter,0,0,0,0,0,0,Bashful,31,31,31,31,31,31,Transform,Eternatus,Whimsicott,Landorus-Therian,Urshifu,Rotom-Heat
+Grimmsnarl-Gmax,Light Clay ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Spirit Break,Scary Face,Reflect,Light Screen,Dragapult,Tapu Fini,Necrozma-Dusk-Mane,Zapdos,Incineroar
+Dragapult,Safety Goggles ,Clear Body,0,0,0,0,0,0,,31,31,31,31,31,31,Dragon Darts,Phantom Force,Fly,Will-O-Wisp,Grimmsnarl-Gmax,Tapu Fini,Necrozma-Dusk-Mane,Zapdos,Incineroar
+Tapu Fini,Leftovers ,Misty Surge,0,0,0,0,0,0,-,31,0,31,31,31,31,Muddy Water,Moonblast,Protect,Grimmsnarl-Gmax,Dragapult,Necrozma-Dusk-Mane,Zapdos,Incineroar
+Necrozma-Dusk-Mane,Weakness Policy ,Prism Armor,0,0,0,0,0,0,,31,31,31,31,31,31,Sunsteel Strike,Earthquake,Rock Slide,Swords Dance,Grimmsnarl-Gmax,Dragapult,Tapu Fini,Zapdos,Incineroar
+Zapdos,Assault Vest ,Static,0,0,0,0,0,0,,31,0,31,31,31,31,Thunderbolt,Volt Switch,Hurricane,Heat Wave,Grimmsnarl-Gmax,Dragapult,Tapu Fini,Necrozma-Dusk-Mane,Incineroar
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Flare Blitz,Parting Shot,Taunt,Fake Out,Grimmsnarl-Gmax,Dragapult,Tapu Fini,Necrozma-Dusk-Mane,Zapdos
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Electroweb,Eerie Impulse,Thunderbolt,Protect,Charizard-Gmax,Groudon,Venusaur-Gmax,Umbreon,Incineroar
+Charizard-Gmax,Life Orb ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Blast Burn,Hurricane,Heat Wave,Protect,Regieleki,Groudon,Venusaur-Gmax,Umbreon,Incineroar
+Groudon,Sitrus Berry ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Precipice Blades,Rock Slide,Swords Dance,Protect,Regieleki,Charizard-Gmax,Venusaur-Gmax,Umbreon,Incineroar
+Venusaur-Gmax,Coba Berry ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Frenzy Plant,Earth Power,Sleep Powder,Weather Ball,Regieleki,Charizard-Gmax,Groudon,Umbreon,Incineroar
+Umbreon,Leftovers ,Inner Focus,0,0,0,0,0,0,,31,31,31,31,31,31,Foul Play,Snarl,Moonlight,Yawn,Regieleki,Charizard-Gmax,Groudon,Venusaur-Gmax,Incineroar
+Incineroar,Assault Vest ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Flare Blitz,U-turn,Snarl,Regieleki,Charizard-Gmax,Groudon,Venusaur-Gmax,Umbreon
+Palkia,Lustrous Orb ,Pressure,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Spacial Rend,Hydro Pump,Earth Power,Trick Room,Ferrothorn,Grimmsnarl,Incineroar,Moltres-Galar,Thundurus
+Ferrothorn,Leftovers ,Iron Barbs,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Leech Seed,Body Press,Iron Defense,Protect,Palkia,Grimmsnarl,Incineroar,Moltres-Galar,Thundurus
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Light Screen,Reflect,Fake Tears,Spirit Break,Palkia,Ferrothorn,Incineroar,Moltres-Galar,Thundurus
+Incineroar,Figy Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fake Out,Flare Blitz,Will-O-Wisp,Parting Shot,Palkia,Ferrothorn,Grimmsnarl,Moltres-Galar,Thundurus
+Moltres-Galar,Safety Goggles ,Berserk,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fiery Wrath,Hurricane,Nasty Plot,Protect,Palkia,Ferrothorn,Grimmsnarl,Incineroar,Thundurus
+Thundurus,Sitrus Berry ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Thunderbolt,Electroweb,Eerie Impulse,Taunt,Palkia,Ferrothorn,Grimmsnarl,Incineroar,Moltres-Galar
+Lapras,Light Clay ,Water Absorb,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Hydro Pump,Freeze-Dry,Perish Song,Protect,Thundurus,Amoonguss,Hydreigon,Incineroar,Zacian
+Thundurus,Assault Vest ,Defiant,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Wild Charge,Fly,Superpower,Electroweb,Lapras,Amoonguss,Hydreigon,Incineroar,Zacian
+Amoonguss,Focus Sash ,Regenerator,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Spore,Rage Powder,Pollen Puff,Protect,Lapras,Thundurus,Hydreigon,Incineroar,Zacian
+Hydreigon,Safety Goggles ,Levitate,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Dark Pulse,Draco Meteor,Heat Wave,Nasty Plot,Lapras,Thundurus,Amoonguss,Incineroar,Zacian
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fake Out,Flare Blitz,Taunt,Parting Shot,Lapras,Thundurus,Amoonguss,Hydreigon,Zacian
+Zacian,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,0,31,31,Iron Head,Sacred Sword,Substitute,Protect,Lapras,Thundurus,Amoonguss,Hydreigon,Incineroar
+Groudon,Assault Vest ,Drought,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Precipice Blades,Fire Punch,Rock Slide,Brick Break,Venusaur-Gmax,Charizard-Gmax,Umbreon,Whimsicott,Porygon2
+Venusaur-Gmax,Focus Sash ,Chlorophyll,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Frenzy Plant,Sludge Bomb,Earth Power,Sleep Powder,Groudon,Charizard-Gmax,Umbreon,Whimsicott,Porygon2
+Charizard-Gmax,Life Orb ,Solar Power,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Blast Burn,Hurricane,Focus Blast,Protect,Groudon,Venusaur-Gmax,Umbreon,Whimsicott,Porygon2
+Umbreon,Leftovers ,Inner Focus,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Foul Play,Snarl,Moonlight,Yawn,Groudon,Venusaur-Gmax,Charizard-Gmax,Whimsicott,Porygon2
+Whimsicott,Eject Button ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Tailwind,Fake Tears,Sunny Day,Moonblast,Groudon,Venusaur-Gmax,Charizard-Gmax,Umbreon,Porygon2
+Porygon2,Eviolite ,Download,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Tri Attack,Ice Beam,Recover,Trick Room,Groudon,Venusaur-Gmax,Charizard-Gmax,Umbreon,Whimsicott
+Calyrex-Ice,Weakness Policy ,As One (Glastrier),0,0,0,0,0,0,,31,31,31,31,31,31,Glacial Lance,High Horsepower,Heavy Slam,Trick Room,Mimikyu,Torkoal,Incineroar,Amoonguss,Araquanid
+Mimikyu,Mental Herb ,Disguise,0,0,0,0,0,0,,31,31,31,31,31,31,Play Rough,Shadow Sneak,Trick Room,Will-O-Wisp,Calyrex-Ice,Torkoal,Incineroar,Amoonguss,Araquanid
+Torkoal,Charcoal ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Eruption,Heat Wave,Earth Power,Protect,Calyrex-Ice,Mimikyu,Incineroar,Amoonguss,Araquanid
+Incineroar,Safety Goggles ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Flare Blitz,Snarl,Fake Out,Parting Shot,Calyrex-Ice,Mimikyu,Torkoal,Amoonguss,Araquanid
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,,31,31,31,31,31,31,Spore,Pollen Puff,Protect,Rage Powder,Calyrex-Ice,Mimikyu,Torkoal,Incineroar,Araquanid
+Araquanid,Life Orb ,Water Bubble,0,0,0,0,0,0,,31,31,31,31,31,31,Liquidation,Leech Life,Protect,Wide Guard,Calyrex-Ice,Mimikyu,Torkoal,Incineroar,Amoonguss
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Behemoth Blade,Close Combat,Substitute,Protect,Dragapult,Porygon2,Tapu Fini,Incineroar,Glastrier
+Dragapult,Life Orb ,Clear Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Dragon Darts,Phantom Force,Fly,Dive,Zacian-Crowned,Porygon2,Tapu Fini,Incineroar,Glastrier
+Porygon2,Eviolite ,Trace,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Trick Room,Eerie Impulse,Recover,Foul Play,Zacian-Crowned,Dragapult,Tapu Fini,Incineroar,Glastrier
+Tapu Fini,Sitrus Berry ,Misty Surge,0,0,0,0,0,0,-,31,31,31,31,31,31,Icy Wind,Haze,Muddy Water,Zacian-Crowned,Dragapult,Porygon2,Incineroar,Glastrier
+Incineroar,Aguav Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fake Out,Burning Jealousy,Parting Shot,Assurance,Zacian-Crowned,Dragapult,Porygon2,Tapu Fini,Glastrier
+Glastrier,White Herb ,Chilling Neigh,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Icicle Crash,High Horsepower,Close Combat,Protect,Zacian-Crowned,Dragapult,Porygon2,Tapu Fini,Incineroar
+Tornadus,Wacan Berry ,Prankster ,0,0,0,0,0,0,,31,31,31,31,31,31,Tailwind,Taunt,Hurricane,Rain Dance,Kyogre,Incineroar,Amoonguss,Kartana,Landorus-Therian
+Kyogre,Mystic Water ,Drizzle ,0,0,0,0,0,0,,31,31,31,31,31,31,Water Spout,Origin Pulse,Thunder,Protect,Tornadus,Incineroar,Amoonguss,Kartana,Landorus-Therian
+Incineroar,Sitrus Berry ,Intimidate ,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Snarl,Parting Shot,Flare Blitz,Tornadus,Kyogre,Amoonguss,Kartana,Landorus-Therian
+Amoonguss,Coba Berry ,Regenerator ,0,0,0,0,0,0,,31,31,31,31,31,31,Spore,Rage Powder,Sludge Bomb,Protect,Tornadus,Kyogre,Incineroar,Kartana,Landorus-Therian
+Kartana,Assault Vest ,Beast Boost ,0,0,0,0,0,0,,31,31,31,31,31,31,Leaf Blade,Sacred Sword,Aerial Ace,Smart Strike,Tornadus,Kyogre,Incineroar,Amoonguss,Landorus-Therian
+Landorus-Therian,Lum Berry ,Intimidate ,0,0,0,0,0,0,,31,31,31,31,31,31,Earthquake,Rock Slide,Fly,Swords Dance,Tornadus,Kyogre,Incineroar,Amoonguss,Kartana
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Docile,31,31,31,31,31,31,Protect,Sacred Sword,Swords Dance,Behemoth Blade,Politoed,Kingdra,Gothitelle,Snorlax-Gmax,Ferrothorn
+Politoed,Sitrus Berry ,Drizzle,0,0,0,0,0,0,Docile,31,31,31,31,31,31,Scald,Perish Song,Protect,Helping Hand,Zacian-Crowned,Kingdra,Gothitelle,Snorlax-Gmax,Ferrothorn
+Kingdra,Safety Goggles ,Swift Swim,0,0,0,0,0,0,Docile,31,0,31,31,31,31,Hurricane,Scald,Protect,Draco Meteor,Zacian-Crowned,Politoed,Gothitelle,Snorlax-Gmax,Ferrothorn
+Gothitelle,Focus Sash ,Shadow Tag,0,0,0,0,0,0,Docile,31,31,31,31,31,31,Protect,Psychic,Fake Out,Trick Room,Zacian-Crowned,Politoed,Kingdra,Snorlax-Gmax,Ferrothorn
+Snorlax-Gmax,Figy Berry ,Gluttony,0,0,0,0,0,0,Docile,31,31,31,31,31,31,Darkest Lariat,Belly Drum,Double-Edge,Yawn,Zacian-Crowned,Politoed,Kingdra,Gothitelle,Ferrothorn
+Ferrothorn,Assault Vest ,Iron Barbs,0,0,0,0,0,0,Docile,31,31,31,31,31,31,Knock Off,Gyro Ball,Body Press,Power Whip,Zacian-Crowned,Politoed,Kingdra,Gothitelle,Snorlax-Gmax
+Stakataka,Life Orb ,Beast Boost,0,0,0,0,4,0,Lonely,31,31,17,31,31,0,Gyro Ball,Rock Slide,Trick Room,Substitute,Calyrex-Shadow,Whimsicott,Thundurus,Urshifu-Rapid-Strike-Gmax,Indeedee-F
+Calyrex-Shadow,Focus Sash ,As One (Spectrier),0,0,4,0,0,0,Timid,31,0,31,31,31,31,Astral Barrage,Draining Kiss,Expanding Force,Trick Room,Stakataka,Whimsicott,Thundurus,Urshifu-Rapid-Strike-Gmax,Indeedee-F
+Whimsicott,Eject Button ,Prankster,0,0,4,4,0,0,Timid,31,0,31,31,31,31,Helping Hand,Dazzling Gleam,Tailwind,Switcheroo,Stakataka,Calyrex-Shadow,Thundurus,Urshifu-Rapid-Strike-Gmax,Indeedee-F
+Thundurus,Assault Vest ,Defiant,0,0,4,0,4,0,Serious,31,31,31,31,31,31,Lash Out,Wild Charge,Fly,Superpower,Stakataka,Calyrex-Shadow,Whimsicott,Urshifu-Rapid-Strike-Gmax,Indeedee-F
+Urshifu-Rapid-Strike-Gmax,Choice Band ,Unseen Fist,4,0,0,0,0,0,Jolly,31,31,31,31,31,31,Aqua Jet,Surging Strikes,Detect,Close Combat,Stakataka,Calyrex-Shadow,Whimsicott,Thundurus,Indeedee-F
+Indeedee-F,Iapapa Berry ,Psychic Surge,0,0,0,0,4,0,Bold,31,0,31,31,31,31,Expanding Force,Follow Me,Protect,Helping Hand,Stakataka,Calyrex-Shadow,Whimsicott,Thundurus,Urshifu-Rapid-Strike-Gmax
+Groudon,Weakness Policy ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Precipice Blades,Rock Slide,Fire Punch,Protect,Incineroar,Venusaur-Gmax,Charizard-Gmax,Comfey,Umbreon
+Incineroar,Figy Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Flare Blitz,Parting Shot,Taunt,Groudon,Venusaur-Gmax,Charizard-Gmax,Comfey,Umbreon
+Venusaur-Gmax,Life Orb ,Chlorophyll,0,0,0,0,0,0,,31,31,31,31,31,31,Leaf Storm,Sludge Bomb,Weather Ball,Sleep Powder,Groudon,Incineroar,Charizard-Gmax,Comfey,Umbreon
+Charizard-Gmax,Lum Berry ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Blast Burn,Air Slash,Heat Wave,Protect,Groudon,Incineroar,Venusaur-Gmax,Comfey,Umbreon
+Comfey,Focus Sash ,Triage,0,0,0,0,0,0,,31,31,31,31,31,31,Giga Drain,Floral Healing,Taunt,Protect,Groudon,Incineroar,Venusaur-Gmax,Charizard-Gmax,Umbreon
+Umbreon,Leftovers ,Inner Focus,0,0,0,0,0,0,,31,31,31,31,31,31,Foul Play,Snarl,Yawn,Moonlight,Groudon,Incineroar,Venusaur-Gmax,Charizard-Gmax,Comfey
+Solgaleo,Weakness Policy ,Full Metal Body,0,0,0,0,0,0,,31,31,31,31,31,31,Sunsteel Strike,Rock Slide,Earthquake,Protect,Grimmsnarl,Incineroar,Spectrier,Zapdos,Tapu Fini
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Reflect,Light Screen,Sucker Punch,Spirit Break,Solgaleo,Incineroar,Spectrier,Zapdos,Tapu Fini
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Fake Out,Flare Blitz,Taunt,Parting Shot,Solgaleo,Grimmsnarl,Spectrier,Zapdos,Tapu Fini
+Spectrier,Focus Sash ,Grim Neigh,0,0,0,0,0,0,,31,31,31,31,31,31,Shadow Ball,Snarl,Bulldoze,Will-O-Wisp,Solgaleo,Grimmsnarl,Incineroar,Zapdos,Tapu Fini
+Zapdos,Assault Vest ,Static,0,0,0,0,0,0,,31,31,31,31,31,31,Thunderbolt,Hurricane,Heat Wave,Volt Switch,Solgaleo,Grimmsnarl,Incineroar,Spectrier,Tapu Fini
+Tapu Fini,Leftovers ,Misty Surge,0,0,0,0,0,0,,31,31,31,31,31,31,Moonblast,Muddy Water,Calm Mind,Protect,Solgaleo,Grimmsnarl,Incineroar,Spectrier,Zapdos
+Kyogre,Mystic Water ,Drizzle,0,0,0,0,0,0,,31,31,31,31,31,31,Water Spout,Ice Beam,Thunder,Protect,Tornadus,Regieleki,Landorus-Therian,Ferrothorn,Dragapult
+Tornadus,Focus Sash ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Tailwind,Rain Dance,Protect,Hurricane,Kyogre,Regieleki,Landorus-Therian,Ferrothorn,Dragapult
+Regieleki,Magnet ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Thunderbolt,Electroweb,Protect,Thunder Cage,Kyogre,Tornadus,Landorus-Therian,Ferrothorn,Dragapult
+Landorus-Therian,Assault Vest ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Earthquake,Rock Slide,Fly,Brick Break,Kyogre,Tornadus,Regieleki,Ferrothorn,Dragapult
+Ferrothorn,Leftovers ,Iron Barbs,0,0,0,0,0,0,,31,31,31,31,31,31,Body Press,Leech Seed,Iron Defense,Protect,Kyogre,Tornadus,Regieleki,Landorus-Therian,Dragapult
+Dragapult,Life Orb ,Clear Body,0,0,0,0,0,0,,31,31,31,31,31,31,Phantom Force,Dragon Darts,Fly,Protect,Kyogre,Tornadus,Regieleki,Landorus-Therian,Ferrothorn
+Yveltal,Assault Vest ,Dark Aura,0,0,0,0,0,0,,31,31,31,31,31,31,Oblivion Wing,Dark Pulse,Snarl,Foul Play,Porygon2,Metagross,Incineroar,Grimmsnarl,Regieleki
+Porygon2,Eviolite ,Trace,0,0,0,0,0,0,,31,31,31,31,31,31,Foul Play,Eerie Impulse,Trick Room,Recover,Yveltal,Metagross,Incineroar,Grimmsnarl,Regieleki
+Metagross,Weakness Policy ,Clear Body,0,0,0,0,0,0,,31,31,31,31,31,31,Iron Head,Ice Punch,Stomping Tantrum,Protect,Yveltal,Porygon2,Incineroar,Grimmsnarl,Regieleki
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Flare Blitz,Will-O-Wisp,Fake Out,Parting Shot,Yveltal,Porygon2,Metagross,Grimmsnarl,Regieleki
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Spirit Break,Reflect,Light Screen,Fake Tears,Yveltal,Porygon2,Metagross,Incineroar,Regieleki
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,,31,0,31,31,31,31,Volt Switch,Thunderbolt,Electroweb,Protect,Yveltal,Porygon2,Metagross,Incineroar,Grimmsnarl
+Solgaleo,Weakness Policy ,Full Metal Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Sunsteel Strike,Earthquake,Rock Slide,Protect,Grimmsnarl-Gmax,Tapu Fini,Sableye,Porygon2,Rotom-Heat
+Grimmsnarl-Gmax,Light Clay ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Spirit Break,Sucker Punch,Reflect,Light Screen,Solgaleo,Tapu Fini,Sableye,Porygon2,Rotom-Heat
+Tapu Fini,Leftovers ,Misty Surge,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Muddy Water,Moonblast,Calm Mind,Protect,Solgaleo,Grimmsnarl-Gmax,Sableye,Porygon2,Rotom-Heat
+Sableye,Focus Sash ,Prankster,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Will-O-Wisp,Shadow Sneak,Quash,Taunt,Solgaleo,Grimmsnarl-Gmax,Tapu Fini,Porygon2,Rotom-Heat
+Porygon2,Eviolite ,Trace,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Eerie Impulse,Foul Play,Trick Room,Recover,Solgaleo,Grimmsnarl-Gmax,Tapu Fini,Sableye,Rotom-Heat
+Rotom-Heat,Safety Goggles ,Levitate,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Nasty Plot,Thunderbolt,Overheat,Protect,Solgaleo,Grimmsnarl-Gmax,Tapu Fini,Sableye,Porygon2
+Palkia,Life Orb ,Telepathy,0,0,0,0,0,0,,31,0,31,31,31,31,Protect,Hydro Pump,Spacial Rend,Earth Power,Landorus-Therian,Ferrothorn,Indeedee-F,Regieleki,Grimmsnarl
+Landorus-Therian,Lum Berry ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Fly,Earthquake,Rock Slide,Swords Dance,Palkia,Ferrothorn,Indeedee-F,Regieleki,Grimmsnarl
+Ferrothorn,Leftovers ,Iron Barbs,0,0,0,0,0,0,,31,0,31,31,31,31,Protect,Leech Seed,Iron Defense,Body Press,Palkia,Landorus-Therian,Indeedee-F,Regieleki,Grimmsnarl
+Indeedee-F,Safety Goggles ,Own Tempo,0,0,0,0,0,0,,31,0,31,31,31,31,Follow Me,Helping Hand,Mystical Fire,Expanding Force,Palkia,Landorus-Therian,Ferrothorn,Regieleki,Grimmsnarl
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,,31,0,31,31,31,31,Protect,Volt Switch,Electroweb,Thunderbolt,Palkia,Landorus-Therian,Ferrothorn,Indeedee-F,Grimmsnarl
+Grimmsnarl,Light Clay ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Reflect,Light Screen,Taunt,Spirit Break,Palkia,Landorus-Therian,Ferrothorn,Indeedee-F,Regieleki
+Venusaur-Gmax,Life Orb ,Chlorophyll,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Leaf Storm,Sludge Bomb,Earth Power,Sleep Powder,Torkoal,Whimsicott,Moltres-Galar,Zacian-Crowned,Landorus-Therian
+Torkoal,Charcoal ,Drought,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Eruption,Burning Jealousy,Body Press,Protect,Venusaur-Gmax,Whimsicott,Moltres-Galar,Zacian-Crowned,Landorus-Therian
+Whimsicott,Focus Sash ,Prankster,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Moonblast,Taunt,Tailwind,Helping Hand,Venusaur-Gmax,Torkoal,Moltres-Galar,Zacian-Crowned,Landorus-Therian
+Moltres-Galar,Weakness Policy ,Berserk,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Nasty Plot,Air Slash,Fiery Wrath,Protect,Venusaur-Gmax,Torkoal,Whimsicott,Zacian-Crowned,Landorus-Therian
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Substitute,Behemoth Blade,Sacred Sword,Protect,Venusaur-Gmax,Torkoal,Whimsicott,Moltres-Galar,Landorus-Therian
+Landorus-Therian,Assault Vest ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Earthquake,Fly,Rock Slide,U-turn,Venusaur-Gmax,Torkoal,Whimsicott,Moltres-Galar,Zacian-Crowned
+Groudon,White Herb ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Precipice Blades,Rock Slide,Swords Dance,Protect,Venusaur-Gmax,Charizard-Gmax,Whimsicott,Urshifu-Gmax,Torkoal
+Venusaur-Gmax,Coba Berry ,Chlorophyll ,0,0,0,0,0,0,,31,31,31,31,31,31,Sludge Bomb,Leaf Storm,Earth Power,Sleep Powder,Groudon,Charizard-Gmax,Whimsicott,Urshifu-Gmax,Torkoal
+Charizard-Gmax,Life Orb ,Solar Power ,0,0,0,0,0,0,Timid,31,31,31,31,31,31,Heat Wave,Air Slash,Blast Burn,Protect,Groudon,Venusaur-Gmax,Whimsicott,Urshifu-Gmax,Torkoal
+Whimsicott,Focus Sash ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Tailwind,Helping Hand,Moonblast,Sunny Day,Groudon,Venusaur-Gmax,Charizard-Gmax,Urshifu-Gmax,Torkoal
+Urshifu-Gmax,Choice Band ,Unseen Fist,0,0,0,0,0,0,,31,31,31,31,31,31,Wicked Blow,Sucker Punch,Close Combat,Poison Jab,Groudon,Venusaur-Gmax,Charizard-Gmax,Whimsicott,Torkoal
+Torkoal,Charcoal ,Drought,0,0,0,0,0,0,,31,31,31,31,31,31,Eruption,Heat Wave,Earth Power,Protect,Groudon,Venusaur-Gmax,Charizard-Gmax,Whimsicott,Urshifu-Gmax
+Dragapult,Life Orb ,Clear Body,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Surf,Dragon Darts,Phantom Force,Fly,Zacian-Crowned,Incineroar,Urshifu-Rapid-Strike,Amoonguss,Coalossal
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Substitute,Behemoth Blade,Close Combat,Dragapult,Incineroar,Urshifu-Rapid-Strike,Amoonguss,Coalossal
+Incineroar,Sitrus Berry ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fake Out,Flare Blitz,Assurance,Parting Shot,Dragapult,Zacian-Crowned,Urshifu-Rapid-Strike,Amoonguss,Coalossal
+Urshifu-Rapid-Strike,Focus Sash ,Unseen Fist,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Protect,Aqua Jet,Surging Strikes,Close Combat,Dragapult,Zacian-Crowned,Incineroar,Amoonguss,Coalossal
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,,31,0,31,31,31,31,Protect,Rage Powder,Spore,Pollen Puff,Dragapult,Zacian-Crowned,Incineroar,Urshifu-Rapid-Strike,Coalossal
+Coalossal,Weakness Policy ,Steam Engine,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Protect,Heat Wave,Meteor Beam,Solar Beam,Dragapult,Zacian-Crowned,Incineroar,Urshifu-Rapid-Strike,Amoonguss
+Zacian-Crowned,Rusted Sword ,Intrepid Sword,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Behemoth Blade,Sacred Sword,Swords Dance,Protect,Lapras-Gmax,Ferrothorn,Raichu,Landorus-Therian,Hydreigon
+Lapras-Gmax,Light Clay ,Water Absorb,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Freeze-Dry,Hydro Pump,Perish Song,Protect,Zacian-Crowned,Ferrothorn,Raichu,Landorus-Therian,Hydreigon
+Ferrothorn,Leftovers,Iron Barb,252,0,0,0,0,0,Serious,31,0,31,31,31,0,Leech Seed ,Body Press ,Iron Defense ,Protect ,Zacian-Crowned,Lapras-Gmax,Raichu,Landorus-Therian,Hydreigon
+Raichu,Focus Sash ,Lightning Rod,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Fake Out,Nuzzle,Eerie Impulse,Volt Switch,Zacian-Crowned,Lapras-Gmax,Ferrothorn,Landorus-Therian,Hydreigon
+Landorus-Therian,Assault Vest ,Intimidate,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Earthquake,Fly,U-turn,Rock Slide,Zacian-Crowned,Lapras-Gmax,Ferrothorn,Raichu,Hydreigon
+Hydreigon,Safety Goggles ,Levitate,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Draco Meteor,Dark Pulse,Nasty Plot,Protect,Zacian-Crowned,Lapras-Gmax,Ferrothorn,Raichu,Landorus-Therian
+Solgaleo,Weakness Policy ,Full Metal Bod,0,0,0,0,0,0,,31,31,31,31,31,31,Sunsteel Strike,Earthquake,Rock Slide,Protect,Tornadus,Urshifu-Gmax,Entei,Zapdos,Tapu Fini
+Tornadus,Wacan Berry ,Prankste,0,0,0,0,0,0,,31,31,31,31,31,31,Air Slash,Taunt,Tailwind,Icy Wind,Solgaleo,Urshifu-Gmax,Entei,Zapdos,Tapu Fini
+Urshifu-Gmax,Focus Sash ,Unseen Fis,0,0,0,0,0,0,,31,31,31,31,31,31,Wicked Blow,Close Combat,Sucker Punch,Detect,Solgaleo,Tornadus,Entei,Zapdos,Tapu Fini
+Entei,Assault Vest ,Inner Focus,0,0,0,0,0,0,,31,31,31,31,31,31,Sacred Fire,Bulldoze,Snarl,Extreme Speed,Solgaleo,Tornadus,Urshifu-Gmax,Zapdos,Tapu Fini
+Zapdos,Life Orb ,Static,0,0,0,0,0,0,,31,31,31,31,31,31,Hurricane,Thunderbolt,Heat Wave,Detect,Solgaleo,Tornadus,Urshifu-Gmax,Entei,Tapu Fini
+Tapu Fini,Wiki Berry ,Misty Surge ,0,0,0,0,0,0,,31,31,31,31,31,31,Moonblast,Muddy Water,Calm Mind,Protect,Solgaleo,Tornadus,Urshifu-Gmax,Entei,Zapdos
+Xerneas,Power Herb ,Fairy Aura,0,0,0,0,0,0,,31,31,31,31,31,31,Moonblast,Dazzling Gleam,Geomancy,Protect,Charizard-Gmax,Regieleki,Sableye,Amoonguss,Landorus-Therian
+Charizard-Gmax,Life Orb ,Solar Power,0,0,0,0,0,0,,31,31,31,31,31,31,Blast Burn,Heat Wave,Hurricane,Protect,Xerneas,Regieleki,Sableye,Amoonguss,Landorus-Therian
+Regieleki,Focus Sash ,Transistor,0,0,0,0,0,0,,31,31,31,31,31,31,Thunderbolt,Electroweb,Volt Switch,Protect,Xerneas,Charizard-Gmax,Sableye,Amoonguss,Landorus-Therian
+Sableye,Safety Goggles ,Prankster,0,0,0,0,0,0,,31,31,31,31,31,31,Quash,Will-O-Wisp,Foul Play,Sunny Day,Xerneas,Charizard-Gmax,Regieleki,Amoonguss,Landorus-Therian
+Amoonguss,Coba Berry ,Regenerator,0,0,0,0,0,0,,31,31,31,31,31,31,Protect,Pollen Puff,Rage Powder,Spore,Xerneas,Charizard-Gmax,Regieleki,Sableye,Landorus-Therian
+Landorus-Therian,Assault Vest ,Intimidate,0,0,0,0,0,0,,31,31,31,31,31,31,Earthquake,Rock Slide,Fly,U-turn,Xerneas,Charizard-Gmax,Regieleki,Sableye,Amoonguss
+Mimikyu,Safety Goggles ,Disguise,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Shadow Sneak,Taunt,Will-O-Wisp,Play Rough,Celesteela,Regieleki,Urshifu-Gmax,Palkia,Whimsicott
+Celesteela,Power Herb ,Beast Boost,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Flash Cannon,Air Slash,Protect,Meteor Beam,Mimikyu,Regieleki,Urshifu-Gmax,Palkia,Whimsicott
+Regieleki,Magnet ,Transistor,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Protect,Electroweb,Thunderbolt,Electro Ball,Mimikyu,Celesteela,Urshifu-Gmax,Palkia,Whimsicott
+Urshifu-Gmax,Choice Band ,Unseen Fist,0,0,0,0,0,0,Serious,31,31,31,31,31,31,Poison Jab,Wicked Blow,Close Combat,Sucker Punch,Mimikyu,Celesteela,Regieleki,Palkia,Whimsicott
+Palkia,Life Orb ,Telepathy,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Thunderbolt,Hydro Pump,Earth Power,Ice Beam,Mimikyu,Celesteela,Regieleki,Urshifu-Gmax,Whimsicott
+Whimsicott,Focus Sash ,Prankster,0,0,0,0,0,0,Serious,31,0,31,31,31,31,Protect,Fake Tears,Tailwind,Moonblast,Mimikyu,Celesteela,Regieleki,Urshifu-Gmax,Palkia
