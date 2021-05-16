@@ -53,11 +53,6 @@ raw = open("raw.csv", "r")
 reader = csv.reader(raw)
 next(reader)
 
-print("N. of teams will be downloaded: " + str(len(list(reader))))
-ans = input("Do you want to continue? [y/n]: ")
-if ans != 'y':
-    sys.exit()
-
 i=1
 col = -1 #Select the column with the link
 for row in reader:
@@ -76,4 +71,4 @@ for row in reader:
 
 archive.close()
 
-#os.system('pause')
+os.system('pause')
