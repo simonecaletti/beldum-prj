@@ -1,7 +1,7 @@
 # Welcome to the BELDUM project!
 
-The Beldum project has the goal to code a complete set of tools for data analysis of Pokémon VGC competitons from a collection of ETT files.
-The scripts are written in Pyhton3 using famous libraries in the data analysis panorama such as Pandas, Numpy and Matplotlib.
+The Beldum is a one-night project I made just for fun. It has the ambitious goal to give a complete set of tools for data analysis of Pokémon VGC competitons from a collection of teams in the format of ETT files.
+Scripts are written in Pyhton3 using Pandas, Numpy and Matplotlib. The GUI doesn't exist but you can work with data because the last steps of the workflow have been written into Colaboratory notebook.
 
 ![Logo](https://www.poketown.net/public/poketown/media/global-link/374.png)
 ## Releases
